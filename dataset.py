@@ -174,9 +174,7 @@ def mixup_criterion(criterion, pred, y_a, y_b, lam):
     return lam * criterion(pred, y_a) + (1 - lam) * criterion(pred, y_b)
 
 
-def get_dataloader(data_dir, batch_size=32, shuffle=True, transform=None, is_train=True, num_workers=None):
-    if num_workers is None:
-        num_workers = 2 if torch.cuda.is_available() else 1
+def get_dataloader(data_dir, batch_size=32, shuffle=True, transform=None, is_train=True, num_workers=2):
     
     dataset = MosquitoDataset(data_dir, transform=transform, is_train=is_train)
 
