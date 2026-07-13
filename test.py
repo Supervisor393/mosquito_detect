@@ -86,7 +86,8 @@ def main():
     test_dataset = MosquitoDataset(os.path.join(args.data_dir, "test"))
     print(f"Test samples: {len(test_dataset)}")
 
-    test_loader = DataLoader(test_dataset, batch_size=config.BATCH_SIZE, shuffle=False, collate_fn=collate_fn, num_workers=4)
+    num_workers = 2 if torch.cuda.is_available() else 1
+    test_loader = DataLoader(test_dataset, batch_size=config.BATCH_SIZE, shuffle=False, collate_fn=collate_fn, num_workers=num_workers)
 
     results = test(model, test_loader, device)
 
