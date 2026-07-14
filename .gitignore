@@ -1,12 +1,10 @@
 data/audio/
-data/ood/
 data/train/
 data/val/
 data/test/
 data/raw/
 trash/
 
-*.wav
 *.flac
 *.mp3
 *.ogg
