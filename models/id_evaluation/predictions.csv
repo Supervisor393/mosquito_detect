@@ -1,0 +1,1860 @@
+sample_id,path,source_name,source_seen_in_train,label,mosquito_probability,prediction,correct
+1025,data\test\mosquito\1025.wav,R4_cleaned recording_TEL_19-10-17.wav,True,1,0.9933755993843079,1,True
+1042,data\test\mosquito\1042.wav,R4_cleaned recording_TEL_20-10-17.wav,True,1,0.9891297817230225,1,True
+1056,data\test\mosquito\1056.wav,R4_cleaned recording_TEL_20-10-17.wav,True,1,0.984458327293396,1,True
+1060,data\test\mosquito\1060.wav,R4_cleaned recording_TEL_20-10-17.wav,True,1,0.9795235395431519,1,True
+1074,data\test\mosquito\1074.wav,R4_cleaned recording_TEL_20-10-17.wav,True,1,0.9884458780288696,1,True
+1088,data\test\mosquito\1088.wav,R4_cleaned recording_TEL_20-10-17.wav,True,1,0.9915809035301208,1,True
+1090,data\test\mosquito\1090.wav,R4_cleaned recording_TEL_20-10-17.wav,True,1,0.9885900616645813,1,True
+1104,data\test\mosquito\1104.wav,R4_cleaned recording_TEL_20-10-17.wav,True,1,0.9892370104789734,1,True
+1106,data\test\mosquito\1106.wav,R4_cleaned recording_TEL_20-10-17.wav,True,1,0.9904308915138245,1,True
+1108,data\test\mosquito\1108.wav,R4_cleaned recording_TEL_20-10-17.wav,True,1,0.9924739003181458,1,True
+1126,data\test\mosquito\1126.wav,R4_cleaned recording_TEL_20-10-17.wav,True,1,0.9534266591072083,1,True
+114,data\test\mosquito\114.wav,CDC_Ae-albopictus_labelled_800.wav,True,1,0.9582825303077698,1,True
+1140,data\test\mosquito\1140.wav,R4_cleaned recording_TEL_20-10-17.wav,True,1,0.9925763607025146,1,True
+1150,data\test\mosquito\1150.wav,R4_cleaned recording_TEL_20-10-17.wav,True,1,0.9924250841140747,1,True
+1156,data\test\mosquito\1156.wav,R4_cleaned recording_TEL_20-10-17.wav,True,1,0.9773443341255188,1,True
+1158,data\test\mosquito\1158.wav,R4_cleaned recording_TEL_20-10-17.wav,True,1,0.9916175007820129,1,True
+1160,data\test\mosquito\1160.wav,R4_cleaned recording_TEL_20-10-17.wav,True,1,0.9774963855743408,1,True
+1177,data\test\mosquito\1177.wav,R4_cleaned recording_TEL_23-10-17.wav,True,1,0.9914873838424683,1,True
+1189,data\test\mosquito\1189.wav,R4_cleaned recording_TEL_23-10-17.wav,True,1,0.9916301369667053,1,True
+1191,data\test\mosquito\1191.wav,R4_cleaned recording_TEL_23-10-17.wav,True,1,0.9868454933166504,1,True
+1193,data\test\mosquito\1193.wav,R4_cleaned recording_TEL_23-10-17.wav,True,1,0.9898854494094849,1,True
+1195,data\test\mosquito\1195.wav,R4_cleaned recording_TEL_23-10-17.wav,True,1,0.99365234375,1,True
+1203,data\test\mosquito\1203.wav,R4_cleaned recording_TEL_23-10-17.wav,True,1,0.9831074476242065,1,True
+1209,data\test\mosquito\1209.wav,R4_cleaned recording_TEL_23-10-17.wav,True,1,0.9886869192123413,1,True
+1219,data\test\mosquito\1219.wav,R4_cleaned recording_TEL_23-10-17.wav,True,1,0.9820984601974487,1,True
+1225,data\test\mosquito\1225.wav,R4_cleaned recording_TEL_23-10-17.wav,True,1,0.9863026738166809,1,True
+1233,data\test\mosquito\1233.wav,R4_cleaned recording_TEL_23-10-17.wav,True,1,0.9845556616783142,1,True
+1237,data\test\mosquito\1237.wav,R4_cleaned recording_TEL_23-10-17.wav,True,1,0.9847789406776428,1,True
+1239,data\test\mosquito\1239.wav,R4_cleaned recording_TEL_23-10-17.wav,True,1,0.9858513474464417,1,True
+1263,data\test\mosquito\1263.wav,R4_cleaned recording_TEL_23-10-17.wav,True,1,0.7765372395515442,1,True
+1299,data\test\mosquito\1299.wav,R4_cleaned recording_TEL_23-10-17.wav,True,1,0.9765825867652893,1,True
+1301,data\test\mosquito\1301.wav,R4_cleaned recording_TEL_23-10-17.wav,True,1,0.990616500377655,1,True
+1309,data\test\mosquito\1309.wav,R4_cleaned recording_TEL_23-10-17.wav,True,1,0.9792492985725403,1,True
+131,data\test\mosquito\131.wav,CDC_Ae-albopictus_labelled_800.wav,True,1,0.9708486199378967,1,True
+1317,data\test\mosquito\1317.wav,R4_cleaned recording_TEL_23-10-17.wav,True,1,0.9899649024009705,1,True
+1319,data\test\mosquito\1319.wav,R4_cleaned recording_TEL_23-10-17.wav,True,1,0.9888351559638977,1,True
+1321,data\test\mosquito\1321.wav,R4_cleaned recording_TEL_23-10-17.wav,True,1,0.9718432426452637,1,True
+1333,data\test\mosquito\1333.wav,R4_cleaned recording_TEL_23-10-17.wav,True,1,0.9926573634147644,1,True
+1339,data\test\mosquito\1339.wav,R4_cleaned recording_TEL_23-10-17.wav,True,1,0.9898928999900818,1,True
+1345,data\test\mosquito\1345.wav,R4_cleaned recording_TEL_23-10-17.wav,True,1,0.9943141341209412,1,True
+1351,data\test\mosquito\1351.wav,R4_cleaned recording_TEL_23-10-17.wav,True,1,0.9893010258674622,1,True
+1356,data\test\mosquito\1356.wav,R4_cleaned recording_TEL_24-10-17.wav,True,1,0.9726632833480835,1,True
+1368,data\test\mosquito\1368.wav,R4_cleaned recording_TEL_24-10-17.wav,True,1,0.9539567232131958,1,True
+1372,data\test\mosquito\1372.wav,R4_cleaned recording_TEL_24-10-17.wav,True,1,0.9861882328987122,1,True
+1386,data\test\mosquito\1386.wav,R4_cleaned recording_TEL_24-10-17.wav,True,1,0.9650061130523682,1,True
+1417,data\test\mosquito\1417.wav,R4_cleaned recording_TEL_24-10-17.wav,True,1,0.9874534010887146,1,True
+1419,data\test\mosquito\1419.wav,R4_cleaned recording_TEL_24-10-17.wav,True,1,0.9831539988517761,1,True
+1433,data\test\mosquito\1433.wav,R4_cleaned recording_TEL_24-10-17.wav,True,1,0.86365807056427,1,True
+1449,data\test\mosquito\1449.wav,R4_cleaned recording_TEL_24-10-17.wav,True,1,0.9821419715881348,1,True
+1451,data\test\mosquito\1451.wav,R4_cleaned recording_TEL_24-10-17.wav,True,1,0.9909070730209351,1,True
+1471,data\test\mosquito\1471.wav,R4_cleaned recording_TEL_24-10-17.wav,True,1,0.981340765953064,1,True
+1477,data\test\mosquito\1477.wav,R4_cleaned recording_TEL_24-10-17.wav,True,1,0.982238233089447,1,True
+1491,data\test\mosquito\1491.wav,R4_cleaned recording_TEL_24-10-17.wav,True,1,0.9240651726722717,1,True
+1501,data\test\mosquito\1501.wav,R4_cleaned recording_TEL_24-10-17.wav,True,1,0.9901536107063293,1,True
+1523,data\test\mosquito\1523.wav,R4_cleaned recording_TEL_24-10-17.wav,True,1,0.9889481067657471,1,True
+1533,data\test\mosquito\1533.wav,R4_cleaned recording_TEL_24-10-17.wav,True,1,0.9920502305030823,1,True
+154,data\test\mosquito\154.wav,CDC_Ae-albopictus_labelled_800.wav,True,1,0.9758031368255615,1,True
+1543,data\test\mosquito\1543.wav,R4_cleaned recording_TEL_24-10-17.wav,True,1,0.9809581637382507,1,True
+1547,data\test\mosquito\1547.wav,R4_cleaned recording_TEL_24-10-17.wav,True,1,0.9820588231086731,1,True
+1549,data\test\mosquito\1549.wav,R4_cleaned recording_TEL_24-10-17.wav,True,1,0.9787473678588867,1,True
+1555,data\test\mosquito\1555.wav,R4_cleaned recording_TEL_24-10-17.wav,True,1,0.9830787181854248,1,True
+1561,data\test\mosquito\1561.wav,R4_cleaned recording_TEL_24-10-17.wav,True,1,0.9488804340362549,1,True
+1564,data\test\mosquito\1564.wav,R4_cleaned recording_TEL_25-10-17.wav,True,1,0.07262953370809555,0,False
+1576,data\test\mosquito\1576.wav,R4_cleaned recording_TEL_25-10-17.wav,True,1,0.9935259819030762,1,True
+1592,data\test\mosquito\1592.wav,R4_cleaned recording_TEL_25-10-17.wav,True,1,0.9884001016616821,1,True
+1596,data\test\mosquito\1596.wav,R4_cleaned recording_TEL_25-10-17.wav,True,1,0.9564009308815002,1,True
+1610,data\test\mosquito\1610.wav,R4_cleaned recording_TEL_25-10-17.wav,True,1,0.991671621799469,1,True
+1615,data\test\mosquito\1615.wav,R4_cleaned recording_TEL_25-10-17.wav,True,1,0.9818783402442932,1,True
+1623,data\test\mosquito\1623.wav,R4_cleaned recording_TEL_25-10-17.wav,True,1,0.9828124642372131,1,True
+1627,data\test\mosquito\1627.wav,R4_cleaned recording_TEL_25-10-17.wav,True,1,0.9801247119903564,1,True
+1631,data\test\mosquito\1631.wav,R4_cleaned recording_TEL_25-10-17.wav,True,1,0.9675537943840027,1,True
+1633,data\test\mosquito\1633.wav,R4_cleaned recording_TEL_25-10-17.wav,True,1,0.9858589768409729,1,True
+1645,data\test\mosquito\1645.wav,R4_cleaned recording_TEL_25-10-17.wav,True,1,0.9827339053153992,1,True
+1656,data\test\mosquito\1656.wav,R4_cleaned recording_TEL_25-10-17.wav,True,1,0.9943642616271973,1,True
+1662,data\test\mosquito\1662.wav,R4_cleaned recording_TEL_25-10-17.wav,True,1,0.9440906643867493,1,True
+1664,data\test\mosquito\1664.wav,R4_cleaned recording_TEL_25-10-17.wav,True,1,0.9895316362380981,1,True
+167,data\test\mosquito\167.wav,CDC_An-albimanus_labelled_800.wav,True,1,0.9317418336868286,1,True
+1700,data\test\mosquito\1700.wav,R4_cleaned recording_TEL_25-10-17.wav,True,1,0.9902050495147705,1,True
+171,data\test\mosquito\171.wav,CDC_An-albimanus_labelled_800.wav,True,1,0.8073084354400635,1,True
+1712,data\test\mosquito\1712.wav,R4_cleaned recording_TEL_25-10-17.wav,True,1,0.9859985113143921,1,True
+1716,data\test\mosquito\1716.wav,R4_cleaned recording_TEL_25-10-17.wav,True,1,0.9772104620933533,1,True
+173,data\test\mosquito\173.wav,CDC_An-albimanus_labelled_800.wav,True,1,0.9775823950767517,1,True
+1734,data\test\mosquito\1734.wav,R4_cleaned recording_TEL_25-10-17.wav,True,1,0.9851289987564087,1,True
+174,data\test\mosquito\174.wav,CDC_An-albimanus_labelled_800.wav,True,1,0.8956283330917358,1,True
+1740,data\test\mosquito\1740.wav,R4_cleaned recording_TEL_25-10-17.wav,True,1,0.9909142255783081,1,True
+1748,data\test\mosquito\1748.wav,R4_cleaned recording_TEL_25-10-17.wav,True,1,0.9913076758384705,1,True
+1750,data\test\mosquito\1750.wav,R4_cleaned recording_TEL_25-10-17.wav,True,1,0.9905816316604614,1,True
+1760,data\test\mosquito\1760.wav,R4_cleaned recording_TEL_25-10-17.wav,True,1,0.9551112055778503,1,True
+1772,data\test\mosquito\1772.wav,R4_cleaned recording_TEL_25-10-17.wav,True,1,0.9568222761154175,1,True
+182,data\test\mosquito\182.wav,CDC_An-albimanus_labelled_800.wav,True,1,0.9542510509490967,1,True
+190,data\test\mosquito\190.wav,CDC_An-albimanus_labelled_800.wav,True,1,0.9816727638244629,1,True
+199886,data\test\mosquito\199886.wav,0022_norm.wav,True,1,0.15538311004638672,0,False
+199888,data\test\mosquito\199888.wav,0023_norm.wav,True,1,0.08989816904067993,0,False
+199893,data\test\mosquito\199893.wav,0024_norm.wav,True,1,0.16436128318309784,0,False
+199903,data\test\mosquito\199903.wav,0027_norm.wav,True,1,0.9781814217567444,1,True
+199919,data\test\mosquito\199919.wav,0032_norm.wav,True,1,0.9943979382514954,1,True
+199920,data\test\mosquito\199920.wav,0033_norm.wav,True,1,0.07484015077352524,0,False
+199922,data\test\mosquito\199922.wav,0033_norm.wav,True,1,0.14897480607032776,0,False
+199925,data\test\mosquito\199925.wav,0034_norm.wav,True,1,0.15928952395915985,0,False
+199933,data\test\mosquito\199933.wav,0037_norm.wav,True,1,0.2708253562450409,0,False
+199938,data\test\mosquito\199938.wav,0045_norm.wav,False,1,0.12733852863311768,0,False
+199940,data\test\mosquito\199940.wav,0049_norm.wav,True,1,0.2872714102268219,0,False
+199942,data\test\mosquito\199942.wav,0050_norm.wav,True,1,0.23989833891391754,0,False
+204,data\test\mosquito\204.wav,CDC_An-albimanus_labelled_800.wav,True,1,0.7272839546203613,1,True
+205,data\test\mosquito\205.wav,CDC_An-albimanus_labelled_800.wav,True,1,0.9852279424667358,1,True
+206578,data\test\mosquito\206578.wav,2020-11-16_18.55.02.388.wav,False,1,0.9888885617256165,1,True
+206612,data\test\mosquito\206612.wav,2020-11-18_19.30.39.067.wav,False,1,0.9888198971748352,1,True
+206667,data\test\mosquito\206667.wav,2020-11-18_19.32.25.514.wav,False,1,0.9947201013565063,1,True
+206714,data\test\mosquito\206714.wav,2020-11-19_18.53.59.035.wav,False,1,0.9961267113685608,1,True
+206785,data\test\mosquito\206785.wav,2020-11-22_19.59.42.070.wav,False,1,0.9837395548820496,1,True
+206823,data\test\mosquito\206823.wav,2020-11-25_03.29.15.736.wav,False,1,0.9936683773994446,1,True
+206824,data\test\mosquito\206824.wav,2020-11-25_04.29.15.701.wav,False,1,0.990429699420929,1,True
+206855,data\test\mosquito\206855.wav,2020-11-26_20.32.32.184.wav,False,1,0.9943159222602844,1,True
+206857,data\test\mosquito\206857.wav,2020-11-26_19.34.16.631.wav,False,1,0.9930177927017212,1,True
+206879,data\test\mosquito\206879.wav,2020-11-27_01.32.32.191.wav,True,1,0.9910076260566711,1,True
+206888,data\test\mosquito\206888.wav,2020-11-27_03.02.32.200.wav,True,1,0.9961041212081909,1,True
+206893,data\test\mosquito\206893.wav,2020-11-27_05.02.32.175.wav,False,1,0.9828417301177979,1,True
+206894,data\test\mosquito\206894.wav,2020-11-27_05.02.32.175.wav,False,1,0.8392121195793152,1,True
+206911,data\test\mosquito\206911.wav,2020-11-16_18.53.32.252.wav,True,1,0.9508601427078247,1,True
+206914,data\test\mosquito\206914.wav,2020-11-16_18.53.32.252.wav,True,1,0.984968900680542,1,True
+206920,data\test\mosquito\206920.wav,2020-11-16_18.52.27.118.wav,True,1,0.9869513511657715,1,True
+206926,data\test\mosquito\206926.wav,2020-11-16_18.52.27.118.wav,True,1,0.9946737289428711,1,True
+206944,data\test\mosquito\206944.wav,2020-11-17_20.20.32.016.wav,True,1,0.9865894317626953,1,True
+206956,data\test\mosquito\206956.wav,2020-11-17_18.51.54.165.wav,True,1,0.9918694496154785,1,True
+207011,data\test\mosquito\207011.wav,2020-11-18_21.59.17.689.wav,False,1,0.9876326322555542,1,True
+207043,data\test\mosquito\207043.wav,2020-11-19_18.53.17.637.wav,True,1,0.9670032262802124,1,True
+207046,data\test\mosquito\207046.wav,2020-11-19_19.23.22.748.wav,False,1,0.9919887185096741,1,True
+207049,data\test\mosquito\207049.wav,2020-11-19_00.57.57.060.wav,False,1,0.9958798885345459,1,True
+207057,data\test\mosquito\207057.wav,2020-11-19_02.28.48.459.wav,False,1,0.9918370842933655,1,True
+207063,data\test\mosquito\207063.wav,2020-11-19_18.53.16.283.wav,True,1,0.9379833936691284,1,True
+207067,data\test\mosquito\207067.wav,2020-11-19_18.53.16.283.wav,True,1,0.9860692024230957,1,True
+207081,data\test\mosquito\207081.wav,2020-11-19_19.23.21.391.wav,True,1,0.9926934242248535,1,True
+207088,data\test\mosquito\207088.wav,2020-11-20_19.30.25.456.wav,False,1,0.974284827709198,1,True
+207137,data\test\mosquito\207137.wav,2020-11-22_21.27.13.255.wav,False,1,0.9880844950675964,1,True
+207149,data\test\mosquito\207149.wav,2020-11-22_18.59.35.585.wav,True,1,0.9957088232040405,1,True
+207150,data\test\mosquito\207150.wav,2020-11-22_18.59.35.585.wav,True,1,0.9806812405586243,1,True
+207153,data\test\mosquito\207153.wav,2020-11-22_18.59.35.585.wav,True,1,0.9900475144386292,1,True
+207162,data\test\mosquito\207162.wav,2020-11-23_18.57.16.674.wav,False,1,0.991563081741333,1,True
+207163,data\test\mosquito\207163.wav,2020-11-23_18.57.16.674.wav,False,1,0.9930457472801208,1,True
+207173,data\test\mosquito\207173.wav,2020-11-23_18.56.50.197.wav,False,1,0.9904691576957703,1,True
+207177,data\test\mosquito\207177.wav,2020-11-23_20.56.55.327.wav,True,1,0.6488010287284851,1,True
+207179,data\test\mosquito\207179.wav,2020-11-23_21.26.55.305.wav,False,1,0.9908077120780945,1,True
+207188,data\test\mosquito\207188.wav,2020-11-23_18.57.35.857.wav,True,1,0.9927916526794434,1,True
+207199,data\test\mosquito\207199.wav,2020-11-23_18.57.35.857.wav,True,1,0.9939181804656982,1,True
+207200,data\test\mosquito\207200.wav,2020-11-23_18.57.35.857.wav,True,1,0.9918305277824402,1,True
+207204,data\test\mosquito\207204.wav,2020-11-23_19.27.40.957.wav,True,1,0.9922112226486206,1,True
+207213,data\test\mosquito\207213.wav,2020-11-23_20.57.40.982.wav,True,1,0.9920393228530884,1,True
+207219,data\test\mosquito\207219.wav,2020-11-24_18.57.27.368.wav,True,1,0.9905325174331665,1,True
+207221,data\test\mosquito\207221.wav,2020-11-24_18.57.27.368.wav,True,1,0.9925801157951355,1,True
+207224,data\test\mosquito\207224.wav,2020-11-24_19.57.32.457.wav,False,1,0.9805005788803101,1,True
+207236,data\test\mosquito\207236.wav,2020-11-25_18.59.15.644.wav,True,1,0.9741529226303101,1,True
+207246,data\test\mosquito\207246.wav,2020-11-25_18.59.15.644.wav,True,1,0.9822220206260681,1,True
+207251,data\test\mosquito\207251.wav,2020-11-25_20.28.34.826.wav,True,1,0.9891836643218994,1,True
+207261,data\test\mosquito\207261.wav,2020-11-25_19.29.40.666.wav,False,1,0.9952980875968933,1,True
+207262,data\test\mosquito\207262.wav,2020-11-25_19.29.40.666.wav,False,1,0.9843806028366089,1,True
+207264,data\test\mosquito\207264.wav,2020-11-25_23.59.40.678.wav,True,1,0.9582560658454895,1,True
+207265,data\test\mosquito\207265.wav,2020-11-25_22.59.40.666.wav,False,1,0.9891119599342346,1,True
+207281,data\test\mosquito\207281.wav,2020-11-26_18.59.26.474.wav,True,1,0.9815878868103027,1,True
+207290,data\test\mosquito\207290.wav,2020-11-26_02.58.37.400.wav,False,1,0.9950443506240845,1,True
+207307,data\test\mosquito\207307.wav,2020-11-26_19.00.33.030.wav,True,1,0.9940133690834045,1,True
+207314,data\test\mosquito\207314.wav,2020-11-16_18.52.26.989.wav,True,1,0.9780694246292114,1,True
+207339,data\test\mosquito\207339.wav,2020-11-17_00.21.40.395.wav,False,1,0.9944890737533569,1,True
+207391,data\test\mosquito\207391.wav,2020-11-19_18.50.19.447.wav,False,1,0.9962337613105774,1,True
+207415,data\test\mosquito\207415.wav,2020-11-20_03.22.39.177.wav,False,1,0.9948599338531494,1,True
+207438,data\test\mosquito\207438.wav,2020-11-23_03.27.02.469.wav,True,1,0.9908189177513123,1,True
+207441,data\test\mosquito\207441.wav,2020-11-23_03.57.02.485.wav,True,1,0.9897266030311584,1,True
+207459,data\test\mosquito\207459.wav,2020-11-23_02.57.02.470.wav,True,1,0.996136486530304,1,True
+207472,data\test\mosquito\207472.wav,2020-11-23_01.27.18.566.wav,True,1,0.9738689064979553,1,True
+207480,data\test\mosquito\207480.wav,2020-11-23_01.27.18.566.wav,True,1,0.9965343475341797,1,True
+207484,data\test\mosquito\207484.wav,2020-11-23_01.27.18.566.wav,True,1,0.9934664368629456,1,True
+207487,data\test\mosquito\207487.wav,2020-11-23_02.57.18.593.wav,True,1,0.9853208661079407,1,True
+207494,data\test\mosquito\207494.wav,2020-11-23_02.57.18.593.wav,True,1,0.9922885298728943,1,True
+207501,data\test\mosquito\207501.wav,2020-11-24_19.00.10.333.wav,True,1,0.9842922687530518,1,True
+207535,data\test\mosquito\207535.wav,2020-11-25_04.59.55.782.wav,True,1,0.9916081428527832,1,True
+207568,data\test\mosquito\207568.wav,2020-11-26_00.28.17.566.wav,False,1,0.993922233581543,1,True
+207577,data\test\mosquito\207577.wav,2020-11-26_19.02.20.271.wav,False,1,0.992466390132904,1,True
+207578,data\test\mosquito\207578.wav,2020-11-26_19.32.25.375.wav,False,1,0.9927107095718384,1,True
+207579,data\test\mosquito\207579.wav,2020-11-26_23.02.25.369.wav,False,1,0.992077112197876,1,True
+207602,data\test\mosquito\207602.wav,2020-11-27_01.02.25.375.wav,True,1,0.9911701679229736,1,True
+207606,data\test\mosquito\207606.wav,2020-11-27_01.02.25.375.wav,True,1,0.9936988353729248,1,True
+207610,data\test\mosquito\207610.wav,2020-11-27_01.32.25.370.wav,True,1,0.9863018989562988,1,True
+207616,data\test\mosquito\207616.wav,2020-11-27_01.32.25.370.wav,True,1,0.9912309646606445,1,True
+207617,data\test\mosquito\207617.wav,2020-11-27_02.02.25.375.wav,False,1,0.9787908792495728,1,True
+207618,data\test\mosquito\207618.wav,2020-11-27_02.32.25.391.wav,True,1,0.9843899607658386,1,True
+207626,data\test\mosquito\207626.wav,2020-11-27_04.02.25.398.wav,True,1,0.9788097739219666,1,True
+207628,data\test\mosquito\207628.wav,2020-11-27_04.02.25.398.wav,True,1,0.9503443837165833,1,True
+207632,data\test\mosquito\207632.wav,2020-11-27_04.32.25.356.wav,True,1,0.9820618033409119,1,True
+207637,data\test\mosquito\207637.wav,2020-11-27_03.32.25.373.wav,True,1,0.9813716411590576,1,True
+207676,data\test\mosquito\207676.wav,2020-11-16_23.22.29.488.wav,True,1,0.98867267370224,1,True
+207678,data\test\mosquito\207678.wav,2020-11-16_23.22.29.488.wav,True,1,0.9879109859466553,1,True
+207697,data\test\mosquito\207697.wav,2020-11-16_18.53.14.229.wav,True,1,0.9933866858482361,1,True
+207707,data\test\mosquito\207707.wav,2020-11-16_18.53.14.229.wav,True,1,0.9931076169013977,1,True
+207731,data\test\mosquito\207731.wav,2020-11-17_03.24.43.657.wav,False,1,0.9920138716697693,1,True
+207736,data\test\mosquito\207736.wav,2020-11-17_19.22.01.263.wav,False,1,0.9943950176239014,1,True
+207743,data\test\mosquito\207743.wav,2020-11-17_04.22.29.501.wav,False,1,0.9897303581237793,1,True
+207747,data\test\mosquito\207747.wav,2020-11-17_02.51.31.251.wav,False,1,0.9944648146629333,1,True
+207756,data\test\mosquito\207756.wav,2020-11-17_02.53.19.355.wav,True,1,0.9938306212425232,1,True
+207758,data\test\mosquito\207758.wav,2020-11-17_02.53.19.355.wav,True,1,0.9957491159439087,1,True
+207768,data\test\mosquito\207768.wav,2020-11-17_19.22.31.315.wav,True,1,0.9186001420021057,1,True
+207774,data\test\mosquito\207774.wav,2020-11-17_21.22.31.340.wav,False,1,0.9887024164199829,1,True
+207778,data\test\mosquito\207778.wav,2020-11-17_18.52.26.248.wav,True,1,0.9574488997459412,1,True
+207786,data\test\mosquito\207786.wav,2020-11-17_20.22.31.300.wav,True,1,0.9903491735458374,1,True
+207793,data\test\mosquito\207793.wav,2020-11-17_20.22.31.300.wav,True,1,0.9825708270072937,1,True
+207795,data\test\mosquito\207795.wav,2020-11-17_20.22.31.300.wav,True,1,0.9915036559104919,1,True
+207798,data\test\mosquito\207798.wav,2020-11-17_20.22.31.300.wav,True,1,0.9612448811531067,1,True
+207806,data\test\mosquito\207806.wav,2020-11-17_23.22.31.314.wav,False,1,0.993842601776123,1,True
+207809,data\test\mosquito\207809.wav,2020-11-18_01.55.24.843.wav,False,1,0.9954779744148254,1,True
+207825,data\test\mosquito\207825.wav,2020-11-18_03.52.01.263.wav,False,1,0.9903749823570251,1,True
+207830,data\test\mosquito\207830.wav,2020-11-18_02.22.01.256.wav,False,1,0.9928016662597656,1,True
+207831,data\test\mosquito\207831.wav,2020-11-18_02.52.01.265.wav,False,1,0.9583275318145752,1,True
+207833,data\test\mosquito\207833.wav,2020-11-18_03.22.01.265.wav,True,1,0.9932696223258972,1,True
+207843,data\test\mosquito\207843.wav,2020-11-18_19.59.37.969.wav,False,1,0.9915667176246643,1,True
+207849,data\test\mosquito\207849.wav,2020-11-18_21.59.37.983.wav,False,1,0.9936315417289734,1,True
+207891,data\test\mosquito\207891.wav,2020-11-18_19.58.38.277.wav,True,1,0.9639697074890137,1,True
+207892,data\test\mosquito\207892.wav,2020-11-18_19.58.38.277.wav,True,1,0.941609799861908,1,True
+207907,data\test\mosquito\207907.wav,2020-11-18_18.58.33.188.wav,True,1,0.9789069294929504,1,True
+207908,data\test\mosquito\207908.wav,2020-11-18_18.58.33.188.wav,True,1,0.986283540725708,1,True
+207917,data\test\mosquito\207917.wav,2020-11-18_19.28.38.308.wav,True,1,0.9917717576026917,1,True
+207927,data\test\mosquito\207927.wav,2020-11-18_19.28.38.308.wav,True,1,0.9854104518890381,1,True
+207928,data\test\mosquito\207928.wav,2020-11-18_19.28.38.308.wav,True,1,0.9319607019424438,1,True
+207933,data\test\mosquito\207933.wav,2020-11-18_19.58.38.277.wav,True,1,0.964545726776123,1,True
+207939,data\test\mosquito\207939.wav,2020-11-18_19.58.38.277.wav,True,1,0.9932175278663635,1,True
+207949,data\test\mosquito\207949.wav,2020-11-18_20.28.38.285.wav,True,1,0.9883680939674377,1,True
+207950,data\test\mosquito\207950.wav,2020-11-18_20.28.38.285.wav,True,1,0.9896664619445801,1,True
+207961,data\test\mosquito\207961.wav,2020-11-18_23.28.38.293.wav,False,1,0.96897953748703,1,True
+207964,data\test\mosquito\207964.wav,2020-11-19_21.54.35.188.wav,True,1,0.989200234413147,1,True
+207973,data\test\mosquito\207973.wav,2020-11-19_19.24.35.194.wav,False,1,0.9925563931465149,1,True
+207980,data\test\mosquito\207980.wav,2020-11-19_01.59.37.983.wav,False,1,0.9926114678382874,1,True
+207985,data\test\mosquito\207985.wav,2020-11-19_02.59.37.967.wav,True,1,0.9960789084434509,1,True
+207996,data\test\mosquito\207996.wav,2020-11-19_22.21.53.171.wav,False,1,0.9811487793922424,1,True
+207999,data\test\mosquito\207999.wav,2020-11-19_00.59.37.983.wav,False,1,0.9956433773040771,1,True
+208,data\test\mosquito\208.wav,CDC_An-albimanus_labelled_800.wav,True,1,0.9863545298576355,1,True
+208000,data\test\mosquito\208000.wav,2020-11-19_00.59.37.983.wav,False,1,0.9935135841369629,1,True
+208004,data\test\mosquito\208004.wav,2020-11-19_02.59.37.967.wav,True,1,0.9880052208900452,1,True
+208005,data\test\mosquito\208005.wav,2020-11-19_03.29.37.963.wav,True,1,0.9953128099441528,1,True
+208012,data\test\mosquito\208012.wav,2020-11-19_03.29.37.963.wav,True,1,0.9778746962547302,1,True
+208014,data\test\mosquito\208014.wav,2020-11-19_03.59.37.970.wav,False,1,0.9953102469444275,1,True
+208029,data\test\mosquito\208029.wav,2020-11-19_22.23.18.863.wav,True,1,0.9814313650131226,1,True
+208030,data\test\mosquito\208030.wav,2020-11-19_23.53.18.843.wav,False,1,0.992174506187439,1,True
+208035,data\test\mosquito\208035.wav,2020-11-19_01.28.38.321.wav,True,1,0.9938279986381531,1,True
+208039,data\test\mosquito\208039.wav,2020-11-19_01.28.38.321.wav,True,1,0.9871826171875,1,True
+208042,data\test\mosquito\208042.wav,2020-11-19_01.58.38.271.wav,False,1,0.9848822951316833,1,True
+208052,data\test\mosquito\208052.wav,2020-11-19_19.53.18.848.wav,True,1,0.9885176420211792,1,True
+208055,data\test\mosquito\208055.wav,2020-11-19_19.53.18.848.wav,True,1,0.9919425249099731,1,True
+208062,data\test\mosquito\208062.wav,2020-11-19_20.23.18.853.wav,True,1,0.9859015941619873,1,True
+208064,data\test\mosquito\208064.wav,2020-11-19_20.23.18.853.wav,True,1,0.9904719591140747,1,True
+208068,data\test\mosquito\208068.wav,2020-11-19_20.53.18.849.wav,True,1,0.9885130524635315,1,True
+208069,data\test\mosquito\208069.wav,2020-11-19_20.53.18.849.wav,True,1,0.9653583765029907,1,True
+208072,data\test\mosquito\208072.wav,2020-11-19_20.53.18.849.wav,True,1,0.9642083644866943,1,True
+208075,data\test\mosquito\208075.wav,2020-11-19_21.23.18.839.wav,True,1,0.9847664833068848,1,True
+208076,data\test\mosquito\208076.wav,2020-11-19_21.23.18.839.wav,True,1,0.9881483912467957,1,True
+208081,data\test\mosquito\208081.wav,2020-11-19_21.53.18.855.wav,True,1,0.9922387003898621,1,True
+208084,data\test\mosquito\208084.wav,2020-11-19_21.53.18.855.wav,True,1,0.980711817741394,1,True
+208087,data\test\mosquito\208087.wav,2020-11-19_22.23.18.863.wav,True,1,0.9859291911125183,1,True
+208093,data\test\mosquito\208093.wav,2020-11-20_02.54.35.170.wav,True,1,0.9872382879257202,1,True
+208103,data\test\mosquito\208103.wav,2020-11-20_02.21.53.175.wav,False,1,0.9978998899459839,1,True
+208112,data\test\mosquito\208112.wav,2020-11-20_19.02.04.041.wav,True,1,0.9769004583358765,1,True
+208115,data\test\mosquito\208115.wav,2020-11-20_19.02.04.041.wav,True,1,0.9665176868438721,1,True
+208119,data\test\mosquito\208119.wav,2020-11-20_21.02.09.136.wav,True,1,0.9696646928787231,1,True
+208120,data\test\mosquito\208120.wav,2020-11-20_21.02.09.136.wav,True,1,0.8636522889137268,1,True
+208147,data\test\mosquito\208147.wav,2020-11-20_19.00.43.667.wav,True,1,0.9511790871620178,1,True
+208149,data\test\mosquito\208149.wav,2020-11-20_20.30.48.773.wav,True,1,0.9785664081573486,1,True
+208176,data\test\mosquito\208176.wav,2020-11-22_23.59.18.933.wav,True,1,0.9945558309555054,1,True
+208180,data\test\mosquito\208180.wav,2020-11-22_22.27.06.609.wav,True,1,0.9788445830345154,1,True
+208185,data\test\mosquito\208185.wav,2020-11-22_23.57.06.617.wav,True,1,0.9910109043121338,1,True
+208193,data\test\mosquito\208193.wav,2020-11-22_22.29.00.460.wav,False,1,0.9898999333381653,1,True
+208200,data\test\mosquito\208200.wav,2020-11-22_23.59.00.491.wav,True,1,0.8506360054016113,1,True
+208202,data\test\mosquito\208202.wav,2020-11-23_01.59.18.906.wav,True,1,0.2839510142803192,0,False
+208210,data\test\mosquito\208210.wav,2020-11-23_03.59.18.906.wav,False,1,0.9792277216911316,1,True
+208215,data\test\mosquito\208215.wav,2020-11-23_18.58.40.700.wav,True,1,0.9907017946243286,1,True
+208217,data\test\mosquito\208217.wav,2020-11-23_18.58.40.700.wav,True,1,0.9967482089996338,1,True
+208219,data\test\mosquito\208219.wav,2020-11-23_21.28.45.811.wav,False,1,0.9942469596862793,1,True
+208224,data\test\mosquito\208224.wav,2020-11-23_18.58.40.700.wav,True,1,0.9897286891937256,1,True
+208227,data\test\mosquito\208227.wav,2020-11-23_18.58.40.700.wav,True,1,0.9713014364242554,1,True
+208229,data\test\mosquito\208229.wav,2020-11-23_18.58.40.700.wav,True,1,0.9873979091644287,1,True
+208264,data\test\mosquito\208264.wav,2020-11-23_03.57.06.618.wav,False,1,0.9902738928794861,1,True
+208277,data\test\mosquito\208277.wav,2020-11-23_04.56.27.943.wav,False,1,0.992237389087677,1,True
+208292,data\test\mosquito\208292.wav,2020-11-23_05.29.00.472.wav,True,1,0.9170002341270447,1,True
+208295,data\test\mosquito\208295.wav,2020-11-24_02.28.45.798.wav,True,1,0.9421117305755615,1,True
+208296,data\test\mosquito\208296.wav,2020-11-24_02.28.45.798.wav,True,1,0.9922839999198914,1,True
+208299,data\test\mosquito\208299.wav,2020-11-24_02.28.45.798.wav,True,1,0.9872918128967285,1,True
+208308,data\test\mosquito\208308.wav,2020-11-24_23.59.41.070.wav,True,1,0.9962026476860046,1,True
+208311,data\test\mosquito\208311.wav,2020-11-24_00.58.45.832.wav,True,1,0.9861045479774475,1,True
+208313,data\test\mosquito\208313.wav,2020-11-24_00.58.45.832.wav,True,1,0.9948763251304626,1,True
+208321,data\test\mosquito\208321.wav,2020-11-24_01.58.45.812.wav,True,1,0.9928921461105347,1,True
+208332,data\test\mosquito\208332.wav,2020-11-24_01.58.45.812.wav,True,1,0.9744317531585693,1,True
+208333,data\test\mosquito\208333.wav,2020-11-24_01.58.45.812.wav,True,1,0.9829896688461304,1,True
+208334,data\test\mosquito\208334.wav,2020-11-24_01.58.45.812.wav,True,1,0.9911301136016846,1,True
+208341,data\test\mosquito\208341.wav,2020-11-24_02.28.45.798.wav,True,1,0.9908145070075989,1,True
+208347,data\test\mosquito\208347.wav,2020-11-24_02.28.45.798.wav,True,1,0.9830009937286377,1,True
+208349,data\test\mosquito\208349.wav,2020-11-24_02.28.45.798.wav,True,1,0.9962884187698364,1,True
+208357,data\test\mosquito\208357.wav,2020-11-24_18.59.35.943.wav,True,1,0.9938462376594543,1,True
+208360,data\test\mosquito\208360.wav,2020-11-24_18.59.35.943.wav,True,1,0.9877880215644836,1,True
+208362,data\test\mosquito\208362.wav,2020-11-24_19.29.41.049.wav,True,1,0.991463840007782,1,True
+208367,data\test\mosquito\208367.wav,2020-11-24_20.29.41.080.wav,True,1,0.9802955985069275,1,True
+208371,data\test\mosquito\208371.wav,2020-11-24_21.59.41.060.wav,True,1,0.9905683398246765,1,True
+208388,data\test\mosquito\208388.wav,2020-11-24_02.25.17.178.wav,True,1,0.9805991649627686,1,True
+208390,data\test\mosquito\208390.wav,2020-11-24_03.55.17.200.wav,True,1,0.9842016100883484,1,True
+208405,data\test\mosquito\208405.wav,2020-11-24_00.55.17.195.wav,True,1,0.9965253472328186,1,True
+208408,data\test\mosquito\208408.wav,2020-11-24_00.55.17.195.wav,True,1,0.9905123114585876,1,True
+208432,data\test\mosquito\208432.wav,2020-11-24_18.58.03.784.wav,True,1,0.9816400408744812,1,True
+208453,data\test\mosquito\208453.wav,2020-11-24_18.58.03.784.wav,True,1,0.9682666063308716,1,True
+208464,data\test\mosquito\208464.wav,2020-11-24_20.28.08.886.wav,True,1,0.9838541150093079,1,True
+208470,data\test\mosquito\208470.wav,2020-11-24_20.28.08.886.wav,True,1,0.9821606874465942,1,True
+208472,data\test\mosquito\208472.wav,2020-11-24_23.58.08.879.wav,False,1,0.9807041883468628,1,True
+208475,data\test\mosquito\208475.wav,2020-11-25_00.29.41.066.wav,True,1,0.9879869818687439,1,True
+208476,data\test\mosquito\208476.wav,2020-11-25_00.29.41.066.wav,True,1,0.9196068048477173,1,True
+208480,data\test\mosquito\208480.wav,2020-11-25_02.59.41.081.wav,False,1,0.991033136844635,1,True
+208482,data\test\mosquito\208482.wav,2020-11-25_03.29.41.047.wav,True,1,0.9934331178665161,1,True
+208485,data\test\mosquito\208485.wav,2020-11-25_19.59.34.234.wav,False,1,0.9907593727111816,1,True
+208496,data\test\mosquito\208496.wav,2020-11-25_00.29.41.066.wav,True,1,0.9889917373657227,1,True
+208499,data\test\mosquito\208499.wav,2020-11-25_05.59.41.057.wav,False,1,0.9809025526046753,1,True
+208513,data\test\mosquito\208513.wav,2020-11-25_19.29.34.233.wav,True,1,0.9898284673690796,1,True
+208525,data\test\mosquito\208525.wav,2020-11-25_20.27.12.958.wav,True,1,0.9869383573532104,1,True
+208527,data\test\mosquito\208527.wav,2020-11-25_20.27.12.958.wav,True,1,0.9840190410614014,1,True
+208533,data\test\mosquito\208533.wav,2020-11-25_21.27.12.956.wav,True,1,0.9831362366676331,1,True
+208539,data\test\mosquito\208539.wav,2020-11-25_18.57.07.889.wav,False,1,0.9885772466659546,1,True
+208541,data\test\mosquito\208541.wav,2020-11-25_21.27.12.956.wav,True,1,0.9933657050132751,1,True
+208554,data\test\mosquito\208554.wav,2020-11-25_23.56.40.045.wav,False,1,0.9866726398468018,1,True
+208559,data\test\mosquito\208559.wav,2020-11-25_18.57.57.132.wav,True,1,0.9105265140533447,1,True
+208565,data\test\mosquito\208565.wav,2020-11-25_19.58.02.170.wav,False,1,0.9857894778251648,1,True
+208567,data\test\mosquito\208567.wav,2020-11-25_20.28.02.186.wav,False,1,0.983069896697998,1,True
+208570,data\test\mosquito\208570.wav,2020-11-25_21.28.02.157.wav,False,1,0.9545128345489502,1,True
+208571,data\test\mosquito\208571.wav,2020-11-26_19.02.32.916.wav,True,1,0.9933702945709229,1,True
+208589,data\test\mosquito\208589.wav,2020-11-26_19.02.32.916.wav,True,1,0.9870346188545227,1,True
+208590,data\test\mosquito\208590.wav,2020-11-26_19.02.32.916.wav,True,1,0.9546915292739868,1,True
+208594,data\test\mosquito\208594.wav,2020-11-26_19.32.38.040.wav,True,1,0.9925927519798279,1,True
+208597,data\test\mosquito\208597.wav,2020-11-26_21.02.38.041.wav,True,1,0.9932629466056824,1,True
+208621,data\test\mosquito\208621.wav,2020-11-26_20.29.44.234.wav,False,1,0.9817209243774414,1,True
+208623,data\test\mosquito\208623.wav,2020-11-26_22.00.13.793.wav,True,1,0.9937241673469543,1,True
+208646,data\test\mosquito\208646.wav,2020-11-26_19.00.08.663.wav,True,1,0.9540126919746399,1,True
+208649,data\test\mosquito\208649.wav,2020-11-26_19.00.08.663.wav,True,1,0.9764539003372192,1,True
+208653,data\test\mosquito\208653.wav,2020-11-26_20.00.13.788.wav,False,1,0.986423909664154,1,True
+208654,data\test\mosquito\208654.wav,2020-11-26_20.00.13.788.wav,False,1,0.9383759498596191,1,True
+208659,data\test\mosquito\208659.wav,2020-11-27_01.32.38.053.wav,False,1,0.9925130605697632,1,True
+208663,data\test\mosquito\208663.wav,2020-11-27_02.02.38.050.wav,True,1,0.9903649687767029,1,True
+208665,data\test\mosquito\208665.wav,2020-11-27_02.02.38.050.wav,True,1,0.9905596375465393,1,True
+208672,data\test\mosquito\208672.wav,2020-11-27_00.29.29.684.wav,True,1,0.9905675053596497,1,True
+208689,data\test\mosquito\208689.wav,2020-11-27_04.29.29.686.wav,True,1,0.9946993589401245,1,True
+208691,data\test\mosquito\208691.wav,2020-11-27_04.29.29.686.wav,True,1,0.9892724752426147,1,True
+208705,data\test\mosquito\208705.wav,2020-11-27_02.29.44.277.wav,False,1,0.9763498902320862,1,True
+208719,data\test\mosquito\208719.wav,2020-11-23_03.27.06.611.wav,True,1,0.3751363158226013,0,False
+218804,data\test\mosquito\218804.wav,r2016-05-24_10.06.31.096.wav_u2016-05-24_12.59.15.761955.wav,False,1,0.9906759262084961,1,True
+218809,data\test\mosquito\218809.wav,r2016-05-24_10.11.36.547.wav_u2016-05-25_06.20.35.514345.wav,True,1,0.9579623341560364,1,True
+218814,data\test\mosquito\218814.wav,r2016-05-24_10.15.36.407.wav_u2016-05-25_06.21.06.027869.wav,False,1,0.0762772187590599,0,False
+218818,data\test\mosquito\218818.wav,r2016-05-24_10.18.36.538.wav_u2016-05-25_06.21.23.757370.wav,True,1,0.9900510907173157,1,True
+218824,data\test\mosquito\218824.wav,r2016-05-24_10.23.27.332.wav_u2016-05-25_06.21.44.157812.wav,True,1,0.9754891991615295,1,True
+218827,data\test\mosquito\218827.wav,r2016-05-24_10.23.27.332.wav_u2016-05-25_06.21.44.157812.wav,True,1,0.04791746288537979,0,False
+218850,data\test\mosquito\218850.wav,r2016-05-24_11.33.13.946.wav_u2016-05-25_06.23.54.125756.wav,False,1,0.14104974269866943,0,False
+218851,data\test\mosquito\218851.wav,r2016-05-24_11.33.13.946.wav_u2016-05-25_06.23.54.125756.wav,False,1,0.8336890935897827,1,True
+218906,data\test\mosquito\218906.wav,r2016-05-24_12.33.55.566.wav_u2016-05-25_06.38.02.769836.wav,False,1,0.8781129121780396,1,True
+218915,data\test\mosquito\218915.wav,r2016-05-24_12.43.18.489.wav_u2016-05-25_06.43.30.845654.wav,True,1,0.9901425838470459,1,True
+218929,data\test\mosquito\218929.wav,r2016-05-24_12.56.40.630.wav_u2016-05-25_06.47.39.769514.wav,False,1,0.10299377888441086,0,False
+218930,data\test\mosquito\218930.wav,r2016-05-24_12.56.40.630.wav_u2016-05-25_06.47.39.769514.wav,False,1,0.9785035252571106,1,True
+218931,data\test\mosquito\218931.wav,r2016-05-24_12.56.40.630.wav_u2016-05-25_06.47.39.769514.wav,False,1,0.9873484373092651,1,True
+218934,data\test\mosquito\218934.wav,r2016-05-24_12.59.40.537.wav_u2016-05-25_06.48.04.479001.wav,False,1,0.9733494520187378,1,True
+218938,data\test\mosquito\218938.wav,r2016-05-24_13.01.52.703.wav_u2016-05-25_06.48.30.913278.wav,True,1,0.0814402848482132,0,False
+218953,data\test\mosquito\218953.wav,r2016-05-26_09.26.39.128.wav_u2016-05-31_07.01.23.148480.wav,False,1,0.6470398902893066,1,True
+218965,data\test\mosquito\218965.wav,r2016-05-26_09.35.00.661.wav_u2016-05-31_07.02.01.856925.wav,False,1,0.9303340315818787,1,True
+218969,data\test\mosquito\218969.wav,r2016-05-26_09.39.05.997.wav_u2016-05-31_07.02.41.843998.wav,False,1,0.09935921430587769,0,False
+218971,data\test\mosquito\218971.wav,r2016-05-26_09.41.05.929.wav_u2016-05-31_07.02.51.283715.wav,False,1,0.9096100926399231,1,True
+218972,data\test\mosquito\218972.wav,r2016-05-26_09.41.05.929.wav_u2016-05-31_07.02.51.283715.wav,False,1,0.9849969148635864,1,True
+218973,data\test\mosquito\218973.wav,r2016-05-26_09.42.05.968.wav_u2016-05-31_07.02.55.904812.wav,False,1,0.21023638546466827,0,False
+218976,data\test\mosquito\218976.wav,r2016-05-26_09.45.38.312.wav_u2016-05-31_07.03.11.805779.wav,False,1,0.12627288699150085,0,False
+218982,data\test\mosquito\218982.wav,r2016-05-26_09.49.43.606.wav_u2016-05-31_07.05.22.085777.wav,True,1,0.912229597568512,1,True
+218992,data\test\mosquito\218992.wav,r2016-05-26_09.54.43.536.wav_u2016-05-31_07.05.46.075330.wav,True,1,0.958791196346283,1,True
+218997,data\test\mosquito\218997.wav,r2016-05-26_09.58.07.690.wav_u2016-05-31_07.06.02.617401.wav,False,1,0.6582616567611694,1,True
+218999,data\test\mosquito\218999.wav,r2016-05-26_10.00.07.627.wav_u2016-05-31_07.06.28.324797.wav,True,1,0.9599820375442505,1,True
+219000,data\test\mosquito\219000.wav,r2016-05-26_10.00.07.627.wav_u2016-05-31_07.06.28.324797.wav,True,1,0.13348644971847534,0,False
+219005,data\test\mosquito\219005.wav,r2016-05-26_10.04.07.597.wav_u2016-05-31_07.06.55.173658.wav,False,1,0.9431138038635254,1,True
+219018,data\test\mosquito\219018.wav,r2016-05-26_10.12.28.020.wav_u2016-05-31_07.09.56.391816.wav,True,1,0.9685672521591187,1,True
+219021,data\test\mosquito\219021.wav,r2016-05-26_10.12.28.020.wav_u2016-05-31_07.09.56.391816.wav,True,1,0.11410266906023026,0,False
+219022,data\test\mosquito\219022.wav,r2016-05-26_10.13.27.807.wav_u2016-05-31_07.10.24.808397.wav,False,1,0.057131096720695496,0,False
+219062,data\test\mosquito\219062.wav,r2016-05-26_11.14.15.419.wav_u2016-05-31_07.16.50.920781.wav,True,1,0.9781710505485535,1,True
+219069,data\test\mosquito\219069.wav,r2016-05-26_11.20.39.436.wav_u2016-05-31_07.17.19.341865.wav,False,1,0.7662624716758728,1,True
+219071,data\test\mosquito\219071.wav,r2016-05-26_11.22.39.517.wav_u2016-05-31_07.17.52.927633.wav,False,1,0.10577525943517685,0,False
+219099,data\test\mosquito\219099.wav,r2016-05-26_12.17.24.540.wav_u2016-05-31_07.22.53.262920.wav,False,1,0.9674330353736877,1,True
+219119,data\test\mosquito\219119.wav,r2016-05-26_12.38.18.588.wav_u2016-05-31_07.25.09.951723.wav,False,1,0.9344597458839417,1,True
+219143,data\test\mosquito\219143.wav,r2016-05-31_10.03.52.017.wav_u2016-06-02_07.13.47.049067.wav,False,1,0.12872684001922607,0,False
+219149,data\test\mosquito\219149.wav,r2016-05-31_10.09.52.057.wav_u2016-06-02_07.14.31.029151.wav,False,1,0.20633788406848907,0,False
+219155,data\test\mosquito\219155.wav,r2016-05-31_10.15.20.438.wav_u2016-06-02_07.15.09.908220.wav,True,1,0.9720406532287598,1,True
+219157,data\test\mosquito\219157.wav,r2016-05-31_10.15.20.438.wav_u2016-06-02_07.15.09.908220.wav,True,1,0.7181202173233032,1,True
+219158,data\test\mosquito\219158.wav,r2016-05-31_10.16.20.488.wav_u2016-06-02_07.15.18.127843.wav,False,1,0.9916328191757202,1,True
+219160,data\test\mosquito\219160.wav,r2016-05-31_10.16.20.488.wav_u2016-06-02_07.15.18.127843.wav,False,1,0.11837319284677505,0,False
+219167,data\test\mosquito\219167.wav,r2016-05-31_10.20.20.357.wav_u2016-06-02_07.15.50.560599.wav,True,1,0.20251308381557465,0,False
+219173,data\test\mosquito\219173.wav,r2016-05-31_10.21.41.393.wav_u2016-06-02_07.16.00.985608.wav,True,1,0.20433452725410461,0,False
+219181,data\test\mosquito\219181.wav,r2016-05-31_10.25.46.726.wav_u2016-06-02_07.16.34.320768.wav,False,1,0.9832637906074524,1,True
+219191,data\test\mosquito\219191.wav,r2016-05-31_10.32.51.757.wav_u2016-06-02_07.17.26.345821.wav,False,1,0.950092613697052,1,True
+219192,data\test\mosquito\219192.wav,r2016-05-31_10.32.51.757.wav_u2016-06-02_07.17.26.345821.wav,False,1,0.9784382581710815,1,True
+219205,data\test\mosquito\219205.wav,r2016-05-31_10.40.57.007.wav_u2016-06-02_07.18.28.203626.wav,True,1,0.9748001098632812,1,True
+219210,data\test\mosquito\219210.wav,r2016-05-31_10.45.12.498.wav_u2016-06-02_07.19.00.951615.wav,True,1,0.9110371470451355,1,True
+219214,data\test\mosquito\219214.wav,r2016-05-31_10.48.12.617.wav_u2016-06-02_07.19.26.770870.wav,True,1,0.911087155342102,1,True
+219218,data\test\mosquito\219218.wav,r2016-05-31_10.51.12.597.wav_u2016-06-02_07.19.48.947599.wav,False,1,0.8031830191612244,1,True
+219229,data\test\mosquito\219229.wav,r2016-05-31_11.24.34.881.wav_u2016-06-02_07.20.59.438991.wav,False,1,0.1689826250076294,0,False
+219233,data\test\mosquito\219233.wav,r2016-05-31_11.26.34.818.wav_u2016-06-02_07.21.17.358863.wav,True,1,0.9656943082809448,1,True
+219234,data\test\mosquito\219234.wav,r2016-05-31_11.26.34.818.wav_u2016-06-02_07.21.17.358863.wav,True,1,0.303215354681015,0,False
+219249,data\test\mosquito\219249.wav,r2016-05-31_11.35.47.707.wav_u2016-06-02_07.22.30.206891.wav,True,1,0.9680224657058716,1,True
+219250,data\test\mosquito\219250.wav,r2016-05-31_11.35.47.707.wav_u2016-06-02_07.22.30.206891.wav,True,1,0.9730000495910645,1,True
+219257,data\test\mosquito\219257.wav,r2016-05-31_11.41.02.427.wav_u2016-06-02_07.23.11.625975.wav,False,1,0.10102791339159012,0,False
+219266,data\test\mosquito\219266.wav,r2016-05-31_11.46.02.490.wav_u2016-06-02_07.23.55.085197.wav,False,1,0.9891987442970276,1,True
+219269,data\test\mosquito\219269.wav,r2016-05-31_11.48.02.416.wav_u2016-06-02_07.24.13.376315.wav,True,1,0.9871231317520142,1,True
+219271,data\test\mosquito\219271.wav,r2016-05-31_11.48.02.416.wav_u2016-06-02_07.24.13.376315.wav,True,1,0.9659765362739563,1,True
+219276,data\test\mosquito\219276.wav,r2016-05-31_11.51.19.408.wav_u2016-06-02_07.24.37.854238.wav,True,1,0.11898986250162125,0,False
+219288,data\test\mosquito\219288.wav,r2016-05-31_11.57.19.367.wav_u2016-06-02_07.25.25.467703.wav,False,1,0.24065937101840973,0,False
+219292,data\test\mosquito\219292.wav,r2016-05-31_12.11.01.909.wav_u2016-06-02_07.25.49.756771.wav,False,1,0.07223539799451828,0,False
+219299,data\test\mosquito\219299.wav,r2016-05-31_12.16.02.027.wav_u2016-06-02_07.26.26.355493.wav,True,1,0.7455530762672424,1,True
+219315,data\test\mosquito\219315.wav,r2016-05-31_12.26.22.087.wav_u2016-06-02_07.28.06.038823.wav,True,1,0.2612282335758209,0,False
+219325,data\test\mosquito\219325.wav,r2016-05-31_12.32.34.231.wav_u2016-06-02_07.29.15.991535.wav,True,1,0.9849918484687805,1,True
+219332,data\test\mosquito\219332.wav,r2016-05-31_12.38.34.167.wav_u2016-06-02_07.30.39.245641.wav,False,1,0.9781493544578552,1,True
+219347,data\test\mosquito\219347.wav,r2016-05-31_12.53.03.017.wav_u2016-06-02_07.32.49.011564.wav,True,1,0.511142909526825,1,True
+219354,data\test\mosquito\219354.wav,r2016-05-31_12.57.02.989.wav_u2016-06-02_07.33.18.171175.wav,True,1,0.18474237620830536,0,False
+219356,data\test\mosquito\219356.wav,r2016-05-31_12.59.02.929.wav_u2016-06-02_07.33.35.492965.wav,False,1,0.12669996917247772,0,False
+219372,data\test\mosquito\219372.wav,r2016-07-25_12.13.35.616.wav_u2016-07-25_13.07.15.077228.wav,True,1,0.9658434391021729,1,True
+219388,data\test\mosquito\219388.wav,r2016-07-25_12.20.35.467.wav_u2016-07-25_13.14.42.648609.wav,True,1,0.9768253564834595,1,True
+219389,data\test\mosquito\219389.wav,r2016-07-25_12.20.35.467.wav_u2016-07-25_13.14.42.648609.wav,True,1,0.8018758893013,1,True
+219390,data\test\mosquito\219390.wav,r2016-07-25_12.20.35.467.wav_u2016-07-25_13.14.42.648609.wav,True,1,0.6156429052352905,1,True
+219391,data\test\mosquito\219391.wav,r2016-07-25_12.20.35.467.wav_u2016-07-25_13.14.42.648609.wav,True,1,0.984276294708252,1,True
+219395,data\test\mosquito\219395.wav,r2016-07-26_09.14.46.515.wav_u2016-07-26_13.00.06.228963.wav,False,1,0.6150434613227844,1,True
+219404,data\test\mosquito\219404.wav,r2016-07-26_09.21.46.555.wav_u2016-07-26_13.04.12.153300.wav,True,1,0.9931471943855286,1,True
+219418,data\test\mosquito\219418.wav,r2016-07-26_09.35.00.416.wav_u2016-07-26_13.10.37.632874.wav,False,1,0.15012647211551666,0,False
+219421,data\test\mosquito\219421.wav,r2016-07-26_09.38.00.385.wav_u2016-07-26_13.16.33.508663.wav,False,1,0.8839443325996399,1,True
+219484,data\test\mosquito\219484.wav,r2016-05-26_09.30.41.135.wav_u2016-05-31_07.23.15.312852.wav,True,1,0.9434548616409302,1,True
+219514,data\test\mosquito\219514.wav,r2016-05-26_10.00.09.475.wav_u2016-05-31_07.26.52.647637.wav,True,1,0.9473329782485962,1,True
+219520,data\test\mosquito\219520.wav,r2016-05-26_10.04.09.526.wav_u2016-05-31_07.27.12.725170.wav,True,1,0.9674413204193115,1,True
+219546,data\test\mosquito\219546.wav,r2016-05-26_10.46.18.701.wav_u2016-05-31_07.28.50.712943.wav,False,1,0.050264738500118256,0,False
+219557,data\test\mosquito\219557.wav,r2016-05-26_10.57.44.207.wav_u2016-05-31_07.29.43.211714.wav,False,1,0.03546975180506706,0,False
+219558,data\test\mosquito\219558.wav,r2016-05-26_10.58.44.100.wav_u2016-05-31_07.29.47.812081.wav,True,1,0.947507917881012,1,True
+219601,data\test\mosquito\219601.wav,r2016-05-26_12.06.10.236.wav_u2016-05-31_07.33.02.368310.wav,False,1,0.8954405784606934,1,True
+219615,data\test\mosquito\219615.wav,r2016-05-26_12.19.28.575.wav_u2016-05-31_07.33.58.930976.wav,True,1,0.03941074013710022,0,False
+219620,data\test\mosquito\219620.wav,r2016-05-26_12.22.28.546.wav_u2016-05-31_07.34.13.305360.wav,True,1,0.9027083516120911,1,True
+219633,data\test\mosquito\219633.wav,r2016-05-26_12.34.07.827.wav_u2016-05-31_07.35.19.504334.wav,False,1,0.037155698984861374,0,False
+219639,data\test\mosquito\219639.wav,r2016-05-26_12.39.20.918.wav_u2016-05-31_07.35.50.383314.wav,False,1,0.821723997592926,1,True
+219693,data\test\mosquito\219693.wav,r2016-05-31_10.41.59.647.wav_u2016-06-02_07.18.01.343128.wav,False,1,0.10327745974063873,0,False
+219702,data\test\mosquito\219702.wav,r2016-05-31_10.48.13.036.wav_u2016-06-02_07.19.01.852840.wav,True,1,0.28523021936416626,0,False
+219704,data\test\mosquito\219704.wav,r2016-05-31_10.48.13.036.wav_u2016-06-02_07.19.01.852840.wav,True,1,0.9800768494606018,1,True
+219712,data\test\mosquito\219712.wav,r2016-05-31_10.50.13.022.wav_u2016-06-02_07.19.18.703879.wav,True,1,0.9027971625328064,1,True
+219715,data\test\mosquito\219715.wav,r2016-05-31_10.51.13.067.wav_u2016-06-02_07.19.27.950915.wav,True,1,0.9620271921157837,1,True
+219764,data\test\mosquito\219764.wav,r2016-05-31_12.14.03.497.wav_u2016-06-02_07.26.32.231448.wav,False,1,0.24575893580913544,0,False
+219788,data\test\mosquito\219788.wav,r2016-05-31_12.38.35.767.wav_u2016-06-02_07.29.57.445713.wav,False,1,0.1792842000722885,0,False
+219802,data\test\mosquito\219802.wav,r2016-05-31_12.53.04.577.wav_u2016-06-02_07.32.24.822697.wav,True,1,0.11142188310623169,0,False
+219817,data\test\mosquito\219817.wav,r2016-07-25_12.18.11.981.wav_u2016-07-25_13.08.40.667690.wav,False,1,0.9694636464118958,1,True
+219836,data\test\mosquito\219836.wav,r2016-07-25_12.33.16.599.wav_u2016-07-25_13.12.15.124980.wav,True,1,0.15715624392032623,0,False
+219844,data\test\mosquito\219844.wav,r2016-07-25_12.36.45.377.wav_u2016-07-25_13.12.45.182292.wav,True,1,0.14809709787368774,0,False
+219846,data\test\mosquito\219846.wav,r2016-07-25_12.37.45.417.wav_u2016-07-25_13.13.14.091957.wav,True,1,0.0949302539229393,0,False
+219849,data\test\mosquito\219849.wav,r2016-07-25_12.39.45.358.wav_u2016-07-25_13.13.34.595022.wav,True,1,0.9739469289779663,1,True
+219856,data\test\mosquito\219856.wav,r2016-07-25_12.43.45.377.wav_u2016-07-25_13.14.33.621602.wav,True,1,0.9646021127700806,1,True
+219867,data\test\mosquito\219867.wav,r2016-07-26_09.21.20.368.wav_u2016-07-26_12.50.41.866713.wav,False,1,0.1382761001586914,0,False
+219909,data\test\mosquito\219909.wav,r2016-07-26_10.02.12.108.wav_u2016-07-26_12.56.20.693531.wav,False,1,0.7360275387763977,1,True
+219921,data\test\mosquito\219921.wav,r2016-07-26_10.45.59.677.wav_u2016-07-26_12.58.19.796263.wav,True,1,0.12453942000865936,0,False
+219928,data\test\mosquito\219928.wav,r2016-07-26_10.48.59.753.wav_u2016-07-26_12.59.17.537037.wav,True,1,0.9671427011489868,1,True
+219942,data\test\mosquito\219942.wav,r2016-07-26_10.57.27.729.wav_u2016-07-26_13.00.36.247942.wav,False,1,0.9804934859275818,1,True
+220042,data\test\mosquito\220042.wav,IFA_34_26_1346.wav,True,1,0.4404527246952057,0,False
+220043,data\test\mosquito\220043.wav,IFA_34_26_1346.wav,True,1,0.9556798338890076,1,True
+220048,data\test\mosquito\220048.wav,IFA_35_10_1370.wav,True,1,0.9901747703552246,1,True
+220049,data\test\mosquito\220049.wav,IFA_34_37_1357.wav,False,1,0.9527813196182251,1,True
+220055,data\test\mosquito\220055.wav,IFA_34_22_1342.wav,False,1,0.9700888991355896,1,True
+220056,data\test\mosquito\220056.wav,IFA_34_39_1359.wav,False,1,0.9868473410606384,1,True
+220057,data\test\mosquito\220057.wav,IFA_34_30_1350.wav,False,1,0.9750369787216187,1,True
+220061,data\test\mosquito\220061.wav,IFA_34_20_1340.wav,True,1,0.9941337704658508,1,True
+220064,data\test\mosquito\220064.wav,IFA_35_15_1375.wav,False,1,0.9469324946403503,1,True
+220072,data\test\mosquito\220072.wav,IFA_34_40_1360.wav,True,1,0.8742532730102539,1,True
+220073,data\test\mosquito\220073.wav,IFA_34_40_1360.wav,True,1,0.9288665652275085,1,True
+220076,data\test\mosquito\220076.wav,IFA_35_36_1396.wav,False,1,0.9778823256492615,1,True
+220089,data\test\mosquito\220089.wav,IFA_35_39_1399.wav,False,1,0.9990401864051819,1,True
+220092,data\test\mosquito\220092.wav,IFA_35_38_1398.wav,True,1,0.9802157282829285,1,True
+220096,data\test\mosquito\220096.wav,IFA_35_33_1393.wav,False,1,0.9951737523078918,1,True
+220097,data\test\mosquito\220097.wav,IFA_35_33_1393.wav,False,1,0.9925693869590759,1,True
+220100,data\test\mosquito\220100.wav,IFA_35_29_1389.wav,False,1,0.9942512512207031,1,True
+220101,data\test\mosquito\220101.wav,IFA_35_29_1389.wav,False,1,0.9921534657478333,1,True
+220107,data\test\mosquito\220107.wav,IFA_35_28_1388.wav,False,1,0.9613907337188721,1,True
+220108,data\test\mosquito\220108.wav,IFA_35_16_1376.wav,False,1,0.9830771088600159,1,True
+220112,data\test\mosquito\220112.wav,IFA_35_32_1392.wav,True,1,0.9950078725814819,1,True
+220116,data\test\mosquito\220116.wav,IFA_37_21_1461.wav,False,1,0.9982975125312805,1,True
+220120,data\test\mosquito\220120.wav,IFA_36_36_1436.wav,True,1,0.9707037210464478,1,True
+220124,data\test\mosquito\220124.wav,IFA_37_11_1451.wav,False,1,0.9789203405380249,1,True
+220125,data\test\mosquito\220125.wav,IFA_37_22_1462.wav,True,1,0.9955270886421204,1,True
+220128,data\test\mosquito\220128.wav,IFA_37_13_1453.wav,False,1,0.9710672497749329,1,True
+220136,data\test\mosquito\220136.wav,IFA_36_39_1439.wav,True,1,0.9902417063713074,1,True
+220143,data\test\mosquito\220143.wav,IFA_36_15_1415.wav,True,1,0.9180368185043335,1,True
+220146,data\test\mosquito\220146.wav,IFA_37_12_1452.wav,True,1,0.8401598334312439,1,True
+220153,data\test\mosquito\220153.wav,IFA_37_26_1466.wav,True,1,0.9883484244346619,1,True
+220156,data\test\mosquito\220156.wav,IFA_37_27_1467.wav,False,1,0.9773255586624146,1,True
+220159,data\test\mosquito\220159.wav,IFA_36_14_1414.wav,True,1,0.9908952713012695,1,True
+220161,data\test\mosquito\220161.wav,IFA_36_22_1422.wav,True,1,0.9666889905929565,1,True
+220163,data\test\mosquito\220163.wav,IFA_36_25_1425.wav,False,1,0.9830724000930786,1,True
+220168,data\test\mosquito\220168.wav,IFA_36_40_1440.wav,False,1,0.9914597272872925,1,True
+220169,data\test\mosquito\220169.wav,IFA_36_40_1440.wav,False,1,0.9448552131652832,1,True
+220172,data\test\mosquito\220172.wav,IFA_37_17_1457.wav,False,1,0.9977478384971619,1,True
+220173,data\test\mosquito\220173.wav,IFA_37_17_1457.wav,False,1,0.9920342564582825,1,True
+220179,data\test\mosquito\220179.wav,IFA_37_20_1460.wav,True,1,0.9859493374824524,1,True
+220181,data\test\mosquito\220181.wav,IFA_36_21_1421.wav,False,1,0.9902101755142212,1,True
+220185,data\test\mosquito\220185.wav,IFA_36_38_1438.wav,False,1,0.994624674320221,1,True
+220186,data\test\mosquito\220186.wav,IFA_36_20_1420.wav,False,1,0.9569205045700073,1,True
+220187,data\test\mosquito\220187.wav,IFA_36_33_1433.wav,True,1,0.9605838656425476,1,True
+220208,data\test\mosquito\220208.wav,IFA_38_16_1496.wav,True,1,0.9973219037055969,1,True
+220210,data\test\mosquito\220210.wav,IFA_38_15_1495.wav,False,1,0.9612835049629211,1,True
+220222,data\test\mosquito\220222.wav,IFA_38_13_1493.wav,True,1,0.9931280612945557,1,True
+220233,data\test\mosquito\220233.wav,IFA_39_18_1538.wav,False,1,0.23673611879348755,0,False
+220235,data\test\mosquito\220235.wav,IFA_39_18_1538.wav,False,1,0.9461900591850281,1,True
+220236,data\test\mosquito\220236.wav,IFA_38_36_1516.wav,True,1,0.975841760635376,1,True
+220238,data\test\mosquito\220238.wav,IFA_38_36_1516.wav,True,1,0.9913268685340881,1,True
+220242,data\test\mosquito\220242.wav,IFA_39_26_1546.wav,True,1,0.9970836043357849,1,True
+220246,data\test\mosquito\220246.wav,IFA_39_24_1544.wav,True,1,0.942767858505249,1,True
+220247,data\test\mosquito\220247.wav,IFA_39_23_1543.wav,False,1,0.9642667770385742,1,True
+220251,data\test\mosquito\220251.wav,IFA_38_38_1518.wav,True,1,0.7577342987060547,1,True
+220253,data\test\mosquito\220253.wav,IFA_39_15_1535.wav,True,1,0.9136598706245422,1,True
+220259,data\test\mosquito\220259.wav,IFA_38_40_1520.wav,False,1,0.9960731267929077,1,True
+220263,data\test\mosquito\220263.wav,IFA_39_12_1532.wav,True,1,0.9907745718955994,1,True
+220264,data\test\mosquito\220264.wav,IFA_39_12_1532.wav,True,1,0.9870361685752869,1,True
+220267,data\test\mosquito\220267.wav,IFA_39_20_1540.wav,True,1,0.9790962934494019,1,True
+220270,data\test\mosquito\220270.wav,IFA_39_21_1541.wav,False,1,0.9717388153076172,1,True
+220282,data\test\mosquito\220282.wav,IFA_39_40_1560.wav,True,1,0.9864294528961182,1,True
+220286,data\test\mosquito\220286.wav,IFA_39_35_1555.wav,True,1,0.9946655035018921,1,True
+220290,data\test\mosquito\220290.wav,IFA_39_32_1552.wav,False,1,0.9930095672607422,1,True
+220291,data\test\mosquito\220291.wav,IFA_40_27_1587.wav,False,1,0.9319971203804016,1,True
+220292,data\test\mosquito\220292.wav,IFA_40_27_1587.wav,False,1,0.9801556468009949,1,True
+220298,data\test\mosquito\220298.wav,IFA_40_24_1584.wav,True,1,0.9354639053344727,1,True
+220305,data\test\mosquito\220305.wav,IFA_40_16_1576.wav,True,1,0.7621550559997559,1,True
+220308,data\test\mosquito\220308.wav,IFA_40_12_1572.wav,True,1,0.8120036125183105,1,True
+220311,data\test\mosquito\220311.wav,IFA_40_21_1581.wav,False,1,0.9810421466827393,1,True
+220320,data\test\mosquito\220320.wav,IFA_40_26_1586.wav,False,1,0.996095597743988,1,True
+220334,data\test\mosquito\220334.wav,IFA_41_25_1625.wav,False,1,0.9942633509635925,1,True
+220348,data\test\mosquito\220348.wav,IFA_40_31_1591.wav,True,1,0.9760346412658691,1,True
+220349,data\test\mosquito\220349.wav,IFA_41_13_1613.wav,False,1,0.9489083886146545,1,True
+220350,data\test\mosquito\220350.wav,IFA_41_11_1611.wav,False,1,0.938976526260376,1,True
+220356,data\test\mosquito\220356.wav,IFA_40_32_1592.wav,False,1,0.9603183269500732,1,True
+220357,data\test\mosquito\220357.wav,IFA_40_32_1592.wav,False,1,0.5519494414329529,1,True
+220358,data\test\mosquito\220358.wav,IFA_40_33_1593.wav,True,1,0.9928432703018188,1,True
+220362,data\test\mosquito\220362.wav,IFA_40_36_1596.wav,True,1,0.9750664830207825,1,True
+220367,data\test\mosquito\220367.wav,IFA_40_39_1599.wav,True,1,0.9707489609718323,1,True
+220369,data\test\mosquito\220369.wav,IFA_40_39_1599.wav,True,1,0.9420212507247925,1,True
+220373,data\test\mosquito\220373.wav,IFA_41_37_1637.wav,True,1,0.9900772571563721,1,True
+220378,data\test\mosquito\220378.wav,IFA_42_12_1652.wav,True,1,0.832311749458313,1,True
+220385,data\test\mosquito\220385.wav,IFA_42_24_1664.wav,False,1,0.8546783328056335,1,True
+220387,data\test\mosquito\220387.wav,IFA_42_21_1661.wav,True,1,0.9818727374076843,1,True
+220392,data\test\mosquito\220392.wav,IFA_42_26_1666.wav,True,1,0.9174280762672424,1,True
+220402,data\test\mosquito\220402.wav,IFA_42_22_1662.wav,True,1,0.9601811170578003,1,True
+220403,data\test\mosquito\220403.wav,IFA_42_36_1676.wav,False,1,0.9965315461158752,1,True
+220405,data\test\mosquito\220405.wav,IFA_42_25_1665.wav,False,1,0.9915152788162231,1,True
+220406,data\test\mosquito\220406.wav,IFA_42_32_1672.wav,True,1,0.9461609125137329,1,True
+220407,data\test\mosquito\220407.wav,IFA_42_32_1672.wav,True,1,0.9903528094291687,1,True
+220422,data\test\mosquito\220422.wav,IFA_41_34_1634.wav,True,1,0.9942644238471985,1,True
+220424,data\test\mosquito\220424.wav,IFA_42_11_1651.wav,True,1,0.9615163207054138,1,True
+220426,data\test\mosquito\220426.wav,IFA_42_11_1651.wav,True,1,0.8996344208717346,1,True
+220431,data\test\mosquito\220431.wav,IFA_43_19_1699.wav,False,1,0.9692360162734985,1,True
+220439,data\test\mosquito\220439.wav,IFA_44_22_1742.wav,False,1,0.9680107831954956,1,True
+220444,data\test\mosquito\220444.wav,IFA_44_40_1760.wav,True,1,0.8301768898963928,1,True
+220446,data\test\mosquito\220446.wav,IFA_44_40_1760.wav,True,1,0.979698896408081,1,True
+220450,data\test\mosquito\220450.wav,IFA_43_36_1716.wav,True,1,0.9565189480781555,1,True
+220458,data\test\mosquito\220458.wav,IFA_44_28_1748.wav,False,1,0.9885343909263611,1,True
+220460,data\test\mosquito\220460.wav,IFA_44_34_1754.wav,False,1,0.9728829264640808,1,True
+220461,data\test\mosquito\220461.wav,IFA_45_14_1774.wav,False,1,0.9379685521125793,1,True
+220464,data\test\mosquito\220464.wav,IFA_44_36_1756.wav,False,1,0.9747369885444641,1,True
+220467,data\test\mosquito\220467.wav,IFA_45_10_1770.wav,False,1,0.858253002166748,1,True
+220468,data\test\mosquito\220468.wav,IFA_43_33_1713.wav,True,1,0.9917322397232056,1,True
+220469,data\test\mosquito\220469.wav,IFA_43_33_1713.wav,True,1,0.9919689297676086,1,True
+220471,data\test\mosquito\220471.wav,IFA_44_11_1731.wav,False,1,0.9669762849807739,1,True
+220473,data\test\mosquito\220473.wav,IFA_45_15_1775.wav,True,1,0.9745472073554993,1,True
+220478,data\test\mosquito\220478.wav,IFA_43_30_1710.wav,True,1,0.9437633156776428,1,True
+220479,data\test\mosquito\220479.wav,IFA_44_24_1744.wav,False,1,0.9834731221199036,1,True
+220486,data\test\mosquito\220486.wav,IFA_44_31_1751.wav,True,1,0.9982244372367859,1,True
+220490,data\test\mosquito\220490.wav,IFA_44_16_1736.wav,False,1,0.6992096304893494,1,True
+220491,data\test\mosquito\220491.wav,IFA_44_13_1733.wav,True,1,0.9719901084899902,1,True
+220494,data\test\mosquito\220494.wav,IFA_43_10_1690.wav,True,1,0.9841358661651611,1,True
+220496,data\test\mosquito\220496.wav,IFA_43_10_1690.wav,True,1,0.962690532207489,1,True
+220498,data\test\mosquito\220498.wav,IFA_44_35_1755.wav,False,1,0.15101896226406097,0,False
+220499,data\test\mosquito\220499.wav,IFA_44_14_1734.wav,False,1,0.9608998894691467,1,True
+220506,data\test\mosquito\220506.wav,IFA_44_25_1745.wav,True,1,0.9684300422668457,1,True
+220521,data\test\mosquito\220521.wav,IFA_20_17_777.wav,False,1,0.11797595024108887,0,False
+220522,data\test\mosquito\220522.wav,IFA_20_18_778.wav,False,1,0.08269160985946655,0,False
+220526,data\test\mosquito\220526.wav,IFA_22_20_860.wav,True,1,0.9719418883323669,1,True
+220530,data\test\mosquito\220530.wav,IFA_22_39_879.wav,True,1,0.9715313911437988,1,True
+220538,data\test\mosquito\220538.wav,IFA_21_22_822.wav,False,1,0.9832414388656616,1,True
+220551,data\test\mosquito\220551.wav,IFA_22_25_865.wav,True,1,0.9914724230766296,1,True
+220558,data\test\mosquito\220558.wav,IFA_22_40_880.wav,True,1,0.9332871437072754,1,True
+220559,data\test\mosquito\220559.wav,IFA_23_14_894.wav,False,1,0.9774873852729797,1,True
+220566,data\test\mosquito\220566.wav,IFA_23_17_897.wav,False,1,0.9750239849090576,1,True
+220567,data\test\mosquito\220567.wav,IFA_23_15_895.wav,False,1,0.20853854715824127,0,False
+220588,data\test\mosquito\220588.wav,IFA_24_12_932.wav,True,1,0.996822714805603,1,True
+220594,data\test\mosquito\220594.wav,IFA_23_28_908.wav,False,1,0.9928879141807556,1,True
+220596,data\test\mosquito\220596.wav,IFA_23_30_910.wav,True,1,0.9734879732131958,1,True
+220600,data\test\mosquito\220600.wav,IFA_23_33_913.wav,False,1,0.9765317440032959,1,True
+220604,data\test\mosquito\220604.wav,IFA_23_16_896.wav,False,1,0.9573635458946228,1,True
+220606,data\test\mosquito\220606.wav,IFA_23_31_911.wav,True,1,0.97771817445755,1,True
+220617,data\test\mosquito\220617.wav,IFA_24_30_950.wav,True,1,0.9944848418235779,1,True
+220620,data\test\mosquito\220620.wav,IFA_24_15_935.wav,False,1,0.9920282959938049,1,True
+220627,data\test\mosquito\220627.wav,IFA_24_39_959.wav,True,1,0.49842849373817444,0,False
+220632,data\test\mosquito\220632.wav,IFA_25_14_974.wav,False,1,0.9784566164016724,1,True
+220635,data\test\mosquito\220635.wav,IFA_24_26_946.wav,True,1,0.7922443747520447,1,True
+220638,data\test\mosquito\220638.wav,IFA_24_36_956.wav,True,1,0.990172266960144,1,True
+220643,data\test\mosquito\220643.wav,IFA_24_20_940.wav,True,1,0.983458399772644,1,True
+220656,data\test\mosquito\220656.wav,IFA_24_25_945.wav,True,1,0.9845229387283325,1,True
+220659,data\test\mosquito\220659.wav,IFA_25_25_985.wav,True,1,0.994739830493927,1,True
+220663,data\test\mosquito\220663.wav,IFA_24_29_949.wav,False,1,0.9957129955291748,1,True
+220675,data\test\mosquito\220675.wav,IFA_25_21_981.wav,True,1,0.99399334192276,1,True
+220681,data\test\mosquito\220681.wav,IFA_24_32_952.wav,True,1,0.9791511297225952,1,True
+220683,data\test\mosquito\220683.wav,IFA_24_32_952.wav,True,1,0.9943447113037109,1,True
+220688,data\test\mosquito\220688.wav,IFA_24_35_955.wav,True,1,0.994450569152832,1,True
+220689,data\test\mosquito\220689.wav,IFA_24_35_955.wav,True,1,0.9858767986297607,1,True
+220691,data\test\mosquito\220691.wav,IFA_24_35_955.wav,True,1,0.980571985244751,1,True
+220692,data\test\mosquito\220692.wav,IFA_25_18_978.wav,False,1,0.9947570562362671,1,True
+220712,data\test\mosquito\220712.wav,IFA_29_39_1159.wav,True,1,0.9847952723503113,1,True
+220716,data\test\mosquito\220716.wav,IFA_29_11_1131.wav,True,1,0.9958925247192383,1,True
+220735,data\test\mosquito\220735.wav,IFA_29_30_1150.wav,False,1,0.9903208613395691,1,True
+220736,data\test\mosquito\220736.wav,IFA_29_30_1150.wav,False,1,0.9972182512283325,1,True
+220737,data\test\mosquito\220737.wav,IFA_29_13_1133.wav,True,1,0.9884755611419678,1,True
+220746,data\test\mosquito\220746.wav,IFA_29_19_1139.wav,True,1,0.9987362027168274,1,True
+220747,data\test\mosquito\220747.wav,IFA_29_19_1139.wav,True,1,0.9991648197174072,1,True
+220749,data\test\mosquito\220749.wav,IFA_27_27_1067.wav,False,1,0.9797092080116272,1,True
+220752,data\test\mosquito\220752.wav,IFA_27_14_1054.wav,False,1,0.987473726272583,1,True
+220755,data\test\mosquito\220755.wav,IFA_27_20_1060.wav,False,1,0.9760149121284485,1,True
+220758,data\test\mosquito\220758.wav,IFA_27_15_1055.wav,True,1,0.9961530566215515,1,True
+220760,data\test\mosquito\220760.wav,IFA_27_29_1069.wav,False,1,0.2839829921722412,0,False
+220768,data\test\mosquito\220768.wav,IFA_27_25_1065.wav,False,1,0.9926981329917908,1,True
+220769,data\test\mosquito\220769.wav,IFA_27_24_1064.wav,False,1,0.9860571622848511,1,True
+220772,data\test\mosquito\220772.wav,IFA_27_13_1053.wav,True,1,0.9879646301269531,1,True
+220775,data\test\mosquito\220775.wav,IFA_27_11_1051.wav,True,1,0.7085777521133423,1,True
+220778,data\test\mosquito\220778.wav,IFA_27_28_1068.wav,True,1,0.9432333707809448,1,True
+220779,data\test\mosquito\220779.wav,IFA_28_16_1096.wav,False,1,0.991768479347229,1,True
+220781,data\test\mosquito\220781.wav,IFA_28_29_1109.wav,False,1,0.9280171990394592,1,True
+220790,data\test\mosquito\220790.wav,IFA_28_27_1107.wav,True,1,0.9763423204421997,1,True
+220791,data\test\mosquito\220791.wav,IFA_28_27_1107.wav,True,1,0.9904192090034485,1,True
+220793,data\test\mosquito\220793.wav,IFA_28_27_1107.wav,True,1,0.9651008248329163,1,True
+220800,data\test\mosquito\220800.wav,IFA_28_13_1093.wav,True,1,0.9812798500061035,1,True
+220802,data\test\mosquito\220802.wav,IFA_28_25_1105.wav,False,1,0.9176257848739624,1,True
+220803,data\test\mosquito\220803.wav,IFA_27_31_1071.wav,False,1,0.9938260912895203,1,True
+220804,data\test\mosquito\220804.wav,IFA_28_34_1114.wav,False,1,0.9703333973884583,1,True
+220808,data\test\mosquito\220808.wav,IFA_28_36_1116.wav,True,1,0.966443657875061,1,True
+220834,data\test\mosquito\220834.wav,IFA_25_33_993.wav,True,1,0.9885368347167969,1,True
+220837,data\test\mosquito\220837.wav,IFA_26_39_1039.wav,True,1,0.9899654388427734,1,True
+220840,data\test\mosquito\220840.wav,IFA_25_34_994.wav,True,1,0.9867211580276489,1,True
+220842,data\test\mosquito\220842.wav,IFA_25_34_994.wav,True,1,0.9922696352005005,1,True
+220843,data\test\mosquito\220843.wav,IFA_26_18_1018.wav,False,1,0.9846604466438293,1,True
+220844,data\test\mosquito\220844.wav,IFA_26_10_1010.wav,True,1,0.9750987887382507,1,True
+220851,data\test\mosquito\220851.wav,IFA_26_32_1032.wav,False,1,0.9865866899490356,1,True
+220852,data\test\mosquito\220852.wav,IFA_25_30_990.wav,False,1,0.9930728077888489,1,True
+220855,data\test\mosquito\220855.wav,IFA_25_35_995.wav,True,1,0.9694458246231079,1,True
+220858,data\test\mosquito\220858.wav,IFA_26_26_1026.wav,True,1,0.9503648281097412,1,True
+220864,data\test\mosquito\220864.wav,IFA_26_30_1030.wav,False,1,0.9578776955604553,1,True
+220878,data\test\mosquito\220878.wav,IFA_26_11_1011.wav,True,1,0.9666048884391785,1,True
+220882,data\test\mosquito\220882.wav,IFA_32_29_1269.wav,True,1,0.9376073479652405,1,True
+220890,data\test\mosquito\220890.wav,IFA_32_38_1278.wav,False,1,0.9989327788352966,1,True
+220892,data\test\mosquito\220892.wav,IFA_32_26_1266.wav,True,1,0.9903389811515808,1,True
+220897,data\test\mosquito\220897.wav,IFA_32_28_1268.wav,False,1,0.9784994125366211,1,True
+220898,data\test\mosquito\220898.wav,IFA_32_33_1273.wav,False,1,0.9634172320365906,1,True
+220900,data\test\mosquito\220900.wav,IFA_32_19_1259.wav,True,1,0.9990887641906738,1,True
+220902,data\test\mosquito\220902.wav,IFA_32_34_1274.wav,False,1,0.3801078796386719,0,False
+220912,data\test\mosquito\220912.wav,IFA_32_31_1271.wav,False,1,0.9854074120521545,1,True
+220913,data\test\mosquito\220913.wav,IFA_32_24_1264.wav,False,1,0.9891054034233093,1,True
+220916,data\test\mosquito\220916.wav,IFA_32_39_1279.wav,False,1,0.9846641421318054,1,True
+220924,data\test\mosquito\220924.wav,IFA_30_29_1189.wav,True,1,0.9992081522941589,1,True
+220943,data\test\mosquito\220943.wav,IFA_30_36_1196.wav,True,1,0.9282324910163879,1,True
+220945,data\test\mosquito\220945.wav,IFA_31_10_1210.wav,False,1,0.98275226354599,1,True
+220948,data\test\mosquito\220948.wav,IFA_30_33_1193.wav,False,1,0.990980327129364,1,True
+220949,data\test\mosquito\220949.wav,IFA_30_33_1193.wav,False,1,0.9761093854904175,1,True
+220952,data\test\mosquito\220952.wav,IFA_30_12_1172.wav,True,1,0.07579497992992401,0,False
+220953,data\test\mosquito\220953.wav,IFA_30_14_1174.wav,True,1,0.9895697832107544,1,True
+220961,data\test\mosquito\220961.wav,IFA_30_28_1188.wav,True,1,0.9890907406806946,1,True
+220964,data\test\mosquito\220964.wav,IFA_30_15_1175.wav,False,1,0.9929569959640503,1,True
+220966,data\test\mosquito\220966.wav,IFA_30_23_1183.wav,True,1,0.9893109798431396,1,True
+220978,data\test\mosquito\220978.wav,IFA_33_21_1301.wav,False,1,0.9900021553039551,1,True
+220980,data\test\mosquito\220980.wav,IFA_33_16_1296.wav,False,1,0.994577169418335,1,True
+220981,data\test\mosquito\220981.wav,IFA_33_16_1296.wav,False,1,0.9966797828674316,1,True
+220984,data\test\mosquito\220984.wav,IFA_33_23_1303.wav,False,1,0.9933046698570251,1,True
+220990,data\test\mosquito\220990.wav,IFA_33_11_1291.wav,True,1,0.9897940158843994,1,True
+220994,data\test\mosquito\220994.wav,IFA_33_34_1314.wav,False,1,0.9888582229614258,1,True
+220995,data\test\mosquito\220995.wav,IFA_33_34_1314.wav,False,1,0.9952711462974548,1,True
+220996,data\test\mosquito\220996.wav,IFA_33_34_1314.wav,False,1,0.9881788492202759,1,True
+220997,data\test\mosquito\220997.wav,IFA_33_22_1302.wav,False,1,0.9953283071517944,1,True
+220998,data\test\mosquito\220998.wav,IFA_34_11_1331.wav,False,1,0.9977484345436096,1,True
+221004,data\test\mosquito\221004.wav,IFA_33_40_1320.wav,True,1,0.9657397866249084,1,True
+221006,data\test\mosquito\221006.wav,IFA_33_40_1320.wav,True,1,0.9831515550613403,1,True
+221018,data\test\mosquito\221018.wav,IFA_31_29_1229.wav,True,1,0.9903175830841064,1,True
+221027,data\test\mosquito\221027.wav,IFA_31_21_1221.wav,False,1,0.9879913926124573,1,True
+221031,data\test\mosquito\221031.wav,IFA_31_25_1225.wav,True,1,0.2202690839767456,0,False
+221033,data\test\mosquito\221033.wav,IFA_31_33_1233.wav,False,1,0.9944186210632324,1,True
+221037,data\test\mosquito\221037.wav,IFA_31_19_1219.wav,False,1,0.9951962828636169,1,True
+221038,data\test\mosquito\221038.wav,IFA_31_19_1219.wav,False,1,0.9374443292617798,1,True
+221041,data\test\mosquito\221041.wav,IFA_31_20_1220.wav,False,1,0.9922769069671631,1,True
+221043,data\test\mosquito\221043.wav,IFA_31_39_1239.wav,True,1,0.9957708716392517,1,True
+221048,data\test\mosquito\221048.wav,IFA_31_36_1236.wav,False,1,0.9813773036003113,1,True
+221049,data\test\mosquito\221049.wav,IFA_31_26_1226.wav,True,1,0.9969749450683594,1,True
+221054,data\test\mosquito\221054.wav,IFA_31_35_1235.wav,True,1,0.9962348341941833,1,True
+221057,data\test\mosquito\221057.wav,IFA_31_32_1232.wav,False,1,0.9822351336479187,1,True
+221063,data\test\mosquito\221063.wav,IFA_32_13_1253.wav,False,1,0.9888482093811035,1,True
+221082,data\test\mosquito\221082.wav,IFA_45_35_1795.wav,True,1,0.9908893704414368,1,True
+221083,data\test\mosquito\221083.wav,IFA_45_35_1795.wav,True,1,0.8649892807006836,1,True
+221089,data\test\mosquito\221089.wav,IFA_46_23_1823.wav,True,1,0.9700356125831604,1,True
+221092,data\test\mosquito\221092.wav,IFA_45_23_1783.wav,True,1,0.9879345893859863,1,True
+221097,data\test\mosquito\221097.wav,IFA_45_32_1792.wav,True,1,0.9879712462425232,1,True
+221100,data\test\mosquito\221100.wav,IFA_18_28_708.wav,False,1,0.9681540131568909,1,True
+221104,data\test\mosquito\221104.wav,IFA_18_14_694.wav,True,1,0.23792999982833862,0,False
+221106,data\test\mosquito\221106.wav,IFA_18_14_694.wav,True,1,0.7260053157806396,1,True
+221109,data\test\mosquito\221109.wav,IFA_18_15_695.wav,False,1,0.8560289740562439,1,True
+221110,data\test\mosquito\221110.wav,IFA_17_25_665.wav,True,1,0.9783579111099243,1,True
+221131,data\test\mosquito\221131.wav,IFA_17_35_675.wav,False,1,0.9800139665603638,1,True
+221143,data\test\mosquito\221143.wav,IFA_18_29_709.wav,False,1,0.9491657018661499,1,True
+221145,data\test\mosquito\221145.wav,IFA_17_28_668.wav,True,1,0.9548347592353821,1,True
+221149,data\test\mosquito\221149.wav,IFA_17_26_666.wav,True,1,0.9669654369354248,1,True
+221153,data\test\mosquito\221153.wav,IFA_18_17_697.wav,True,1,0.9979329109191895,1,True
+221155,data\test\mosquito\221155.wav,IFA_18_17_697.wav,True,1,0.9915812611579895,1,True
+221158,data\test\mosquito\221158.wav,IFA_17_36_676.wav,True,1,0.9535933136940002,1,True
+221162,data\test\mosquito\221162.wav,IFA_19_25_745.wav,True,1,0.9528688788414001,1,True
+221164,data\test\mosquito\221164.wav,IFA_18_36_716.wav,False,1,0.977728545665741,1,True
+221175,data\test\mosquito\221175.wav,IFA_19_18_738.wav,True,1,0.8399024605751038,1,True
+221178,data\test\mosquito\221178.wav,IFA_19_18_738.wav,True,1,0.9701188802719116,1,True
+221187,data\test\mosquito\221187.wav,IFA_19_27_747.wav,True,1,0.9891198873519897,1,True
+221190,data\test\mosquito\221190.wav,IFA_19_27_747.wav,True,1,0.9858621954917908,1,True
+221198,data\test\mosquito\221198.wav,IFA_19_34_754.wav,False,1,0.9856774806976318,1,True
+221204,data\test\mosquito\221204.wav,IFA_19_31_751.wav,True,1,0.9770919680595398,1,True
+221213,data\test\mosquito\221213.wav,IFA_19_26_746.wav,True,1,0.9921078085899353,1,True
+221216,data\test\mosquito\221216.wav,IFA_19_26_746.wav,True,1,0.9787248969078064,1,True
+221218,data\test\mosquito\221218.wav,IFA_47_33_1873.wav,False,1,0.9910597205162048,1,True
+221219,data\test\mosquito\221219.wav,IFA_48_20_1900.wav,False,1,0.997296154499054,1,True
+221221,data\test\mosquito\221221.wav,IFA_48_37_1917.wav,True,1,0.9894669651985168,1,True
+221232,data\test\mosquito\221232.wav,IFA_49_10_1930.wav,False,1,0.9953280687332153,1,True
+221240,data\test\mosquito\221240.wav,IFA_48_12_1892.wav,True,1,0.8605374693870544,1,True
+221242,data\test\mosquito\221242.wav,IFA_48_25_1905.wav,False,1,0.986260712146759,1,True
+221248,data\test\mosquito\221248.wav,IFA_48_29_1909.wav,False,1,0.9864176511764526,1,True
+221254,data\test\mosquito\221254.wav,IFA_48_24_1904.wav,True,1,0.9872188568115234,1,True
+221259,data\test\mosquito\221259.wav,IFA_48_33_1913.wav,False,1,0.9402030110359192,1,True
+221260,data\test\mosquito\221260.wav,IFA_48_30_1910.wav,False,1,0.9857423305511475,1,True
+221266,data\test\mosquito\221266.wav,IFA_47_27_1867.wav,True,1,0.9834323525428772,1,True
+221269,data\test\mosquito\221269.wav,IFA_46_37_1837.wav,True,1,0.9188309907913208,1,True
+221271,data\test\mosquito\221271.wav,IFA_46_37_1837.wav,True,1,0.945905327796936,1,True
+221274,data\test\mosquito\221274.wav,IFA_46_34_1834.wav,False,1,0.9863843321800232,1,True
+221276,data\test\mosquito\221276.wav,IFA_46_25_1825.wav,False,1,0.981014609336853,1,True
+221283,data\test\mosquito\221283.wav,IFA_47_14_1854.wav,True,1,0.9703482389450073,1,True
+221288,data\test\mosquito\221288.wav,IFA_46_40_1840.wav,True,1,0.9896501302719116,1,True
+221290,data\test\mosquito\221290.wav,IFA_47_17_1857.wav,True,1,0.9573217034339905,1,True
+221294,data\test\mosquito\221294.wav,IFA_47_28_1868.wav,True,1,0.9832794666290283,1,True
+221297,data\test\mosquito\221297.wav,IFA_47_22_1862.wav,True,1,0.9689271450042725,1,True
+221306,data\test\mosquito\221306.wav,IFA_46_28_1828.wav,True,1,0.6379941701889038,1,True
+221323,data\test\mosquito\221323.wav,IFA_50_13_1973.wav,False,1,0.9790126085281372,1,True
+221338,data\test\mosquito\221338.wav,IFA_50_20_1980.wav,False,1,0.9407811760902405,1,True
+221339,data\test\mosquito\221339.wav,IFA_49_16_1936.wav,True,1,0.9800839424133301,1,True
+221348,data\test\mosquito\221348.wav,IFA_49_27_1947.wav,False,1,0.9627958536148071,1,True
+221349,data\test\mosquito\221349.wav,IFA_49_21_1941.wav,True,1,0.987891674041748,1,True
+221355,data\test\mosquito\221355.wav,IFA_50_10_1970.wav,True,1,0.93867027759552,1,True
+221357,data\test\mosquito\221357.wav,IFA_49_32_1952.wav,False,1,0.9788057208061218,1,True
+221362,data\test\mosquito\221362.wav,IFA_50_14_1974.wav,True,1,0.9744635224342346,1,True
+221367,data\test\mosquito\221367.wav,IFA_50_11_1971.wav,True,1,0.9729539155960083,1,True
+221370,data\test\mosquito\221370.wav,IFA_49_30_1950.wav,False,1,0.944499671459198,1,True
+221373,data\test\mosquito\221373.wav,IFA_49_37_1957.wav,True,1,0.990451455116272,1,True
+221381,data\test\mosquito\221381.wav,IFA_51_30_2030.wav,True,1,0.9774128794670105,1,True
+221385,data\test\mosquito\221385.wav,IFA_51_34_2034.wav,False,1,0.967891275882721,1,True
+221390,data\test\mosquito\221390.wav,IFA_51_24_2024.wav,False,1,0.9772042036056519,1,True
+221392,data\test\mosquito\221392.wav,IFA_51_37_2037.wav,True,1,0.9862165451049805,1,True
+221398,data\test\mosquito\221398.wav,IFA_52_15_2055.wav,True,1,0.9725927710533142,1,True
+221399,data\test\mosquito\221399.wav,IFA_52_11_2051.wav,True,1,0.972661018371582,1,True
+221400,data\test\mosquito\221400.wav,IFA_52_11_2051.wav,True,1,0.984062135219574,1,True
+221403,data\test\mosquito\221403.wav,IFA_51_22_2022.wav,True,1,0.9666786193847656,1,True
+221408,data\test\mosquito\221408.wav,IFA_52_13_2053.wav,True,1,0.9946871995925903,1,True
+221410,data\test\mosquito\221410.wav,IFA_51_35_2035.wav,True,1,0.9581565856933594,1,True
+221424,data\test\mosquito\221424.wav,IFA_52_24_2064.wav,False,1,0.9616890549659729,1,True
+221426,data\test\mosquito\221426.wav,IFA_52_39_2079.wav,True,1,0.9844984412193298,1,True
+221428,data\test\mosquito\221428.wav,IFA_52_31_2071.wav,True,1,0.9766936898231506,1,True
+221431,data\test\mosquito\221431.wav,IFA_52_28_2068.wav,True,1,0.9409155249595642,1,True
+221439,data\test\mosquito\221439.wav,IFA_52_37_2077.wav,True,1,0.9746209979057312,1,True
+221441,data\test\mosquito\221441.wav,IFA_52_35_2075.wav,True,1,0.9883537292480469,1,True
+221464,data\test\mosquito\221464.wav,IFA_50_36_1996.wav,False,1,0.34365135431289673,0,False
+221466,data\test\mosquito\221466.wav,IFA_50_26_1986.wav,False,1,0.9784106016159058,1,True
+221468,data\test\mosquito\221468.wav,IFA_50_31_1991.wav,True,1,0.970828652381897,1,True
+221471,data\test\mosquito\221471.wav,IFA_50_23_1983.wav,True,1,0.9798938632011414,1,True
+221473,data\test\mosquito\221473.wav,IFA_50_33_1993.wav,False,1,0.995868444442749,1,True
+221487,data\test\mosquito\221487.wav,IFA_50_29_1989.wav,False,1,0.9951816201210022,1,True
+221490,data\test\mosquito\221490.wav,IFA_50_39_1999.wav,False,1,0.9906388521194458,1,True
+221491,data\test\mosquito\221491.wav,IFA_50_39_1999.wav,False,1,0.9178062677383423,1,True
+221496,data\test\mosquito\221496.wav,IFA_53_16_2096.wav,False,1,0.9817403554916382,1,True
+221508,data\test\mosquito\221508.wav,IFA_53_11_2091.wav,False,1,0.9685245156288147,1,True
+221509,data\test\mosquito\221509.wav,IFA_53_11_2091.wav,False,1,0.980204164981842,1,True
+221510,data\test\mosquito\221510.wav,IFA_54_14_2134.wav,True,1,0.9542961716651917,1,True
+221514,data\test\mosquito\221514.wav,IFA_53_20_2100.wav,False,1,0.9725537896156311,1,True
+221519,data\test\mosquito\221519.wav,IFA_53_36_2116.wav,False,1,0.8891055583953857,1,True
+221520,data\test\mosquito\221520.wav,IFA_54_18_2138.wav,False,1,0.9811665415763855,1,True
+221526,data\test\mosquito\221526.wav,IFA_53_10_2090.wav,False,1,0.987047553062439,1,True
+221527,data\test\mosquito\221527.wav,IFA_53_10_2090.wav,False,1,0.9698367714881897,1,True
+221528,data\test\mosquito\221528.wav,IFA_53_10_2090.wav,False,1,0.9519689679145813,1,True
+221530,data\test\mosquito\221530.wav,IFA_54_24_2144.wav,False,1,0.8656021952629089,1,True
+221532,data\test\mosquito\221532.wav,IFA_53_15_2095.wav,False,1,0.96939617395401,1,True
+221536,data\test\mosquito\221536.wav,IFA_54_12_2132.wav,False,1,0.9598038792610168,1,True
+221541,data\test\mosquito\221541.wav,IFA_53_24_2104.wav,True,1,0.9768217206001282,1,True
+221547,data\test\mosquito\221547.wav,IFA_54_29_2149.wav,False,1,0.9868822693824768,1,True
+221557,data\test\mosquito\221557.wav,IFA_56_18_2218.wav,False,1,0.9946070313453674,1,True
+221565,data\test\mosquito\221565.wav,IFA_55_33_2193.wav,False,1,0.990656852722168,1,True
+221566,data\test\mosquito\221566.wav,IFA_55_27_2187.wav,True,1,0.9945693612098694,1,True
+221575,data\test\mosquito\221575.wav,IFA_56_17_2217.wav,True,1,0.9369626641273499,1,True
+221583,data\test\mosquito\221583.wav,IFA_54_36_2156.wav,True,1,0.9434791207313538,1,True
+221594,data\test\mosquito\221594.wav,IFA_56_29_2229.wav,True,1,0.9720079898834229,1,True
+221602,data\test\mosquito\221602.wav,IFA_55_20_2180.wav,False,1,0.9577890634536743,1,True
+221603,data\test\mosquito\221603.wav,IFA_56_11_2211.wav,False,1,0.9659910202026367,1,True
+221605,data\test\mosquito\221605.wav,IFA_56_19_2219.wav,False,1,0.8725016713142395,1,True
+221612,data\test\mosquito\221612.wav,IFA_55_19_2179.wav,True,1,0.9741514325141907,1,True
+221622,data\test\mosquito\221622.wav,IFA_54_35_2155.wav,False,1,0.9907522201538086,1,True
+221628,data\test\mosquito\221628.wav,IFA_55_36_2196.wav,False,1,0.9282715320587158,1,True
+221638,data\test\mosquito\221638.wav,IFA_56_30_2230.wav,True,1,0.9660504460334778,1,True
+221641,data\test\mosquito\221641.wav,IFA_57_18_2258.wav,False,1,0.9884938597679138,1,True
+221646,data\test\mosquito\221646.wav,IFA_56_40_2240.wav,False,1,0.9586113095283508,1,True
+221656,data\test\mosquito\221656.wav,IFA_57_11_2251.wav,True,1,0.9892705678939819,1,True
+221662,data\test\mosquito\221662.wav,IFA_56_33_2233.wav,False,1,0.9853661060333252,1,True
+221664,data\test\mosquito\221664.wav,IFA_57_22_2262.wav,True,1,0.9954140186309814,1,True
+221671,data\test\mosquito\221671.wav,IFA_57_14_2254.wav,True,1,0.9654450416564941,1,True
+221679,data\test\mosquito\221679.wav,IFA_57_34_2274.wav,False,1,0.9819762706756592,1,True
+221685,data\test\mosquito\221685.wav,IFA_57_16_2256.wav,False,1,0.2691519558429718,0,False
+221688,data\test\mosquito\221688.wav,IFA_56_34_2234.wav,True,1,0.3088700771331787,0,False
+221691,data\test\mosquito\221691.wav,IFA_57_20_2260.wav,False,1,0.6416767239570618,1,True
+221692,data\test\mosquito\221692.wav,IFA_56_35_2235.wav,True,1,0.9209069013595581,1,True
+221695,data\test\mosquito\221695.wav,IFA_57_33_2273.wav,True,1,0.987592875957489,1,True
+221702,data\test\mosquito\221702.wav,IFA_60_39_2399.wav,True,1,0.8906760811805725,1,True
+221706,data\test\mosquito\221706.wav,IFA_59_35_2355.wav,True,1,0.9717084169387817,1,True
+221714,data\test\mosquito\221714.wav,IFA_60_40_2400.wav,False,1,0.9394273161888123,1,True
+221715,data\test\mosquito\221715.wav,IFA_60_40_2400.wav,False,1,0.47029221057891846,0,False
+221717,data\test\mosquito\221717.wav,IFA_60_22_2382.wav,True,1,0.9814552664756775,1,True
+221728,data\test\mosquito\221728.wav,IFA_60_20_2380.wav,False,1,0.9324246644973755,1,True
+221729,data\test\mosquito\221729.wav,IFA_60_20_2380.wav,False,1,0.8673557043075562,1,True
+221731,data\test\mosquito\221731.wav,IFA_60_38_2398.wav,True,1,0.7462125420570374,1,True
+221742,data\test\mosquito\221742.wav,IFA_60_30_2390.wav,False,1,0.9882593154907227,1,True
+221743,data\test\mosquito\221743.wav,IFA_60_27_2387.wav,False,1,0.9729592204093933,1,True
+221744,data\test\mosquito\221744.wav,IFA_60_14_2374.wav,False,1,0.997685432434082,1,True
+221745,data\test\mosquito\221745.wav,IFA_60_24_2384.wav,True,1,0.9138625264167786,1,True
+221758,data\test\mosquito\221758.wav,IFA_59_11_2331.wav,False,1,0.9405538439750671,1,True
+221781,data\test\mosquito\221781.wav,IFA_58_12_2292.wav,True,1,0.9298369884490967,1,True
+221786,data\test\mosquito\221786.wav,IFA_59_30_2350.wav,True,1,0.9944941401481628,1,True
+221812,data\test\mosquito\221812.wav,IFA_59_18_2338.wav,False,1,0.7870625853538513,1,True
+221818,data\test\mosquito\221818.wav,IFA_61_21_2421.wav,False,1,0.9671314358711243,1,True
+221824,data\test\mosquito\221824.wav,IFA_61_12_2412.wav,True,1,0.9615957140922546,1,True
+221826,data\test\mosquito\221826.wav,IFA_61_18_2418.wav,False,1,0.9802552461624146,1,True
+221832,data\test\mosquito\221832.wav,IFA_61_10_2410.wav,False,1,0.9073493480682373,1,True
+221833,data\test\mosquito\221833.wav,IFA_61_29_2429.wav,True,1,0.8595794439315796,1,True
+221835,data\test\mosquito\221835.wav,IFA_61_13_2413.wav,True,1,0.9917663931846619,1,True
+221866,data\test\mosquito\221866.wav,IFA_62_10_2450.wav,False,1,0.9942817687988281,1,True
+221880,data\test\mosquito\221880.wav,IFA_63_35_2515.wav,True,1,0.9554353952407837,1,True
+221888,data\test\mosquito\221888.wav,IFA_63_10_2490.wav,False,1,0.9729840159416199,1,True
+221889,data\test\mosquito\221889.wav,IFA_63_16_2496.wav,False,1,0.9918954968452454,1,True
+221899,data\test\mosquito\221899.wav,IFA_63_33_2513.wav,True,1,0.38208410143852234,0,False
+221906,data\test\mosquito\221906.wav,IFA_62_34_2474.wav,False,1,0.9854297637939453,1,True
+221914,data\test\mosquito\221914.wav,IFA_62_26_2466.wav,False,1,0.9848324656486511,1,True
+221917,data\test\mosquito\221917.wav,IFA_62_24_2464.wav,True,1,0.9052031636238098,1,True
+221931,data\test\mosquito\221931.wav,IFA_63_15_2495.wav,False,1,0.9496933221817017,1,True
+221945,data\test\mosquito\221945.wav,IFA_63_37_2517.wav,False,1,0.9942611455917358,1,True
+221958,data\test\mosquito\221958.wav,IFA_62_27_2467.wav,True,1,0.9621651768684387,1,True
+221964,data\test\mosquito\221964.wav,IFA_64_14_2534.wav,False,1,0.97524094581604,1,True
+221967,data\test\mosquito\221967.wav,IFA_64_15_2535.wav,True,1,0.9842450022697449,1,True
+221970,data\test\mosquito\221970.wav,IFA_64_15_2535.wav,True,1,0.9842724800109863,1,True
+221974,data\test\mosquito\221974.wav,IFA_64_17_2537.wav,False,1,0.9743846654891968,1,True
+221976,data\test\mosquito\221976.wav,IFA_64_25_2545.wav,True,1,0.9700237512588501,1,True
+221986,data\test\mosquito\221986.wav,IFA_64_16_2536.wav,False,1,0.9666347503662109,1,True
+221995,data\test\mosquito\221995.wav,IFA_65_28_2588.wav,False,1,0.9763485193252563,1,True
+221996,data\test\mosquito\221996.wav,IFA_65_31_2591.wav,False,1,0.9722354412078857,1,True
+222000,data\test\mosquito\222000.wav,IFA_65_20_2580.wav,False,1,0.9824778437614441,1,True
+222002,data\test\mosquito\222002.wav,IFA_65_34_2594.wav,True,1,0.48119691014289856,0,False
+222003,data\test\mosquito\222003.wav,IFA_65_34_2594.wav,True,1,0.9554356932640076,1,True
+222008,data\test\mosquito\222008.wav,IFA_64_32_2552.wav,False,1,0.9744700789451599,1,True
+222011,data\test\mosquito\222011.wav,IFA_65_18_2578.wav,True,1,0.5112387537956238,1,True
+222020,data\test\mosquito\222020.wav,IFA_64_35_2555.wav,True,1,0.9756078720092773,1,True
+222023,data\test\mosquito\222023.wav,IFA_64_28_2548.wav,False,1,0.9895451664924622,1,True
+222026,data\test\mosquito\222026.wav,IFA_64_38_2558.wav,False,1,0.9785817265510559,1,True
+222029,data\test\mosquito\222029.wav,IFA_64_26_2546.wav,True,1,0.9785735011100769,1,True
+222030,data\test\mosquito\222030.wav,IFA_64_26_2546.wav,True,1,0.9629920125007629,1,True
+222033,data\test\mosquito\222033.wav,IFA_64_34_2554.wav,True,1,0.9842433929443359,1,True
+222034,data\test\mosquito\222034.wav,IFA_64_34_2554.wav,True,1,0.9785159826278687,1,True
+222039,data\test\mosquito\222039.wav,IFA_64_36_2556.wav,True,1,0.9001299738883972,1,True
+222055,data\test\mosquito\222055.wav,IFA_65_39_2599.wav,False,1,0.9858353734016418,1,True
+222060,data\test\mosquito\222060.wav,IFA_65_12_2572.wav,False,1,0.9153571128845215,1,True
+222061,data\test\mosquito\222061.wav,IFA_65_12_2572.wav,False,1,0.9551725387573242,1,True
+222065,data\test\mosquito\222065.wav,IFA_66_14_2614.wav,False,1,0.10607967525720596,0,False
+222066,data\test\mosquito\222066.wav,IFA_66_17_2617.wav,False,1,0.9834218621253967,1,True
+222067,data\test\mosquito\222067.wav,IFA_66_15_2615.wav,False,1,0.9859710335731506,1,True
+222075,data\test\mosquito\222075.wav,IFA_66_12_2612.wav,False,1,0.9464213848114014,1,True
+222082,data\test\mosquito\222082.wav,IFA_67_14_2654.wav,True,1,0.9809858202934265,1,True
+222083,data\test\mosquito\222083.wav,IFA_67_15_2655.wav,True,1,0.963769257068634,1,True
+222085,data\test\mosquito\222085.wav,IFA_67_15_2655.wav,True,1,0.936911404132843,1,True
+222088,data\test\mosquito\222088.wav,IFA_66_21_2621.wav,False,1,0.9189577102661133,1,True
+222090,data\test\mosquito\222090.wav,IFA_66_36_2636.wav,True,1,0.8981353044509888,1,True
+222098,data\test\mosquito\222098.wav,IFA_66_24_2624.wav,False,1,0.7153249979019165,1,True
+222110,data\test\mosquito\222110.wav,IFA_67_13_2653.wav,True,1,0.9786399602890015,1,True
+222112,data\test\mosquito\222112.wav,IFA_66_39_2639.wav,False,1,0.14104139804840088,0,False
+222113,data\test\mosquito\222113.wav,IFA_67_23_2663.wav,False,1,0.9744085073471069,1,True
+222115,data\test\mosquito\222115.wav,IFA_67_29_2669.wav,True,1,0.9532337784767151,1,True
+222118,data\test\mosquito\222118.wav,IFA_66_30_2630.wav,False,1,0.9605846405029297,1,True
+222123,data\test\mosquito\222123.wav,IFA_67_22_2662.wav,False,1,0.9614444971084595,1,True
+222125,data\test\mosquito\222125.wav,IFA_67_10_2650.wav,True,1,0.9217068552970886,1,True
+222135,data\test\mosquito\222135.wav,IFA_67_19_2659.wav,True,1,0.9867908358573914,1,True
+222146,data\test\mosquito\222146.wav,IFA_68_19_2699.wav,True,1,0.8923676013946533,1,True
+222147,data\test\mosquito\222147.wav,IFA_68_37_2717.wav,True,1,0.9777308702468872,1,True
+222149,data\test\mosquito\222149.wav,IFA_68_37_2717.wav,True,1,0.9420315027236938,1,True
+222150,data\test\mosquito\222150.wav,IFA_67_38_2678.wav,True,1,0.906941831111908,1,True
+222153,data\test\mosquito\222153.wav,IFA_68_28_2708.wav,True,1,0.8470610976219177,1,True
+222159,data\test\mosquito\222159.wav,IFA_68_11_2691.wav,False,1,0.9850890040397644,1,True
+222165,data\test\mosquito\222165.wav,IFA_68_35_2715.wav,False,1,0.7948333621025085,1,True
+222174,data\test\mosquito\222174.wav,IFA_69_12_2732.wav,True,1,0.9057134985923767,1,True
+222182,data\test\mosquito\222182.wav,IFA_69_14_2734.wav,True,1,0.9611884951591492,1,True
+222187,data\test\mosquito\222187.wav,IFA_69_20_2740.wav,False,1,0.9161556363105774,1,True
+222188,data\test\mosquito\222188.wav,IFA_69_24_2744.wav,False,1,0.9270951151847839,1,True
+222189,data\test\mosquito\222189.wav,IFA_69_13_2733.wav,False,1,0.9689534902572632,1,True
+222193,data\test\mosquito\222193.wav,IFA_68_21_2701.wav,False,1,0.9438714981079102,1,True
+222201,data\test\mosquito\222201.wav,IFA_68_12_2692.wav,True,1,0.9831845164299011,1,True
+222204,data\test\mosquito\222204.wav,IFA_68_17_2697.wav,False,1,0.9930828809738159,1,True
+222235,data\test\mosquito\222235.wav,IFA_70_13_2773.wav,True,1,0.9088203310966492,1,True
+222240,data\test\mosquito\222240.wav,IFA_69_30_2750.wav,False,1,0.9863043427467346,1,True
+222244,data\test\mosquito\222244.wav,IFA_69_35_2755.wav,True,1,0.9729856252670288,1,True
+222246,data\test\mosquito\222246.wav,IFA_70_14_2774.wav,False,1,0.9902483820915222,1,True
+222247,data\test\mosquito\222247.wav,IFA_70_18_2778.wav,False,1,0.9839567542076111,1,True
+222258,data\test\mosquito\222258.wav,IFA_70_23_2783.wav,False,1,0.8535950183868408,1,True
+222263,data\test\mosquito\222263.wav,IFA_69_34_2754.wav,False,1,0.9386584162712097,1,True
+222265,data\test\mosquito\222265.wav,IFA_70_11_2771.wav,True,1,0.8838630318641663,1,True
+222266,data\test\mosquito\222266.wav,IFA_70_11_2771.wav,True,1,0.9527983069419861,1,True
+222270,data\test\mosquito\222270.wav,IFA_70_26_2786.wav,False,1,0.9919191002845764,1,True
+222279,data\test\mosquito\222279.wav,IFA_71_19_2819.wav,True,1,0.9949063062667847,1,True
+222281,data\test\mosquito\222281.wav,IFA_70_37_2797.wav,False,1,0.9466642737388611,1,True
+222290,data\test\mosquito\222290.wav,IFA_71_12_2812.wav,False,1,0.9712854623794556,1,True
+222298,data\test\mosquito\222298.wav,IFA_71_14_2814.wav,False,1,0.9873641133308411,1,True
+222302,data\test\mosquito\222302.wav,IFA_70_38_2798.wav,True,1,0.9846007227897644,1,True
+222305,data\test\mosquito\222305.wav,IFA_70_39_2799.wav,False,1,0.9787572026252747,1,True
+222307,data\test\mosquito\222307.wav,IFA_71_17_2817.wav,False,1,0.9164966940879822,1,True
+222316,data\test\mosquito\222316.wav,IFA_72_16_2856.wav,False,1,0.9902700185775757,1,True
+222321,data\test\mosquito\222321.wav,IFA_71_39_2839.wav,True,1,0.9895243048667908,1,True
+222328,data\test\mosquito\222328.wav,IFA_72_32_2872.wav,False,1,0.9660484194755554,1,True
+222329,data\test\mosquito\222329.wav,IFA_72_28_2868.wav,False,1,0.988243579864502,1,True
+222340,data\test\mosquito\222340.wav,IFA_71_30_2830.wav,False,1,0.9511727094650269,1,True
+222354,data\test\mosquito\222354.wav,IFA_71_36_2836.wav,True,1,0.8115262389183044,1,True
+222356,data\test\mosquito\222356.wav,IFA_71_36_2836.wav,True,1,0.5643107295036316,1,True
+222363,data\test\mosquito\222363.wav,IFA_73_18_2898.wav,True,1,0.9886554479598999,1,True
+222367,data\test\mosquito\222367.wav,IFA_73_32_2912.wav,True,1,0.9853969216346741,1,True
+222375,data\test\mosquito\222375.wav,IFA_74_25_2945.wav,False,1,0.9725462198257446,1,True
+222376,data\test\mosquito\222376.wav,IFA_74_34_2954.wav,False,1,0.9809205532073975,1,True
+222378,data\test\mosquito\222378.wav,IFA_73_33_2913.wav,True,1,0.9649443626403809,1,True
+222382,data\test\mosquito\222382.wav,IFA_73_10_2890.wav,False,1,0.9749685525894165,1,True
+222397,data\test\mosquito\222397.wav,IFA_73_20_2900.wav,False,1,0.9321780800819397,1,True
+222398,data\test\mosquito\222398.wav,IFA_73_35_2915.wav,False,1,0.9708818793296814,1,True
+222399,data\test\mosquito\222399.wav,IFA_73_26_2906.wav,False,1,0.9912369251251221,1,True
+222407,data\test\mosquito\222407.wav,IFA_74_24_2944.wav,False,1,0.8821650743484497,1,True
+222419,data\test\mosquito\222419.wav,IFA_74_26_2946.wav,True,1,0.9881784319877625,1,True
+222426,data\test\mosquito\222426.wav,IFA_74_15_2935.wav,False,1,0.9818888306617737,1,True
+222428,data\test\mosquito\222428.wav,IFA_72_39_2879.wav,False,1,0.9552486538887024,1,True
+222434,data\test\mosquito\222434.wav,IFA_73_27_2907.wav,True,1,0.9894589185714722,1,True
+222439,data\test\mosquito\222439.wav,IFA_75_10_2970.wav,True,1,0.9871790409088135,1,True
+222442,data\test\mosquito\222442.wav,IFA_76_20_3020.wav,False,1,0.9895368814468384,1,True
+222444,data\test\mosquito\222444.wav,IFA_75_35_2995.wav,False,1,0.7797973155975342,1,True
+222448,data\test\mosquito\222448.wav,IFA_75_28_2988.wav,True,1,0.7735468149185181,1,True
+222460,data\test\mosquito\222460.wav,IFA_75_33_2993.wav,False,1,0.9941009879112244,1,True
+222461,data\test\mosquito\222461.wav,IFA_76_32_3032.wav,True,1,0.9566561579704285,1,True
+222463,data\test\mosquito\222463.wav,IFA_76_32_3032.wav,True,1,0.9818430542945862,1,True
+222465,data\test\mosquito\222465.wav,IFA_76_28_3028.wav,False,1,0.9335928559303284,1,True
+222466,data\test\mosquito\222466.wav,IFA_76_28_3028.wav,False,1,0.9719582200050354,1,True
+222468,data\test\mosquito\222468.wav,IFA_75_40_3000.wav,True,1,0.979902446269989,1,True
+222469,data\test\mosquito\222469.wav,IFA_75_40_3000.wav,True,1,0.9467362761497498,1,True
+222473,data\test\mosquito\222473.wav,IFA_76_14_3014.wav,False,1,0.9506816864013672,1,True
+222478,data\test\mosquito\222478.wav,IFA_76_40_3040.wav,False,1,0.9771983623504639,1,True
+222479,data\test\mosquito\222479.wav,IFA_76_40_3040.wav,False,1,0.9838760495185852,1,True
+222485,data\test\mosquito\222485.wav,IFA_75_13_2973.wav,False,1,0.9852516651153564,1,True
+222489,data\test\mosquito\222489.wav,IFA_75_29_2989.wav,False,1,0.9912282228469849,1,True
+222490,data\test\mosquito\222490.wav,IFA_76_12_3012.wav,False,1,0.9863496422767639,1,True
+222498,data\test\mosquito\222498.wav,IFA_75_22_2982.wav,True,1,0.983911395072937,1,True
+222505,data\test\mosquito\222505.wav,IFA_76_16_3016.wav,False,1,0.9763992428779602,1,True
+222508,data\test\mosquito\222508.wav,IFA_75_30_2990.wav,True,1,0.798513650894165,1,True
+222510,data\test\mosquito\222510.wav,IFA_75_12_2972.wav,False,1,0.9841996431350708,1,True
+222516,data\test\mosquito\222516.wav,IFA_76_33_3033.wav,True,1,0.9811208844184875,1,True
+222520,data\test\mosquito\222520.wav,IFA_76_21_3021.wav,True,1,0.9883970618247986,1,True
+222523,data\test\mosquito\222523.wav,IFA_76_21_3021.wav,True,1,0.9877320528030396,1,True
+222532,data\test\mosquito\222532.wav,IFA_85_29_3389.wav,False,1,0.9379882216453552,1,True
+222534,data\test\mosquito\222534.wav,IFA_85_36_3396.wav,True,1,0.9882185459136963,1,True
+222536,data\test\mosquito\222536.wav,IFA_85_18_3378.wav,True,1,0.987708330154419,1,True
+222541,data\test\mosquito\222541.wav,IFA_85_13_3373.wav,False,1,0.9834924340248108,1,True
+222542,data\test\mosquito\222542.wav,IFA_85_13_3373.wav,False,1,0.9873954057693481,1,True
+222543,data\test\mosquito\222543.wav,IFA_85_13_3373.wav,False,1,0.9846401214599609,1,True
+222548,data\test\mosquito\222548.wav,IFA_85_14_3374.wav,True,1,0.9789453148841858,1,True
+222555,data\test\mosquito\222555.wav,IFA_85_19_3379.wav,True,1,0.9559256434440613,1,True
+222557,data\test\mosquito\222557.wav,IFA_85_27_3387.wav,False,1,0.9803963899612427,1,True
+222560,data\test\mosquito\222560.wav,IFA_85_12_3372.wav,True,1,0.9910016655921936,1,True
+222562,data\test\mosquito\222562.wav,IFA_85_31_3391.wav,False,1,0.9771267771720886,1,True
+222563,data\test\mosquito\222563.wav,IFA_85_15_3375.wav,True,1,0.9808516502380371,1,True
+222566,data\test\mosquito\222566.wav,IFA_85_38_3398.wav,True,1,0.990797758102417,1,True
+222569,data\test\mosquito\222569.wav,IFA_85_17_3377.wav,True,1,0.9913300275802612,1,True
+222571,data\test\mosquito\222571.wav,IFA_85_34_3394.wav,False,1,0.9900867342948914,1,True
+222572,data\test\mosquito\222572.wav,IFA_85_33_3393.wav,False,1,0.9943700432777405,1,True
+222573,data\test\mosquito\222573.wav,IFA_85_33_3393.wav,False,1,0.9198662638664246,1,True
+222575,data\test\mosquito\222575.wav,IFA_85_26_3386.wav,True,1,0.9674757719039917,1,True
+222576,data\test\mosquito\222576.wav,IFA_85_37_3397.wav,False,1,0.9705582857131958,1,True
+222577,data\test\mosquito\222577.wav,IFA_85_40_3400.wav,False,1,0.9647491574287415,1,True
+222578,data\test\mosquito\222578.wav,IFA_85_40_3400.wav,False,1,0.9940669536590576,1,True
+222580,data\test\mosquito\222580.wav,IFA_85_21_3381.wav,True,1,0.9940364360809326,1,True
+222588,data\test\mosquito\222588.wav,IFA_86_16_3416.wav,False,1,0.8156534433364868,1,True
+222589,data\test\mosquito\222589.wav,IFA_86_18_3418.wav,False,1,0.9828771948814392,1,True
+222590,data\test\mosquito\222590.wav,IFA_86_17_3417.wav,False,1,0.9875702261924744,1,True
+222595,data\test\mosquito\222595.wav,IFA_86_19_3419.wav,False,1,0.9901970624923706,1,True
+222605,data\test\mosquito\222605.wav,IFA_86_14_3414.wav,False,1,0.9873544573783875,1,True
+222608,data\test\mosquito\222608.wav,IFA_86_23_3423.wav,True,1,0.9829478859901428,1,True
+222610,data\test\mosquito\222610.wav,IFA_86_12_3412.wav,False,1,0.852423906326294,1,True
+222612,data\test\mosquito\222612.wav,IFA_86_11_3411.wav,False,1,0.9771984815597534,1,True
+222634,data\test\mosquito\222634.wav,0034_norm.wav,True,1,0.2213646024465561,0,False
+226,data\test\mosquito\226.wav,CDC_An-atroparvus_labelled_800.wav,True,1,0.9753152132034302,1,True
+2345,data\test\mosquito\2345.wav,r2016-08-16_09.36.21.667.wav_u2016-08-16_11.20.47.790848.wav,True,1,0.9840473532676697,1,True
+235,data\test\mosquito\235.wav,CDC_An-coluzzii_labelled_800.wav,True,1,0.9717065691947937,1,True
+2365,data\test\mosquito\2365.wav,r2016-08-16_10.57.57.487.wav_u2016-08-16_12.53.55.162426.wav,True,1,0.9825103878974915,1,True
+2367,data\test\mosquito\2367.wav,r2016-08-16_10.57.57.487.wav_u2016-08-16_12.53.55.162426.wav,True,1,0.994635283946991,1,True
+2374,data\test\mosquito\2374.wav,r2016-08-16_10.59.19.341.wav_u2016-08-16_12.54.00.138832.wav,True,1,0.9700217247009277,1,True
+2388,data\test\mosquito\2388.wav,r2016-08-16_11.06.24.678.wav_u2016-08-16_12.54.31.132115.wav,True,1,0.993532657623291,1,True
+2389,data\test\mosquito\2389.wav,r2016-08-16_11.06.24.678.wav_u2016-08-16_12.54.31.132115.wav,True,1,0.9952710270881653,1,True
+2390,data\test\mosquito\2390.wav,r2016-08-16_11.06.24.678.wav_u2016-08-16_12.54.31.132115.wav,True,1,0.9940156936645508,1,True
+240,data\test\mosquito\240.wav,CDC_An-coluzzii_labelled_800.wav,True,1,0.9846558570861816,1,True
+2409,data\test\mosquito\2409.wav,r2016-08-16_09.26.03.020.wav_u2016-08-16_11.19.53.421301.wav,False,1,0.9259322285652161,1,True
+2410,data\test\mosquito\2410.wav,r2016-08-16_09.27.03.068.wav_u2016-08-16_11.19.57.513674.wav,False,1,0.9921993613243103,1,True
+2411,data\test\mosquito\2411.wav,r2016-08-16_09.28.03.108.wav_u2016-08-16_11.20.01.792370.wav,True,1,0.9917160868644714,1,True
+242,data\test\mosquito\242.wav,CDC_An-coluzzii_labelled_800.wav,True,1,0.9467197060585022,1,True
+2423,data\test\mosquito\2423.wav,r2016-08-16_09.31.03.047.wav_u2016-08-16_11.20.18.914761.wav,True,1,0.9938349723815918,1,True
+2425,data\test\mosquito\2425.wav,r2016-08-16_10.57.57.487.wav_u2016-08-16_12.53.55.162426.wav,True,1,0.9868011474609375,1,True
+2429,data\test\mosquito\2429.wav,r2016-08-16_10.57.57.487.wav_u2016-08-16_12.53.55.162426.wav,True,1,0.9962700605392456,1,True
+2437,data\test\mosquito\2437.wav,r2016-08-16_11.00.24.549.wav_u2016-08-16_12.54.03.725151.wav,True,1,0.9933967590332031,1,True
+2442,data\test\mosquito\2442.wav,r2016-08-16_11.00.24.549.wav_u2016-08-16_12.54.03.725151.wav,True,1,0.9621872305870056,1,True
+2454,data\test\mosquito\2454.wav,r2016-08-16_11.07.24.567.wav_u2016-08-16_12.54.35.527530.wav,True,1,0.16838940978050232,0,False
+2457,data\test\mosquito\2457.wav,r2016-08-16_11.07.24.567.wav_u2016-08-16_12.54.35.527530.wav,True,1,0.9939742684364319,1,True
+246,data\test\mosquito\246.wav,CDC_An-dirus_labelled_800.wav,True,1,0.9829535484313965,1,True
+247,data\test\mosquito\247.wav,CDC_An-dirus_labelled_800.wav,True,1,0.9815845489501953,1,True
+2472,data\test\mosquito\2472.wav,r2016-08-16_09.42.21.628.wav_u2016-08-16_11.21.13.645297.wav,False,1,0.9946474432945251,1,True
+2487,data\test\mosquito\2487.wav,r2016-08-16_09.48.34.418.wav_u2016-08-16_11.21.41.120121.wav,True,1,0.9886263012886047,1,True
+250,data\test\mosquito\250.wav,CDC_An-dirus_labelled_800.wav,True,1,0.9495066404342651,1,True
+2505,data\test\mosquito\2505.wav,r2016-08-16_11.01.24.656.wav_u2016-08-16_12.54.08.162335.wav,True,1,0.9044215083122253,1,True
+2524,data\test\mosquito\2524.wav,LSTMH telinga audio - edited and labelled.wav,True,1,0.9851006865501404,1,True
+2526,data\test\mosquito\2526.wav,LSTMH telinga audio - edited and labelled.wav,True,1,0.9821029901504517,1,True
+253,data\test\mosquito\253.wav,CDC_An-dirus_labelled_800.wav,True,1,0.9821075797080994,1,True
+2530,data\test\mosquito\2530.wav,LSTMH telinga audio - edited and labelled.wav,True,1,0.9830728769302368,1,True
+254,data\test\mosquito\254.wav,CDC_An-dirus_labelled_800.wav,True,1,0.9823487401008606,1,True
+2543,data\test\mosquito\2543.wav,LSTMH telinga audio - edited and labelled.wav,True,1,0.9814693927764893,1,True
+2548,data\test\mosquito\2548.wav,LSTMH telinga audio - edited and labelled.wav,True,1,0.8920896649360657,1,True
+2558,data\test\mosquito\2558.wav,LSTMH telinga audio - edited and labelled.wav,True,1,0.9922182559967041,1,True
+2567,data\test\mosquito\2567.wav,#1002-1011.wav,True,1,0.9911904335021973,1,True
+2568,data\test\mosquito\2568.wav,#1002-1011.wav,True,1,0.9855257868766785,1,True
+257,data\test\mosquito\257.wav,CDC_An-dirus_labelled_800.wav,True,1,0.6206270456314087,1,True
+2587,data\test\mosquito\2587.wav,#1021-1039.wav,True,1,0.9882469773292542,1,True
+2601,data\test\mosquito\2601.wav,#1040-1054.wav,True,1,0.9898980855941772,1,True
+2606,data\test\mosquito\2606.wav,#1040-1054.wav,True,1,0.9852083921432495,1,True
+2615,data\test\mosquito\2615.wav,#1040-1054.wav,True,1,0.9930818676948547,1,True
+2618,data\test\mosquito\2618.wav,#1055-1071.wav,True,1,0.9924103021621704,1,True
+2619,data\test\mosquito\2619.wav,#1055-1071.wav,True,1,0.9861511588096619,1,True
+2626,data\test\mosquito\2626.wav,#1055-1071.wav,True,1,0.9886007905006409,1,True
+2640,data\test\mosquito\2640.wav,#1072-1097.wav,True,1,0.9529924392700195,1,True
+2642,data\test\mosquito\2642.wav,#1072-1097.wav,True,1,0.977952778339386,1,True
+2643,data\test\mosquito\2643.wav,#1072-1097.wav,True,1,0.9817132353782654,1,True
+2645,data\test\mosquito\2645.wav,#1072-1097.wav,True,1,0.9808472990989685,1,True
+2646,data\test\mosquito\2646.wav,#1072-1097.wav,True,1,0.9695035219192505,1,True
+2650,data\test\mosquito\2650.wav,#1072-1097.wav,True,1,0.9385462403297424,1,True
+2658,data\test\mosquito\2658.wav,#1072-1097.wav,True,1,0.9771586656570435,1,True
+2667,data\test\mosquito\2667.wav,#1103-1114.wav,True,1,0.980243444442749,1,True
+2670,data\test\mosquito\2670.wav,#1103-1114.wav,True,1,0.9792482852935791,1,True
+2673,data\test\mosquito\2673.wav,#1103-1114.wav,True,1,0.9782689213752747,1,True
+2674,data\test\mosquito\2674.wav,#1103-1114.wav,True,1,0.9709247350692749,1,True
+269,data\test\mosquito\269.wav,CDC_An-farauti_labelled_800.wav,True,1,0.8369525671005249,1,True
+2690,data\test\mosquito\2690.wav,#1127-1141.wav,True,1,0.9905327558517456,1,True
+2699,data\test\mosquito\2699.wav,#1127-1141.wav,True,1,0.950070321559906,1,True
+2703,data\test\mosquito\2703.wav,#114-124.wav,True,1,0.9692131876945496,1,True
+2706,data\test\mosquito\2706.wav,#114-124.wav,True,1,0.9725062251091003,1,True
+2711,data\test\mosquito\2711.wav,#1142-1159.wav,True,1,0.9786708950996399,1,True
+2712,data\test\mosquito\2712.wav,#1142-1159.wav,True,1,0.9682708978652954,1,True
+2716,data\test\mosquito\2716.wav,#1142-1159.wav,True,1,0.9896864295005798,1,True
+2719,data\test\mosquito\2719.wav,#1142-1159.wav,True,1,0.984666109085083,1,True
+2735,data\test\mosquito\2735.wav,#1160-1177.wav,True,1,0.9767447113990784,1,True
+2744,data\test\mosquito\2744.wav,#1160-1177.wav,True,1,0.9487065076828003,1,True
+2750,data\test\mosquito\2750.wav,#1188-1203.wav,True,1,0.9862585067749023,1,True
+2751,data\test\mosquito\2751.wav,#1188-1203.wav,True,1,0.9777638912200928,1,True
+2752,data\test\mosquito\2752.wav,#1188-1203.wav,True,1,0.9665493965148926,1,True
+2755,data\test\mosquito\2755.wav,#1188-1203.wav,True,1,0.9397570490837097,1,True
+2758,data\test\mosquito\2758.wav,#1188-1203.wav,True,1,0.9877384901046753,1,True
+2760,data\test\mosquito\2760.wav,#1188-1203.wav,True,1,0.9834467768669128,1,True
+2772,data\test\mosquito\2772.wav,#1204-1221.wav,True,1,0.4370392858982086,0,False
+2776,data\test\mosquito\2776.wav,#1204-1221.wav,True,1,0.32676583528518677,0,False
+2777,data\test\mosquito\2777.wav,#1204-1221.wav,True,1,0.16395987570285797,0,False
+2786,data\test\mosquito\2786.wav,#1222-1239.wav,True,1,0.5453680157661438,1,True
+279,data\test\mosquito\279.wav,CDC_An-freeborni_labelled_800.wav,True,1,0.9070168733596802,1,True
+2792,data\test\mosquito\2792.wav,#1222-1239.wav,True,1,0.5494844317436218,1,True
+2794,data\test\mosquito\2794.wav,#1222-1239.wav,True,1,0.40591105818748474,0,False
+2800,data\test\mosquito\2800.wav,#1240-1257.wav,True,1,0.9120734930038452,1,True
+2805,data\test\mosquito\2805.wav,#1240-1257.wav,True,1,0.7556667327880859,1,True
+2808,data\test\mosquito\2808.wav,#1240-1257.wav,True,1,0.9416879415512085,1,True
+2809,data\test\mosquito\2809.wav,#1240-1257.wav,True,1,0.13155753910541534,0,False
+2814,data\test\mosquito\2814.wav,#1240-1257.wav,True,1,0.08221693336963654,0,False
+2815,data\test\mosquito\2815.wav,#1240-1257.wav,True,1,0.15409089624881744,0,False
+2823,data\test\mosquito\2823.wav,#1258-1267.wav,True,1,0.9872724413871765,1,True
+2832,data\test\mosquito\2832.wav,#1258-1267.wav,True,1,0.9680384397506714,1,True
+2836,data\test\mosquito\2836.wav,#1268-1279.wav,True,1,0.9808695316314697,1,True
+2842,data\test\mosquito\2842.wav,#1268-1279.wav,True,1,0.9696490168571472,1,True
+2852,data\test\mosquito\2852.wav,#1280-1295.wav,True,1,0.9537565112113953,1,True
+2865,data\test\mosquito\2865.wav,#1296-1312.wav,True,1,0.9911788105964661,1,True
+2866,data\test\mosquito\2866.wav,#1296-1312.wav,True,1,0.9800522327423096,1,True
+2868,data\test\mosquito\2868.wav,#1296-1312.wav,True,1,0.9542948603630066,1,True
+2876,data\test\mosquito\2876.wav,#1296-1312.wav,True,1,0.908507227897644,1,True
+2878,data\test\mosquito\2878.wav,#1313-1334.wav,True,1,0.9857234358787537,1,True
+2880,data\test\mosquito\2880.wav,#1313-1334.wav,True,1,0.9841905236244202,1,True
+2883,data\test\mosquito\2883.wav,#1313-1334.wav,True,1,0.988555371761322,1,True
+2886,data\test\mosquito\2886.wav,#1313-1334.wav,True,1,0.9685256481170654,1,True
+2890,data\test\mosquito\2890.wav,#1313-1334.wav,True,1,0.9756072759628296,1,True
+2892,data\test\mosquito\2892.wav,#1313-1334.wav,True,1,0.9843239784240723,1,True
+290,data\test\mosquito\290.wav,CDC_An-freeborni_labelled_800.wav,True,1,0.9032964706420898,1,True
+2904,data\test\mosquito\2904.wav,#1335-1369.wav,True,1,0.7106560468673706,1,True
+2905,data\test\mosquito\2905.wav,#1335-1369.wav,True,1,0.9834397435188293,1,True
+2907,data\test\mosquito\2907.wav,#1335-1369.wav,True,1,0.9731535315513611,1,True
+2914,data\test\mosquito\2914.wav,#1335-1369.wav,True,1,0.9647812247276306,1,True
+292,data\test\mosquito\292.wav,CDC_An-freeborni_labelled_800.wav,True,1,0.7853212952613831,1,True
+2926,data\test\mosquito\2926.wav,#1335-1369.wav,True,1,0.976885974407196,1,True
+2930,data\test\mosquito\2930.wav,#1335-1369.wav,True,1,0.9417697787284851,1,True
+2940,data\test\mosquito\2940.wav,#1370-1393.wav,True,1,0.9828000068664551,1,True
+2941,data\test\mosquito\2941.wav,#1370-1393.wav,True,1,0.9817187190055847,1,True
+2945,data\test\mosquito\2945.wav,#1370-1393.wav,True,1,0.9700671434402466,1,True
+2950,data\test\mosquito\2950.wav,#1370-1393.wav,True,1,0.9727261066436768,1,True
+2958,data\test\mosquito\2958.wav,#1370-1393.wav,True,1,0.9843561053276062,1,True
+2960,data\test\mosquito\2960.wav,#1394-1413.wav,True,1,0.9730026125907898,1,True
+2961,data\test\mosquito\2961.wav,#1394-1413.wav,True,1,0.9585046172142029,1,True
+2963,data\test\mosquito\2963.wav,#1394-1413.wav,True,1,0.9884243011474609,1,True
+2967,data\test\mosquito\2967.wav,#1394-1413.wav,True,1,0.9717018604278564,1,True
+2974,data\test\mosquito\2974.wav,#1394-1413.wav,True,1,0.9800381064414978,1,True
+2986,data\test\mosquito\2986.wav,#151-173.wav,True,1,0.9835314750671387,1,True
+299,data\test\mosquito\299.wav,CDC_An-freeborni_labelled_800.wav,True,1,0.8106875419616699,1,True
+2990,data\test\mosquito\2990.wav,#151-173.wav,True,1,0.9775481820106506,1,True
+2995,data\test\mosquito\2995.wav,#209-219.wav,True,1,0.9811421036720276,1,True
+301,data\test\mosquito\301.wav,CDC_An-freeborni_labelled_800.wav,True,1,0.9691905975341797,1,True
+3011,data\test\mosquito\3011.wav,#26-60.wav,True,1,0.03797529637813568,0,False
+3014,data\test\mosquito\3014.wav,#26-60.wav,True,1,0.9680363535881042,1,True
+3015,data\test\mosquito\3015.wav,#26-60.wav,True,1,0.9537168145179749,1,True
+3021,data\test\mosquito\3021.wav,#26-60.wav,True,1,0.9629202485084534,1,True
+3027,data\test\mosquito\3027.wav,#26-60.wav,True,1,0.9266484379768372,1,True
+3031,data\test\mosquito\3031.wav,#26-60.wav,True,1,0.9617003202438354,1,True
+3034,data\test\mosquito\3034.wav,#26-60.wav,True,1,0.9787787795066833,1,True
+3038,data\test\mosquito\3038.wav,#26-60.wav,True,1,0.8686279058456421,1,True
+304,data\test\mosquito\304.wav,CDC_An-freeborni_labelled_800.wav,True,1,0.7754226326942444,1,True
+3043,data\test\mosquito\3043.wav,#295-312.wav,True,1,0.9828383922576904,1,True
+3049,data\test\mosquito\3049.wav,#295-312.wav,True,1,0.9896117448806763,1,True
+3051,data\test\mosquito\3051.wav,#295-312.wav,True,1,0.9813117384910583,1,True
+3053,data\test\mosquito\3053.wav,#295-312.wav,True,1,0.989859402179718,1,True
+3055,data\test\mosquito\3055.wav,#295-312.wav,True,1,0.9934414625167847,1,True
+3059,data\test\mosquito\3059.wav,#349-357.wav,True,1,0.9860084652900696,1,True
+3060,data\test\mosquito\3060.wav,#349-357.wav,True,1,0.9834954142570496,1,True
+3065,data\test\mosquito\3065.wav,#359-379.wav,True,1,0.9869697093963623,1,True
+3067,data\test\mosquito\3067.wav,#359-379.wav,True,1,0.9880407452583313,1,True
+3073,data\test\mosquito\3073.wav,#359-379.wav,True,1,0.9899011254310608,1,True
+3081,data\test\mosquito\3081.wav,#359-379.wav,True,1,0.984577476978302,1,True
+3082,data\test\mosquito\3082.wav,#359-379.wav,True,1,0.9822205901145935,1,True
+3102,data\test\mosquito\3102.wav,#380-406.wav,True,1,0.9832668304443359,1,True
+3111,data\test\mosquito\3111.wav,#407-422.wav,True,1,0.9886802434921265,1,True
+3112,data\test\mosquito\3112.wav,#407-422.wav,True,1,0.951946496963501,1,True
+3117,data\test\mosquito\3117.wav,#407-422.wav,True,1,0.9917416572570801,1,True
+3119,data\test\mosquito\3119.wav,#407-422.wav,True,1,0.9495801329612732,1,True
+3122,data\test\mosquito\3122.wav,#407-422.wav,True,1,0.9905603528022766,1,True
+3124,data\test\mosquito\3124.wav,#407-422.wav,True,1,0.9929243326187134,1,True
+3125,data\test\mosquito\3125.wav,#407-422.wav,True,1,0.9797459244728088,1,True
+3128,data\test\mosquito\3128.wav,#423-487.wav,True,1,0.9837289452552795,1,True
+313,data\test\mosquito\313.wav,CDC_An-freeborni_labelled_800.wav,True,1,0.9730163812637329,1,True
+3133,data\test\mosquito\3133.wav,#423-487.wav,True,1,0.9824405312538147,1,True
+3139,data\test\mosquito\3139.wav,#423-487.wav,True,1,0.9782272577285767,1,True
+3143,data\test\mosquito\3143.wav,#423-487.wav,True,1,0.9866819381713867,1,True
+3144,data\test\mosquito\3144.wav,#423-487.wav,True,1,0.9390015602111816,1,True
+3148,data\test\mosquito\3148.wav,#423-487.wav,True,1,0.9867988228797913,1,True
+3152,data\test\mosquito\3152.wav,#423-487.wav,True,1,0.9828962683677673,1,True
+3154,data\test\mosquito\3154.wav,#423-487.wav,True,1,0.9839333295822144,1,True
+3161,data\test\mosquito\3161.wav,#423-487.wav,True,1,0.9757117033004761,1,True
+3164,data\test\mosquito\3164.wav,#423-487.wav,True,1,0.988532304763794,1,True
+3171,data\test\mosquito\3171.wav,#423-487.wav,True,1,0.9755586981773376,1,True
+3173,data\test\mosquito\3173.wav,#423-487.wav,True,1,0.9771719574928284,1,True
+3178,data\test\mosquito\3178.wav,#423-487.wav,True,1,0.9839359521865845,1,True
+3182,data\test\mosquito\3182.wav,#423-487.wav,True,1,0.9864490628242493,1,True
+3189,data\test\mosquito\3189.wav,#489-495.wav,True,1,0.9913591146469116,1,True
+319,data\test\mosquito\319.wav,CDC_An-freeborni_labelled_800.wav,True,1,0.9396179914474487,1,True
+3201,data\test\mosquito\3201.wav,#496-510.wav,True,1,0.9835472702980042,1,True
+3203,data\test\mosquito\3203.wav,#496-510.wav,True,1,0.9771561622619629,1,True
+321,data\test\mosquito\321.wav,CDC_An-freeborni_labelled_800.wav,True,1,0.8990086317062378,1,True
+3211,data\test\mosquito\3211.wav,#511-526.wav,True,1,0.9758308529853821,1,True
+3212,data\test\mosquito\3212.wav,#511-526.wav,True,1,0.981212317943573,1,True
+3214,data\test\mosquito\3214.wav,#511-526.wav,True,1,0.9836162328720093,1,True
+3217,data\test\mosquito\3217.wav,#511-526.wav,True,1,0.983134388923645,1,True
+3218,data\test\mosquito\3218.wav,#511-526.wav,True,1,0.9753095507621765,1,True
+3228,data\test\mosquito\3228.wav,#527-539.wav,True,1,0.9811751246452332,1,True
+3229,data\test\mosquito\3229.wav,#527-539.wav,True,1,0.9817335605621338,1,True
+3230,data\test\mosquito\3230.wav,#527-539.wav,True,1,0.9845378398895264,1,True
+3233,data\test\mosquito\3233.wav,#527-539.wav,True,1,0.9313848614692688,1,True
+3234,data\test\mosquito\3234.wav,#527-539.wav,True,1,0.9831904172897339,1,True
+3246,data\test\mosquito\3246.wav,#540-576.wav,True,1,0.9924489259719849,1,True
+3249,data\test\mosquito\3249.wav,#540-576.wav,True,1,0.9897246360778809,1,True
+3251,data\test\mosquito\3251.wav,#540-576.wav,True,1,0.9880632758140564,1,True
+3253,data\test\mosquito\3253.wav,#540-576.wav,True,1,0.9916187524795532,1,True
+3255,data\test\mosquito\3255.wav,#540-576.wav,True,1,0.9864428043365479,1,True
+3258,data\test\mosquito\3258.wav,#540-576.wav,True,1,0.9899681806564331,1,True
+3259,data\test\mosquito\3259.wav,#540-576.wav,True,1,0.9847676157951355,1,True
+3263,data\test\mosquito\3263.wav,#540-576.wav,True,1,0.994709849357605,1,True
+3266,data\test\mosquito\3266.wav,#540-576.wav,True,1,0.991468071937561,1,True
+3267,data\test\mosquito\3267.wav,#540-576.wav,True,1,0.9910444021224976,1,True
+3269,data\test\mosquito\3269.wav,#540-576.wav,True,1,0.9415515661239624,1,True
+3274,data\test\mosquito\3274.wav,#577-599.wav,True,1,0.9857352375984192,1,True
+3277,data\test\mosquito\3277.wav,#577-599.wav,True,1,0.9783586859703064,1,True
+3288,data\test\mosquito\3288.wav,#577-599.wav,True,1,0.9930247068405151,1,True
+329,data\test\mosquito\329.wav,CDC_An-funestus_labelled_800.wav,True,1,0.9716504216194153,1,True
+3293,data\test\mosquito\3293.wav,#600-609.wav,True,1,0.9463687539100647,1,True
+330,data\test\mosquito\330.wav,CDC_An-funestus_labelled_800.wav,True,1,0.9801303148269653,1,True
+3301,data\test\mosquito\3301.wav,#600-609.wav,True,1,0.9898009896278381,1,True
+333,data\test\mosquito\333.wav,CDC_An-funestus_labelled_800.wav,True,1,0.980480432510376,1,True
+3336,data\test\mosquito\3336.wav,#658-696.wav,True,1,0.9856151342391968,1,True
+3340,data\test\mosquito\3340.wav,#658-696.wav,True,1,0.9907264709472656,1,True
+3348,data\test\mosquito\3348.wav,#658-696.wav,True,1,0.9801205992698669,1,True
+3349,data\test\mosquito\3349.wav,#658-696.wav,True,1,0.716675877571106,1,True
+335,data\test\mosquito\335.wav,CDC_An-funestus_labelled_800.wav,True,1,0.9782836437225342,1,True
+3355,data\test\mosquito\3355.wav,#69-79.wav,True,1,0.9608908891677856,1,True
+3371,data\test\mosquito\3371.wav,#697-730.wav,True,1,0.9838363528251648,1,True
+3379,data\test\mosquito\3379.wav,#697-730.wav,True,1,0.9045678973197937,1,True
+338,data\test\mosquito\338.wav,CDC_An-funestus_labelled_800.wav,True,1,0.9812417030334473,1,True
+3383,data\test\mosquito\3383.wav,#697-730.wav,True,1,0.9903693795204163,1,True
+3385,data\test\mosquito\3385.wav,#697-730.wav,True,1,0.9861100912094116,1,True
+3391,data\test\mosquito\3391.wav,#697-730.wav,True,1,0.9527456164360046,1,True
+3394,data\test\mosquito\3394.wav,#697-730.wav,True,1,0.9407413005828857,1,True
+3403,data\test\mosquito\3403.wav,#731-736.wav,True,1,0.9930043816566467,1,True
+3418,data\test\mosquito\3418.wav,#737-752.wav,True,1,0.9900723695755005,1,True
+3432,data\test\mosquito\3432.wav,#753-781.wav,True,1,0.9948425889015198,1,True
+3440,data\test\mosquito\3440.wav,#753-781.wav,True,1,0.9798121452331543,1,True
+3446,data\test\mosquito\3446.wav,#753-781.wav,True,1,0.9802205562591553,1,True
+3455,data\test\mosquito\3455.wav,#846.wav,False,1,0.9899370670318604,1,True
+3465,data\test\mosquito\3465.wav,#918-938.wav,True,1,0.9801434874534607,1,True
+3468,data\test\mosquito\3468.wav,#918-938.wav,True,1,0.9865787625312805,1,True
+3472,data\test\mosquito\3472.wav,#918-938.wav,True,1,0.9867714047431946,1,True
+3476,data\test\mosquito\3476.wav,#918-938.wav,True,1,0.9634232521057129,1,True
+3478,data\test\mosquito\3478.wav,#918-938.wav,True,1,0.9867766499519348,1,True
+3481,data\test\mosquito\3481.wav,#918-938.wav,True,1,0.9881565570831299,1,True
+3483,data\test\mosquito\3483.wav,#918-938.wav,True,1,0.9824490547180176,1,True
+3485,data\test\mosquito\3485.wav,#918-938.wav,True,1,0.9653573632240295,1,True
+3490,data\test\mosquito\3490.wav,#939-962.wav,True,1,0.977957546710968,1,True
+3492,data\test\mosquito\3492.wav,#939-962.wav,True,1,0.9746185541152954,1,True
+3495,data\test\mosquito\3495.wav,#939-962.wav,True,1,0.9383766651153564,1,True
+3496,data\test\mosquito\3496.wav,#939-962.wav,True,1,0.991479218006134,1,True
+3497,data\test\mosquito\3497.wav,#939-962.wav,True,1,0.9848964214324951,1,True
+3498,data\test\mosquito\3498.wav,#939-962.wav,True,1,0.9394229054450989,1,True
+3504,data\test\mosquito\3504.wav,#939-962.wav,True,1,0.9541358947753906,1,True
+3507,data\test\mosquito\3507.wav,#939-962.wav,True,1,0.9887371063232422,1,True
+3509,data\test\mosquito\3509.wav,#939-962.wav,True,1,0.9924835562705994,1,True
+3512,data\test\mosquito\3512.wav,#963-987.wav,True,1,0.9903433322906494,1,True
+3513,data\test\mosquito\3513.wav,#963-987.wav,True,1,0.9812411665916443,1,True
+3519,data\test\mosquito\3519.wav,#963-987.wav,True,1,0.9843251705169678,1,True
+352,data\test\mosquito\352.wav,CDC_An-gambiae-coluzzii-hybrid_labelled_800.wav,True,1,0.9447214603424072,1,True
+3522,data\test\mosquito\3522.wav,#963-987.wav,True,1,0.9850274324417114,1,True
+3523,data\test\mosquito\3523.wav,#963-987.wav,True,1,0.9842150807380676,1,True
+3536,data\test\mosquito\3536.wav,#97-113.wav,True,1,0.9549858570098877,1,True
+3539,data\test\mosquito\3539.wav,#97-113.wav,True,1,0.9611621499061584,1,True
+354,data\test\mosquito\354.wav,CDC_An-gambiae-coluzzii-hybrid_labelled_800.wav,True,1,0.9792304635047913,1,True
+3541,data\test\mosquito\3541.wav,#97-113.wav,True,1,0.9721490740776062,1,True
+3546,data\test\mosquito\3546.wav,#97-113.wav,True,1,0.9781694412231445,1,True
+3552,data\test\mosquito\3552.wav,#988-1001.wav,True,1,0.9773684740066528,1,True
+3553,data\test\mosquito\3553.wav,#988-1001.wav,True,1,0.9888294339179993,1,True
+3554,data\test\mosquito\3554.wav,#988-1001.wav,True,1,0.9786062836647034,1,True
+3558,data\test\mosquito\3558.wav,#988-1001.wav,True,1,0.9899452328681946,1,True
+366,data\test\mosquito\366.wav,CDC_An-gambiae-coluzzii-hybrid_labelled_800.wav,True,1,0.9090064764022827,1,True
+384,data\test\mosquito\384.wav,CDC_An-gambiae_labelled_800.wav,True,1,0.8383653163909912,1,True
+393,data\test\mosquito\393.wav,CDC_An-gambiae_labelled_800.wav,True,1,0.927810788154602,1,True
+395,data\test\mosquito\395.wav,CDC_An-gambiae_labelled_800.wav,True,1,0.9094753861427307,1,True
+396,data\test\mosquito\396.wav,CDC_An-gambiae_labelled_800.wav,True,1,0.9812900424003601,1,True
+408,data\test\mosquito\408.wav,CDC_An-minimus_labelled_800.wav,True,1,0.9782261252403259,1,True
+410,data\test\mosquito\410.wav,CDC_An-minimus_labelled_800.wav,True,1,0.9767753481864929,1,True
+411,data\test\mosquito\411.wav,CDC_An-minimus_labelled_800.wav,True,1,0.974653422832489,1,True
+412,data\test\mosquito\412.wav,CDC_An-minimus_labelled_800.wav,True,1,0.9704647660255432,1,True
+414,data\test\mosquito\414.wav,CDC_An-minimus_labelled_800.wav,True,1,0.9718524813652039,1,True
+417,data\test\mosquito\417.wav,CDC_An-minimus_labelled_800.wav,True,1,0.9825999140739441,1,True
+4206,data\test\mosquito\4206.wav,larvae_#1-3_rec1.wav,True,1,0.883894681930542,1,True
+4208,data\test\mosquito\4208.wav,larvae_#1-3_rec2.wav,True,1,0.9905508756637573,1,True
+4220,data\test\mosquito\4220.wav,larvae_#12-20_rec1.wav,True,1,0.9621435403823853,1,True
+4226,data\test\mosquito\4226.wav,larvae_#21-26_rec1.wav,True,1,0.85005784034729,1,True
+423,data\test\mosquito\423.wav,CDC_An-quadriannulatus_labelled_800.wav,True,1,0.9839439392089844,1,True
+4232,data\test\mosquito\4232.wav,larvae_#21-26_rec2.wav,True,1,0.8723365664482117,1,True
+4236,data\test\mosquito\4236.wav,larvae_#21-26_rec2.wav,True,1,0.8545649647712708,1,True
+425,data\test\mosquito\425.wav,CDC_An-quadrimaculatus_labelled_800.wav,True,1,0.9726184010505676,1,True
+4250,data\test\mosquito\4250.wav,larvae_#27-31_rec1.wav,True,1,0.8093221783638,1,True
+4253,data\test\mosquito\4253.wav,larvae_#27-31_rec1.wav,True,1,0.5973378419876099,1,True
+4277,data\test\mosquito\4277.wav,larvae_#32-38_rec2.wav,True,1,0.6404691338539124,1,True
+4278,data\test\mosquito\4278.wav,larvae_#32-38_rec2.wav,True,1,0.7578802108764648,1,True
+4280,data\test\mosquito\4280.wav,larvae_#32-38_rec2.wav,True,1,0.4020891785621643,0,False
+4283,data\test\mosquito\4283.wav,larvae_#32-38_rec2.wav,True,1,0.8252504467964172,1,True
+4286,data\test\mosquito\4286.wav,larvae_#32-38_rec3.wav,True,1,0.8897044658660889,1,True
+4287,data\test\mosquito\4287.wav,larvae_#32-38_rec3.wav,True,1,0.9253499507904053,1,True
+4295,data\test\mosquito\4295.wav,larvae_#32-38_rec4.wav,True,1,0.09343348443508148,0,False
+4296,data\test\mosquito\4296.wav,larvae_#32-38_rec4.wav,True,1,0.770922839641571,1,True
+4298,data\test\mosquito\4298.wav,larvae_#39-41_rec1.wav,True,1,0.4903038442134857,0,False
+4308,data\test\mosquito\4308.wav,larvae_#39-41_rec4.wav,True,1,0.3229525685310364,0,False
+431,data\test\mosquito\431.wav,CDC_An-quadrimaculatus_labelled_800.wav,True,1,0.9800905585289001,1,True
+4315,data\test\mosquito\4315.wav,larvae_#4-7_rec2.wav,True,1,0.2868419587612152,0,False
+4320,data\test\mosquito\4320.wav,larvae_#4-7_rec3.wav,True,1,0.9167861342430115,1,True
+4323,data\test\mosquito\4323.wav,larvae_#42-44_rec1.wav,True,1,0.6062527298927307,1,True
+4329,data\test\mosquito\4329.wav,larvae_#42-44_rec3.wav,True,1,0.8732732534408569,1,True
+4332,data\test\mosquito\4332.wav,larvae_#8-11_rec1.wav,True,1,0.9588679075241089,1,True
+4335,data\test\mosquito\4335.wav,larvae_#8-11_rec2.wav,True,1,0.15586821734905243,0,False
+4337,data\test\mosquito\4337.wav,larvae_#8-11_rec2.wav,True,1,0.5564985871315002,1,True
+4340,data\test\mosquito\4340.wav,larvae_#8-11_rec3.wav,True,1,0.9663015604019165,1,True
+436,data\test\mosquito\436.wav,CDC_An-quadrimaculatus_labelled_800.wav,True,1,0.9309797286987305,1,True
+437,data\test\mosquito\437.wav,CDC_An-quadrimaculatus_labelled_800.wav,True,1,0.8274645209312439,1,True
+444,data\test\mosquito\444.wav,CDC_An-quadrimaculatus_labelled_800.wav,True,1,0.9110075831413269,1,True
+451,data\test\mosquito\451.wav,CDC_An-quadrimaculatus_labelled_800.wav,True,1,0.9809693098068237,1,True
+459,data\test\mosquito\459.wav,CDC_An-quadrimaculatus_labelled_800.wav,True,1,0.9756389260292053,1,True
+463,data\test\mosquito\463.wav,CDC_An-quadrimaculatus_labelled_800.wav,True,1,0.9595090746879578,1,True
+470,data\test\mosquito\470.wav,CDC_An-quadrimaculatus_labelled_800.wav,True,1,0.9638402462005615,1,True
+474,data\test\mosquito\474.wav,CDC_An-quadrimaculatus_labelled_800.wav,True,1,0.8917179107666016,1,True
+476,data\test\mosquito\476.wav,CDC_An-quadrimaculatus_labelled_800.wav,True,1,0.9545148611068726,1,True
+483,data\test\mosquito\483.wav,CDC_An-quadrimaculatus_labelled_800.wav,True,1,0.970818281173706,1,True
+489,data\test\mosquito\489.wav,CDC_An-sinensis_labelled_800.wav,True,1,0.7559616565704346,1,True
+494,data\test\mosquito\494.wav,CDC_An-sinensis_labelled_800.wav,True,1,0.9742597341537476,1,True
+495,data\test\mosquito\495.wav,CDC_An-sinensis_labelled_800.wav,True,1,0.9767541885375977,1,True
+501,data\test\mosquito\501.wav,CDC_An-stephensi_labelled_800.wav,True,1,0.8183940649032593,1,True
+513,data\test\mosquito\513.wav,CDC_An-stephensi_labelled_800.wav,True,1,0.9605054259300232,1,True
+514,data\test\mosquito\514.wav,CDC_An-stephensi_labelled_800.wav,True,1,0.9663702845573425,1,True
+524,data\test\mosquito\524.wav,CDC_An-stephensi_labelled_800.wav,True,1,0.9855660796165466,1,True
+529,data\test\mosquito\529.wav,CDC_An-stephensi_labelled_800.wav,True,1,0.9282853007316589,1,True
+538,data\test\mosquito\538.wav,CDC_An-stephensi_labelled_800.wav,True,1,0.962674617767334,1,True
+541,data\test\mosquito\541.wav,CDC_Cx-quinquefasciatus_labelled_800.wav,True,1,0.962654709815979,1,True
+543,data\test\mosquito\543.wav,CDC_Cx-quinquefasciatus_labelled_800.wav,True,1,0.9446256160736084,1,True
+552,data\test\mosquito\552.wav,CDC_Cx-tarsalis_labelled_800.wav,True,1,0.9748752117156982,1,True
+567,data\test\mosquito\567.wav,CDC_Cx-tarsalis_labelled_800.wav,True,1,0.9420026540756226,1,True
+568,data\test\mosquito\568.wav,CDC_Cx-tarsalis_labelled_800.wav,True,1,0.6796263456344604,1,True
+575,data\test\mosquito\575.wav,CDC_Cx-tarsalis_labelled_800.wav,True,1,0.9224604368209839,1,True
+579,data\test\mosquito\579.wav,CDC_Cx-tarsalis_labelled_800.wav,True,1,0.9726683497428894,1,True
+593,data\test\mosquito\593.wav,R4_cleaned recording_12-10-17.wav,True,1,0.9875035881996155,1,True
+598,data\test\mosquito\598.wav,R4_cleaned recording_12-10-17.wav,True,1,0.974247395992279,1,True
+625,data\test\mosquito\625.wav,R4_cleaned recording_13-10-17.wav,True,1,0.989072859287262,1,True
+627,data\test\mosquito\627.wav,R4_cleaned recording_13-10-17.wav,True,1,0.9800665378570557,1,True
+631,data\test\mosquito\631.wav,R4_cleaned recording_13-10-17.wav,True,1,0.990435004234314,1,True
+647,data\test\mosquito\647.wav,R4_cleaned recording_13-10-17.wav,True,1,0.9839334487915039,1,True
+653,data\test\mosquito\653.wav,R4_cleaned recording_13-10-17.wav,True,1,0.9898676872253418,1,True
+655,data\test\mosquito\655.wav,R4_cleaned recording_13-10-17.wav,True,1,0.9891768097877502,1,True
+66,data\test\mosquito\66.wav,CDC_Ae-aegypti_labelled_800.wav,True,1,0.9733474254608154,1,True
+670,data\test\mosquito\670.wav,R4_cleaned recording_16-10-17.wav,True,1,0.9750746488571167,1,True
+673,data\test\mosquito\673.wav,R4_cleaned recording_16-10-17.wav,True,1,0.9945722222328186,1,True
+679,data\test\mosquito\679.wav,R4_cleaned recording_16-10-17.wav,True,1,0.980297327041626,1,True
+681,data\test\mosquito\681.wav,R4_cleaned recording_16-10-17.wav,True,1,0.9905390739440918,1,True
+683,data\test\mosquito\683.wav,R4_cleaned recording_16-10-17.wav,True,1,0.9948272109031677,1,True
+690,data\test\mosquito\690.wav,R4_cleaned recording_16-10-17.wav,True,1,0.9770101308822632,1,True
+70,data\test\mosquito\70.wav,CDC_Ae-aegypti_labelled_800.wav,True,1,0.9648250937461853,1,True
+700,data\test\mosquito\700.wav,R4_cleaned recording_16-10-17.wav,True,1,0.9350600838661194,1,True
+706,data\test\mosquito\706.wav,R4_cleaned recording_16-10-17.wav,True,1,0.984453022480011,1,True
+711,data\test\mosquito\711.wav,R4_cleaned recording_16-10-17.wav,True,1,0.9461981654167175,1,True
+717,data\test\mosquito\717.wav,R4_cleaned recording_16-10-17.wav,True,1,0.9940297603607178,1,True
+738,data\test\mosquito\738.wav,R4_cleaned recording_17-10-17.wav,True,1,0.9807774424552917,1,True
+746,data\test\mosquito\746.wav,R4_cleaned recording_17-10-17.wav,True,1,0.9941284656524658,1,True
+750,data\test\mosquito\750.wav,R4_cleaned recording_17-10-17.wav,True,1,0.9805108904838562,1,True
+754,data\test\mosquito\754.wav,R4_cleaned recording_17-10-17.wav,True,1,0.9793703556060791,1,True
+76,data\test\mosquito\76.wav,CDC_Ae-aegypti_labelled_800.wav,True,1,0.8417398929595947,1,True
+764,data\test\mosquito\764.wav,R4_cleaned recording_17-10-17.wav,True,1,0.9791106581687927,1,True
+766,data\test\mosquito\766.wav,R4_cleaned recording_17-10-17.wav,True,1,0.9792889952659607,1,True
+77,data\test\mosquito\77.wav,CDC_Ae-aegypti_labelled_800.wav,True,1,0.9748826622962952,1,True
+786,data\test\mosquito\786.wav,R4_cleaned recording_17-10-17.wav,True,1,0.9868955016136169,1,True
+79,data\test\mosquito\79.wav,CDC_Ae-aegypti_labelled_800.wav,True,1,0.9732692837715149,1,True
+794,data\test\mosquito\794.wav,R4_cleaned recording_17-10-17.wav,True,1,0.9930579662322998,1,True
+806,data\test\mosquito\806.wav,R4_cleaned recording_17-10-17.wav,True,1,0.99039626121521,1,True
+814,data\test\mosquito\814.wav,R4_cleaned recording_17-10-17.wav,True,1,0.9875172972679138,1,True
+821,data\test\mosquito\821.wav,R4_cleaned recording_18-10-17.wav,True,1,0.9925383925437927,1,True
+84,data\test\mosquito\84.wav,CDC_Ae-aegypti_labelled_800.wav,True,1,0.9778388738632202,1,True
+842,data\test\mosquito\842.wav,R4_cleaned recording_18-10-17.wav,True,1,0.9968596696853638,1,True
+86,data\test\mosquito\86.wav,CDC_Ae-aegypti_labelled_800.wav,True,1,0.9624051451683044,1,True
+87,data\test\mosquito\87.wav,CDC_Ae-albopictus_labelled_800.wav,True,1,0.9325242042541504,1,True
+870,data\test\mosquito\870.wav,R4_cleaned recording_18-10-17.wav,True,1,0.9920935034751892,1,True
+900,data\test\mosquito\900.wav,R4_cleaned recording_18-10-17.wav,True,1,0.9856905341148376,1,True
+914,data\test\mosquito\914.wav,R4_cleaned recording_18-10-17.wav,True,1,0.9677273631095886,1,True
+94,data\test\mosquito\94.wav,CDC_Ae-albopictus_labelled_800.wav,True,1,0.9654476046562195,1,True
+940,data\test\mosquito\940.wav,R4_cleaned recording_TEL_19-10-17.wav,True,1,0.9941195249557495,1,True
+962,data\test\mosquito\962.wav,R4_cleaned recording_TEL_19-10-17.wav,True,1,0.9876378774642944,1,True
+97,data\test\mosquito\97.wav,CDC_Ae-albopictus_labelled_800.wav,True,1,0.9722477197647095,1,True
+986,data\test\mosquito\986.wav,R4_cleaned recording_TEL_19-10-17.wav,True,1,0.9892003536224365,1,True
+992,data\test\mosquito\992.wav,R4_cleaned recording_TEL_19-10-17.wav,True,1,0.8802540302276611,1,True
+994,data\test\mosquito\994.wav,R4_cleaned recording_TEL_19-10-17.wav,True,1,0.9936324954032898,1,True
+996,data\test\mosquito\996.wav,R4_cleaned recording_TEL_19-10-17.wav,True,1,0.9913217425346375,1,True
+1003,data\test\no_mosquito\1003.wav,R4_cleaned recording_TEL_19-10-17.wav,True,0,0.04123019427061081,0,True
+1030,data\test\no_mosquito\1030.wav,R4_cleaned recording_TEL_19-10-17.wav,True,0,0.0071685523726046085,0,True
+1065,data\test\no_mosquito\1065.wav,R4_cleaned recording_TEL_20-10-17.wav,True,0,0.013100430369377136,0,True
+1103,data\test\no_mosquito\1103.wav,R4_cleaned recording_TEL_20-10-17.wav,True,0,0.010402373969554901,0,True
+1107,data\test\no_mosquito\1107.wav,R4_cleaned recording_TEL_20-10-17.wav,True,0,0.008684159256517887,0,True
+1133,data\test\no_mosquito\1133.wav,R4_cleaned recording_TEL_20-10-17.wav,True,0,0.014101468957960606,0,True
+1135,data\test\no_mosquito\1135.wav,R4_cleaned recording_TEL_20-10-17.wav,True,0,0.009943494573235512,0,True
+1139,data\test\no_mosquito\1139.wav,R4_cleaned recording_TEL_20-10-17.wav,True,0,0.011896969750523567,0,True
+1171,data\test\no_mosquito\1171.wav,R4_cleaned recording_TEL_20-10-17.wav,True,0,0.022632300853729248,0,True
+1192,data\test\no_mosquito\1192.wav,R4_cleaned recording_TEL_23-10-17.wav,True,0,0.014305791817605495,0,True
+1202,data\test\no_mosquito\1202.wav,R4_cleaned recording_TEL_23-10-17.wav,True,0,0.00847324077039957,0,True
+1204,data\test\no_mosquito\1204.wav,R4_cleaned recording_TEL_23-10-17.wav,True,0,0.06659973412752151,0,True
+1206,data\test\no_mosquito\1206.wav,R4_cleaned recording_TEL_23-10-17.wav,True,0,0.011320221237838268,0,True
+1208,data\test\no_mosquito\1208.wav,R4_cleaned recording_TEL_23-10-17.wav,True,0,0.009847861714661121,0,True
+1212,data\test\no_mosquito\1212.wav,R4_cleaned recording_TEL_23-10-17.wav,True,0,0.0206146202981472,0,True
+1222,data\test\no_mosquito\1222.wav,R4_cleaned recording_TEL_23-10-17.wav,True,0,0.06556691974401474,0,True
+1238,data\test\no_mosquito\1238.wav,R4_cleaned recording_TEL_23-10-17.wav,True,0,0.24413681030273438,0,True
+1246,data\test\no_mosquito\1246.wav,R4_cleaned recording_TEL_23-10-17.wav,True,0,0.027459777891635895,0,True
+1248,data\test\no_mosquito\1248.wav,R4_cleaned recording_TEL_23-10-17.wav,True,0,0.010559138841927052,0,True
+1280,data\test\no_mosquito\1280.wav,R4_cleaned recording_TEL_23-10-17.wav,True,0,0.015169474296271801,0,True
+1284,data\test\no_mosquito\1284.wav,R4_cleaned recording_TEL_23-10-17.wav,True,0,0.007576710544526577,0,True
+1292,data\test\no_mosquito\1292.wav,R4_cleaned recording_TEL_23-10-17.wav,True,0,0.0034733086358755827,0,True
+1296,data\test\no_mosquito\1296.wav,R4_cleaned recording_TEL_23-10-17.wav,True,0,0.007674865424633026,0,True
+1304,data\test\no_mosquito\1304.wav,R4_cleaned recording_TEL_23-10-17.wav,True,0,0.0028678143862634897,0,True
+1312,data\test\no_mosquito\1312.wav,R4_cleaned recording_TEL_23-10-17.wav,True,0,0.01764318160712719,0,True
+1352,data\test\no_mosquito\1352.wav,R4_cleaned recording_TEL_24-10-17.wav,True,0,0.037324368953704834,0,True
+1355,data\test\no_mosquito\1355.wav,R4_cleaned recording_TEL_24-10-17.wav,True,0,0.004674539901316166,0,True
+1363,data\test\no_mosquito\1363.wav,R4_cleaned recording_TEL_24-10-17.wav,True,0,0.006582446862012148,0,True
+1369,data\test\no_mosquito\1369.wav,R4_cleaned recording_TEL_24-10-17.wav,True,0,0.012664233334362507,0,True
+1373,data\test\no_mosquito\1373.wav,R4_cleaned recording_TEL_24-10-17.wav,True,0,0.008426114916801453,0,True
+1377,data\test\no_mosquito\1377.wav,R4_cleaned recording_TEL_24-10-17.wav,True,0,0.001077950233593583,0,True
+1391,data\test\no_mosquito\1391.wav,R4_cleaned recording_TEL_24-10-17.wav,True,0,0.0019486898090690374,0,True
+1438,data\test\no_mosquito\1438.wav,R4_cleaned recording_TEL_24-10-17.wav,True,0,0.0059453463181853294,0,True
+1458,data\test\no_mosquito\1458.wav,R4_cleaned recording_TEL_24-10-17.wav,True,0,0.008669959381222725,0,True
+1462,data\test\no_mosquito\1462.wav,R4_cleaned recording_TEL_24-10-17.wav,True,0,0.014848903752863407,0,True
+1470,data\test\no_mosquito\1470.wav,R4_cleaned recording_TEL_24-10-17.wav,True,0,0.025533480569720268,0,True
+1482,data\test\no_mosquito\1482.wav,R4_cleaned recording_TEL_24-10-17.wav,True,0,0.011129772290587425,0,True
+1488,data\test\no_mosquito\1488.wav,R4_cleaned recording_TEL_24-10-17.wav,True,0,0.005470701027661562,0,True
+1504,data\test\no_mosquito\1504.wav,R4_cleaned recording_TEL_24-10-17.wav,True,0,0.0026698654983192682,0,True
+1506,data\test\no_mosquito\1506.wav,R4_cleaned recording_TEL_24-10-17.wav,True,0,0.0066311857663095,0,True
+1514,data\test\no_mosquito\1514.wav,R4_cleaned recording_TEL_24-10-17.wav,True,0,0.024999435991048813,0,True
+1536,data\test\no_mosquito\1536.wav,R4_cleaned recording_TEL_24-10-17.wav,True,0,0.0015933969989418983,0,True
+1548,data\test\no_mosquito\1548.wav,R4_cleaned recording_TEL_24-10-17.wav,True,0,0.02021360769867897,0,True
+1556,data\test\no_mosquito\1556.wav,R4_cleaned recording_TEL_24-10-17.wav,True,0,0.004138980992138386,0,True
+1597,data\test\no_mosquito\1597.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.019447334110736847,0,True
+1603,data\test\no_mosquito\1603.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.003853623988106847,0,True
+1613,data\test\no_mosquito\1613.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.0036869000177830458,0,True
+1614,data\test\no_mosquito\1614.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.011464380659162998,0,True
+1616,data\test\no_mosquito\1616.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.014328259974718094,0,True
+1630,data\test\no_mosquito\1630.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.007544538006186485,0,True
+1636,data\test\no_mosquito\1636.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.005338478367775679,0,True
+1642,data\test\no_mosquito\1642.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.011255964636802673,0,True
+1653,data\test\no_mosquito\1653.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.025515666231513023,0,True
+1659,data\test\no_mosquito\1659.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.008511386811733246,0,True
+1661,data\test\no_mosquito\1661.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.003884976264089346,0,True
+1665,data\test\no_mosquito\1665.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.0055229151621460915,0,True
+1669,data\test\no_mosquito\1669.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.01039914321154356,0,True
+1683,data\test\no_mosquito\1683.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.008105134591460228,0,True
+1691,data\test\no_mosquito\1691.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.010378142818808556,0,True
+1695,data\test\no_mosquito\1695.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.010146314278244972,0,True
+1701,data\test\no_mosquito\1701.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.004351057577878237,0,True
+1707,data\test\no_mosquito\1707.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.002870587632060051,0,True
+1709,data\test\no_mosquito\1709.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.04118059575557709,0,True
+1719,data\test\no_mosquito\1719.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.044034264981746674,0,True
+1721,data\test\no_mosquito\1721.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.005661484319716692,0,True
+1723,data\test\no_mosquito\1723.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.009632342495024204,0,True
+1735,data\test\no_mosquito\1735.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.006128477398306131,0,True
+1739,data\test\no_mosquito\1739.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.009888175874948502,0,True
+1749,data\test\no_mosquito\1749.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.011949247680604458,0,True
+1753,data\test\no_mosquito\1753.wav,R4_cleaned recording_TEL_25-10-17.wav,True,0,0.032127805054187775,0,True
+201093,data\test\no_mosquito\201093.wav,#1072-1097.wav,True,0,0.05500657483935356,0,True
+201101,data\test\no_mosquito\201101.wav,#1072-1097.wav,True,0,0.022550038993358612,0,True
+201102,data\test\no_mosquito\201102.wav,#1072-1097.wav,True,0,0.015694867819547653,0,True
+201105,data\test\no_mosquito\201105.wav,#1072-1097.wav,True,0,0.14089690148830414,0,True
+201107,data\test\no_mosquito\201107.wav,#1072-1097.wav,True,0,0.11500775068998337,0,True
+201108,data\test\no_mosquito\201108.wav,#1072-1097.wav,True,0,0.0560096874833107,0,True
+201113,data\test\no_mosquito\201113.wav,#1115-1126.wav,True,0,0.03150567784905434,0,True
+201121,data\test\no_mosquito\201121.wav,#1115-1126.wav,True,0,0.004623554181307554,0,True
+201122,data\test\no_mosquito\201122.wav,#1115-1126.wav,True,0,0.01256520301103592,0,True
+201133,data\test\no_mosquito\201133.wav,#1160-1177.wav,True,0,0.01831868849694729,0,True
+201135,data\test\no_mosquito\201135.wav,#1160-1177.wav,True,0,0.030854420736432076,0,True
+201136,data\test\no_mosquito\201136.wav,#1160-1177.wav,True,0,0.028546836227178574,0,True
+201143,data\test\no_mosquito\201143.wav,#1296-1312.wav,True,0,0.04563102498650551,0,True
+201145,data\test\no_mosquito\201145.wav,#1296-1312.wav,True,0,0.011806097812950611,0,True
+201146,data\test\no_mosquito\201146.wav,#1296-1312.wav,True,0,0.010922842659056187,0,True
+201148,data\test\no_mosquito\201148.wav,#1296-1312.wav,True,0,0.0076712919399142265,0,True
+201154,data\test\no_mosquito\201154.wav,#1296-1312.wav,True,0,0.011913888156414032,0,True
+201155,data\test\no_mosquito\201155.wav,#1296-1312.wav,True,0,0.0027484572492539883,0,True
+201157,data\test\no_mosquito\201157.wav,#1296-1312.wav,True,0,0.009883681312203407,0,True
+201161,data\test\no_mosquito\201161.wav,#1335-1369.wav,True,0,0.003405721392482519,0,True
+201162,data\test\no_mosquito\201162.wav,#1335-1369.wav,True,0,0.0026022568345069885,0,True
+201179,data\test\no_mosquito\201179.wav,#1335-1369.wav,True,0,0.003946694545447826,0,True
+201185,data\test\no_mosquito\201185.wav,#1335-1369.wav,True,0,0.004365149885416031,0,True
+201186,data\test\no_mosquito\201186.wav,#1335-1369.wav,True,0,0.002695317380130291,0,True
+201187,data\test\no_mosquito\201187.wav,#1335-1369.wav,True,0,0.005922584794461727,0,True
+201196,data\test\no_mosquito\201196.wav,#1370-1393.wav,True,0,0.010807259939610958,0,True
+201201,data\test\no_mosquito\201201.wav,#1370-1393.wav,True,0,0.021529052406549454,0,True
+201209,data\test\no_mosquito\201209.wav,#1370-1393.wav,True,0,0.013405758887529373,0,True
+201210,data\test\no_mosquito\201210.wav,#1370-1393.wav,True,0,0.030567655339837074,0,True
+201213,data\test\no_mosquito\201213.wav,#1370-1393.wav,True,0,0.017877517268061638,0,True
+201215,data\test\no_mosquito\201215.wav,#1370-1393.wav,True,0,0.012827528640627861,0,True
+201218,data\test\no_mosquito\201218.wav,#26-60.wav,True,0,0.007265673018991947,0,True
+201220,data\test\no_mosquito\201220.wav,#26-60.wav,True,0,0.026159262284636497,0,True
+201230,data\test\no_mosquito\201230.wav,#26-60.wav,True,0,0.009594964794814587,0,True
+201240,data\test\no_mosquito\201240.wav,#26-60.wav,True,0,0.007135279010981321,0,True
+201243,data\test\no_mosquito\201243.wav,#26-60.wav,True,0,0.007896734401583672,0,True
+201251,data\test\no_mosquito\201251.wav,#423-487.wav,True,0,0.00382677698507905,0,True
+201259,data\test\no_mosquito\201259.wav,#423-487.wav,True,0,0.0053037614561617374,0,True
+201270,data\test\no_mosquito\201270.wav,#423-487.wav,True,0,0.005622968077659607,0,True
+201274,data\test\no_mosquito\201274.wav,#423-487.wav,True,0,0.007016727235168219,0,True
+201284,data\test\no_mosquito\201284.wav,#423-487.wav,True,0,0.005035005044192076,0,True
+201289,data\test\no_mosquito\201289.wav,#423-487.wav,True,0,0.021768495440483093,0,True
+201296,data\test\no_mosquito\201296.wav,#423-487.wav,True,0,0.030384374782443047,0,True
+201297,data\test\no_mosquito\201297.wav,#423-487.wav,True,0,0.007281255908310413,0,True
+201301,data\test\no_mosquito\201301.wav,#423-487.wav,True,0,0.006990694906562567,0,True
+201310,data\test\no_mosquito\201310.wav,#527-539.wav,True,0,0.007110795937478542,0,True
+201311,data\test\no_mosquito\201311.wav,#527-539.wav,True,0,0.004498956259340048,0,True
+201315,data\test\no_mosquito\201315.wav,#527-539.wav,True,0,0.007213656324893236,0,True
+201316,data\test\no_mosquito\201316.wav,#527-539.wav,True,0,0.016123740002512932,0,True
+201319,data\test\no_mosquito\201319.wav,#540-576.wav,True,0,0.009096874855458736,0,True
+201322,data\test\no_mosquito\201322.wav,#540-576.wav,True,0,0.0071395402774214745,0,True
+201324,data\test\no_mosquito\201324.wav,#540-576.wav,True,0,0.007140969857573509,0,True
+201328,data\test\no_mosquito\201328.wav,#540-576.wav,True,0,0.006010078825056553,0,True
+201331,data\test\no_mosquito\201331.wav,#540-576.wav,True,0,0.00644206628203392,0,True
+201336,data\test\no_mosquito\201336.wav,#540-576.wav,True,0,0.012229934334754944,0,True
+201339,data\test\no_mosquito\201339.wav,#540-576.wav,True,0,0.09659035503864288,0,True
+201342,data\test\no_mosquito\201342.wav,#540-576.wav,True,0,0.014807373285293579,0,True
+201348,data\test\no_mosquito\201348.wav,#540-576.wav,True,0,0.01640278659760952,0,True
+201356,data\test\no_mosquito\201356.wav,#658-696.wav,True,0,0.005647095385938883,0,True
+201359,data\test\no_mosquito\201359.wav,#658-696.wav,True,0,0.008841552771627903,0,True
+201366,data\test\no_mosquito\201366.wav,#658-696.wav,True,0,0.0066101741977036,0,True
+201376,data\test\no_mosquito\201376.wav,#658-696.wav,True,0,0.008164763450622559,0,True
+201378,data\test\no_mosquito\201378.wav,#658-696.wav,True,0,0.001601185416802764,0,True
+201392,data\test\no_mosquito\201392.wav,#697-730.wav,True,0,0.001033794367685914,0,True
+201397,data\test\no_mosquito\201397.wav,#697-730.wav,True,0,0.0073913405649363995,0,True
+201409,data\test\no_mosquito\201409.wav,#697-730.wav,True,0,0.0020461755339056253,0,True
+201412,data\test\no_mosquito\201412.wav,#753-781.wav,True,0,0.030965285375714302,0,True
+201418,data\test\no_mosquito\201418.wav,#753-781.wav,True,0,0.04643023759126663,0,True
+201421,data\test\no_mosquito\201421.wav,#753-781.wav,True,0,0.07545545697212219,0,True
+201423,data\test\no_mosquito\201423.wav,#753-781.wav,True,0,0.061724282801151276,0,True
+201437,data\test\no_mosquito\201437.wav,#918-938.wav,True,0,0.009939417243003845,0,True
+201440,data\test\no_mosquito\201440.wav,#918-938.wav,True,0,0.012269627302885056,0,True
+201441,data\test\no_mosquito\201441.wav,#918-938.wav,True,0,0.030871039256453514,0,True
+201448,data\test\no_mosquito\201448.wav,#918-938.wav,True,0,0.007463613525032997,0,True
+201450,data\test\no_mosquito\201450.wav,#918-938.wav,True,0,0.013631551526486874,0,True
+201460,data\test\no_mosquito\201460.wav,#939-962.wav,True,0,0.01483107078820467,0,True
+201466,data\test\no_mosquito\201466.wav,#939-962.wav,True,0,0.005661647766828537,0,True
+201473,data\test\no_mosquito\201473.wav,#939-962.wav,True,0,0.004984816070646048,0,True
+201479,data\test\no_mosquito\201479.wav,#963-987.wav,True,0,0.0673152357339859,0,True
+201487,data\test\no_mosquito\201487.wav,#963-987.wav,True,0,0.012077839113771915,0,True
+201494,data\test\no_mosquito\201494.wav,#963-987.wav,True,0,0.008692759089171886,0,True
+201495,data\test\no_mosquito\201495.wav,#963-987.wav,True,0,0.012500384822487831,0,True
+201500,data\test\no_mosquito\201500.wav,#963-987.wav,True,0,0.002168708248063922,0,True
+201507,data\test\no_mosquito\201507.wav,#97-113.wav,True,0,0.00934236403554678,0,True
+201509,data\test\no_mosquito\201509.wav,#97-113.wav,True,0,0.006111240480095148,0,True
+201510,data\test\no_mosquito\201510.wav,#97-113.wav,True,0,0.009609361179172993,0,True
+201512,data\test\no_mosquito\201512.wav,#97-113.wav,True,0,0.010300510562956333,0,True
+201514,data\test\no_mosquito\201514.wav,#97-113.wav,True,0,0.004244490526616573,0,True
+201519,data\test\no_mosquito\201519.wav,#187-188.wav,True,0,0.02814626321196556,0,True
+201528,data\test\no_mosquito\201528.wav,#600-609.wav,True,0,0.0004705509636551142,0,True
+201541,data\test\no_mosquito\201541.wav,#645-657.wav,True,0,0.002452259184792638,0,True
+201542,data\test\no_mosquito\201542.wav,#645-657.wav,True,0,0.002062801504507661,0,True
+201551,data\test\no_mosquito\201551.wav,#731-736.wav,True,0,0.0013224832946434617,0,True
+201558,data\test\no_mosquito\201558.wav,#1002-1011.wav,True,0,0.002066069981083274,0,True
+201566,data\test\no_mosquito\201566.wav,#1012-1020.wav,True,0,0.006950443144887686,0,True
+201567,data\test\no_mosquito\201567.wav,#1012-1020.wav,True,0,0.01639615371823311,0,True
+201571,data\test\no_mosquito\201571.wav,#1103-1114.wav,True,0,0.020804889500141144,0,True
+201572,data\test\no_mosquito\201572.wav,#1103-1114.wav,True,0,0.012101411819458008,0,True
+201576,data\test\no_mosquito\201576.wav,#1103-1114.wav,True,0,0.008090098388493061,0,True
+201580,data\test\no_mosquito\201580.wav,#1103-1114.wav,True,0,0.009485453367233276,0,True
+201596,data\test\no_mosquito\201596.wav,#1222-1239.wav,True,0,0.003357286797836423,0,True
+201623,data\test\no_mosquito\201623.wav,#496-510.wav,True,0,0.004681151360273361,0,True
+201627,data\test\no_mosquito\201627.wav,#496-510.wav,True,0,0.009145738556981087,0,True
+201644,data\test\no_mosquito\201644.wav,#1268-1279.wav,True,0,0.02622886747121811,0,True
+201651,data\test\no_mosquito\201651.wav,#349-357.wav,True,0,0.008900373242795467,0,True
+201652,data\test\no_mosquito\201652.wav,#349-357.wav,True,0,0.011125773191452026,0,True
+201653,data\test\no_mosquito\201653.wav,#349-357.wav,True,0,0.00333821726962924,0,True
+201655,data\test\no_mosquito\201655.wav,#1204-1221.wav,True,0,0.003323222044855356,0,True
+201657,data\test\no_mosquito\201657.wav,#1204-1221.wav,True,0,0.005833820439875126,0,True
+201663,data\test\no_mosquito\201663.wav,#1204-1221.wav,True,0,0.0033801409881561995,0,True
+201673,data\test\no_mosquito\201673.wav,#1280-1295.wav,True,0,0.015499215573072433,0,True
+201674,data\test\no_mosquito\201674.wav,#1280-1295.wav,True,0,0.016686510294675827,0,True
+201677,data\test\no_mosquito\201677.wav,#1280-1295.wav,True,0,0.00851005595177412,0,True
+201680,data\test\no_mosquito\201680.wav,#1280-1295.wav,True,0,0.014051301404833794,0,True
+201681,data\test\no_mosquito\201681.wav,#1280-1295.wav,True,0,0.025311283767223358,0,True
+201682,data\test\no_mosquito\201682.wav,#1280-1295.wav,True,0,0.02426084317266941,0,True
+201694,data\test\no_mosquito\201694.wav,#1394-1413.wav,True,0,0.005961190443485975,0,True
+201696,data\test\no_mosquito\201696.wav,#1394-1413.wav,True,0,0.027232585474848747,0,True
+201697,data\test\no_mosquito\201697.wav,#1394-1413.wav,True,0,0.011937149800360203,0,True
+201700,data\test\no_mosquito\201700.wav,#1394-1413.wav,True,0,0.010806928388774395,0,True
+201704,data\test\no_mosquito\201704.wav,#1394-1413.wav,True,0,0.00955383013933897,0,True
+201709,data\test\no_mosquito\201709.wav,#1040-1054.wav,True,0,0.012400205247104168,0,True
+201713,data\test\no_mosquito\201713.wav,#1040-1054.wav,True,0,0.0663217306137085,0,True
+201714,data\test\no_mosquito\201714.wav,#1040-1054.wav,True,0,0.006089911796152592,0,True
+201715,data\test\no_mosquito\201715.wav,#1040-1054.wav,True,0,0.05323660373687744,0,True
+201718,data\test\no_mosquito\201718.wav,#1040-1054.wav,True,0,0.01595706306397915,0,True
+201720,data\test\no_mosquito\201720.wav,#1040-1054.wav,True,0,0.008377141319215298,0,True
+201725,data\test\no_mosquito\201725.wav,#151-173.wav,True,0,0.009328595362603664,0,True
+201732,data\test\no_mosquito\201732.wav,#151-173.wav,True,0,0.03322179988026619,0,True
+201734,data\test\no_mosquito\201734.wav,#114-124.wav,True,0,0.9038565158843994,1,False
+201740,data\test\no_mosquito\201740.wav,#114-124.wav,True,0,0.006690917070955038,0,True
+201746,data\test\no_mosquito\201746.wav,#577-599.wav,True,0,0.00349739589728415,0,True
+201762,data\test\no_mosquito\201762.wav,#577-599.wav,True,0,0.01036133337765932,0,True
+201769,data\test\no_mosquito\201769.wav,#1258-1267.wav,True,0,0.015165358781814575,0,True
+201771,data\test\no_mosquito\201771.wav,#1258-1267.wav,True,0,0.013535904698073864,0,True
+201772,data\test\no_mosquito\201772.wav,#1258-1267.wav,True,0,0.010508331470191479,0,True
+201797,data\test\no_mosquito\201797.wav,#1021-1039.wav,True,0,0.0233673807233572,0,True
+201798,data\test\no_mosquito\201798.wav,#1021-1039.wav,True,0,0.023327700793743134,0,True
+201815,data\test\no_mosquito\201815.wav,#359-379.wav,True,0,0.0028051200788468122,0,True
+201819,data\test\no_mosquito\201819.wav,#359-379.wav,True,0,0.008054264821112156,0,True
+201824,data\test\no_mosquito\201824.wav,#359-379.wav,True,0,0.006142174359411001,0,True
+201828,data\test\no_mosquito\201828.wav,#359-379.wav,True,0,0.015653925016522408,0,True
+201846,data\test\no_mosquito\201846.wav,#295-312.wav,True,0,0.0035798209719359875,0,True
+201853,data\test\no_mosquito\201853.wav,#209-219.wav,True,0,0.010440459474921227,0,True
+201858,data\test\no_mosquito\201858.wav,#209-219.wav,True,0,0.003376211039721966,0,True
+201866,data\test\no_mosquito\201866.wav,#988-1001.wav,True,0,0.008067183196544647,0,True
+201867,data\test\no_mosquito\201867.wav,#988-1001.wav,True,0,0.01101312879472971,0,True
+201874,data\test\no_mosquito\201874.wav,#1142-1159.wav,True,0,0.02120407111942768,0,True
+201880,data\test\no_mosquito\201880.wav,#1142-1159.wav,True,0,0.012993727810680866,0,True
+201893,data\test\no_mosquito\201893.wav,#1188-1203.wav,True,0,0.04646243900060654,0,True
+201899,data\test\no_mosquito\201899.wav,#1188-1203.wav,True,0,0.010784612968564034,0,True
+201903,data\test\no_mosquito\201903.wav,#1188-1203.wav,True,0,0.01574191078543663,0,True
+201904,data\test\no_mosquito\201904.wav,#1188-1203.wav,True,0,0.010014099068939686,0,True
+201916,data\test\no_mosquito\201916.wav,#737-752.wav,True,0,0.04219765216112137,0,True
+201918,data\test\no_mosquito\201918.wav,#125-150.wav,True,0,0.032515984028577805,0,True
+201923,data\test\no_mosquito\201923.wav,#125-150.wav,True,0,0.007975681684911251,0,True
+201926,data\test\no_mosquito\201926.wav,#69-79.wav,True,0,0.006817629560828209,0,True
+201931,data\test\no_mosquito\201931.wav,#69-79.wav,True,0,0.008997912518680096,0,True
+201933,data\test\no_mosquito\201933.wav,#69-79.wav,True,0,0.01161850057542324,0,True
+201941,data\test\no_mosquito\201941.wav,#847-862.wav,True,0,0.014081504195928574,0,True
+201942,data\test\no_mosquito\201942.wav,#847-862.wav,True,0,0.008305324241518974,0,True
+201944,data\test\no_mosquito\201944.wav,#847-862.wav,True,0,0.015280552208423615,0,True
+201947,data\test\no_mosquito\201947.wav,#511-526.wav,True,0,0.01599653996527195,0,True
+201949,data\test\no_mosquito\201949.wav,#511-526.wav,True,0,0.01475714985281229,0,True
+201955,data\test\no_mosquito\201955.wav,#511-526.wav,True,0,0.09774170815944672,0,True
+201959,data\test\no_mosquito\201959.wav,#511-526.wav,True,0,0.011985975317656994,0,True
+201960,data\test\no_mosquito\201960.wav,#1127-1141.wav,True,0,0.02915964275598526,0,True
+201962,data\test\no_mosquito\201962.wav,#1127-1141.wav,True,0,0.014802232384681702,0,True
+201968,data\test\no_mosquito\201968.wav,#1127-1141.wav,True,0,0.02037844993174076,0,True
+201969,data\test\no_mosquito\201969.wav,#1127-1141.wav,True,0,0.0057278405874967575,0,True
+201970,data\test\no_mosquito\201970.wav,#1127-1141.wav,True,0,0.04530617222189903,0,True
+201975,data\test\no_mosquito\201975.wav,#1240-1257.wav,True,0,0.03194731846451759,0,True
+201978,data\test\no_mosquito\201978.wav,#1240-1257.wav,True,0,0.0021405708976089954,0,True
+201979,data\test\no_mosquito\201979.wav,#1240-1257.wav,True,0,0.040529265999794006,0,True
+201980,data\test\no_mosquito\201980.wav,#1240-1257.wav,True,0,0.004216933622956276,0,True
+201982,data\test\no_mosquito\201982.wav,#1240-1257.wav,True,0,0.0101188188418746,0,True
+201983,data\test\no_mosquito\201983.wav,#1240-1257.wav,True,0,0.0041343215852975845,0,True
+201989,data\test\no_mosquito\201989.wav,#1240-1257.wav,True,0,0.004984227474778891,0,True
+201995,data\test\no_mosquito\201995.wav,#1098-1102.wav,True,0,0.013162904419004917,0,True
+201999,data\test\no_mosquito\201999.wav,#879-891.wav,True,0,0.014295030385255814,0,True
+202005,data\test\no_mosquito\202005.wav,#380-406.wav,True,0,0.0008272829581983387,0,True
+202014,data\test\no_mosquito\202014.wav,#380-406.wav,True,0,0.026930073276162148,0,True
+202016,data\test\no_mosquito\202016.wav,#380-406.wav,True,0,0.02597101964056492,0,True
+202021,data\test\no_mosquito\202021.wav,#380-406.wav,True,0,0.023452153429389,0,True
+202029,data\test\no_mosquito\202029.wav,#1313-1334.wav,True,0,0.013692561537027359,0,True
+202030,data\test\no_mosquito\202030.wav,#1313-1334.wav,True,0,0.00427208049222827,0,True
+202040,data\test\no_mosquito\202040.wav,#1313-1334.wav,True,0,0.004724482074379921,0,True
+202050,data\test\no_mosquito\202050.wav,#817-827.wav,True,0,0.028233453631401062,0,True
+202054,data\test\no_mosquito\202054.wav,larvae_#1-3_rec1.wav,True,0,0.13613323867321014,0,True
+202056,data\test\no_mosquito\202056.wav,larvae_#1-3_rec1.wav,True,0,0.00455836346372962,0,True
+202061,data\test\no_mosquito\202061.wav,larvae_#1-3_rec3.wav,True,0,0.06070966646075249,0,True
+202062,data\test\no_mosquito\202062.wav,larvae_#1-3_rec3.wav,True,0,0.10703980177640915,0,True
+202066,data\test\no_mosquito\202066.wav,larvae_#12-20_rec1.wav,True,0,0.009746983647346497,0,True
+202067,data\test\no_mosquito\202067.wav,larvae_#12-20_rec1.wav,True,0,0.005035162903368473,0,True
+202073,data\test\no_mosquito\202073.wav,larvae_#21-26_rec1.wav,True,0,0.0460769347846508,0,True
+202082,data\test\no_mosquito\202082.wav,larvae_#21-26_rec2.wav,True,0,0.013742554001510143,0,True
+202083,data\test\no_mosquito\202083.wav,larvae_#21-26_rec2.wav,True,0,0.011105893179774284,0,True
+202087,data\test\no_mosquito\202087.wav,larvae_#21-26_rec3.wav,True,0,0.004878946579992771,0,True
+202088,data\test\no_mosquito\202088.wav,larvae_#21-26_rec3.wav,True,0,0.014721661806106567,0,True
+202095,data\test\no_mosquito\202095.wav,larvae_#21-26_rec4.wav,True,0,0.06354361772537231,0,True
+202101,data\test\no_mosquito\202101.wav,larvae_#27-31_rec1.wav,True,0,0.012235638685524464,0,True
+202102,data\test\no_mosquito\202102.wav,larvae_#27-31_rec1.wav,True,0,0.010225714184343815,0,True
+202108,data\test\no_mosquito\202108.wav,larvae_#27-31_rec3.wav,True,0,0.10614524781703949,0,True
+202119,data\test\no_mosquito\202119.wav,larvae_#32-38_rec1.wav,True,0,0.008386177942156792,0,True
+202120,data\test\no_mosquito\202120.wav,larvae_#32-38_rec1.wav,True,0,0.009941796772181988,0,True
+202122,data\test\no_mosquito\202122.wav,larvae_#32-38_rec1.wav,True,0,0.011835061013698578,0,True
+202125,data\test\no_mosquito\202125.wav,larvae_#32-38_rec2.wav,True,0,0.10921701788902283,0,True
+202128,data\test\no_mosquito\202128.wav,larvae_#32-38_rec2.wav,True,0,0.00809564534574747,0,True
+202129,data\test\no_mosquito\202129.wav,larvae_#32-38_rec2.wav,True,0,0.01314039621502161,0,True
+202131,data\test\no_mosquito\202131.wav,larvae_#32-38_rec2.wav,True,0,0.007739312946796417,0,True
+202132,data\test\no_mosquito\202132.wav,larvae_#32-38_rec3.wav,True,0,0.03816577047109604,0,True
+202138,data\test\no_mosquito\202138.wav,larvae_#32-38_rec3.wav,True,0,0.02215917967259884,0,True
+202139,data\test\no_mosquito\202139.wav,larvae_#32-38_rec4.wav,True,0,0.09532377868890762,0,True
+202140,data\test\no_mosquito\202140.wav,larvae_#32-38_rec4.wav,True,0,0.019260047003626823,0,True
+202144,data\test\no_mosquito\202144.wav,larvae_#32-38_rec4.wav,True,0,0.0083134351298213,0,True
+202145,data\test\no_mosquito\202145.wav,larvae_#32-38_rec4.wav,True,0,0.0080037210136652,0,True
+202146,data\test\no_mosquito\202146.wav,larvae_#32-38_rec4.wav,True,0,0.5547296404838562,1,False
+202149,data\test\no_mosquito\202149.wav,larvae_#39-41_rec1.wav,True,0,0.009200784377753735,0,True
+202152,data\test\no_mosquito\202152.wav,larvae_#39-41_rec2.wav,True,0,0.014033324085175991,0,True
+202154,data\test\no_mosquito\202154.wav,larvae_#39-41_rec3.wav,True,0,0.009622126817703247,0,True
+202160,data\test\no_mosquito\202160.wav,larvae_#4-7_rec1.wav,True,0,0.011450620368123055,0,True
+202161,data\test\no_mosquito\202161.wav,larvae_#4-7_rec1.wav,True,0,0.013482486829161644,0,True
+202165,data\test\no_mosquito\202165.wav,larvae_#4-7_rec2.wav,True,0,0.08009995520114899,0,True
+202171,data\test\no_mosquito\202171.wav,larvae_#42-44_rec1.wav,True,0,0.100831538438797,0,True
+202186,data\test\no_mosquito\202186.wav,larvae_#8-11_rec2.wav,True,0,0.1219823956489563,0,True
+208718,data\test\no_mosquito\208718.wav,2020-11-23_03.27.06.611.wav,True,0,0.14703626930713654,0,True
+218790,data\test\no_mosquito\218790.wav,r2016-05-24_09.38.29.406.wav_u2016-05-25_06.20.23.703674.wav,False,0,0.03423342853784561,0,True
+218791,data\test\no_mosquito\218791.wav,r2016-05-24_09.39.29.445.wav_u2016-05-24_12.45.10.182540.wav,False,0,0.050203584134578705,0,True
+218795,data\test\no_mosquito\218795.wav,r2016-05-24_09.43.29.455.wav_u2016-05-24_12.51.17.005393.wav,False,0,0.07811902463436127,0,True
+218822,data\test\no_mosquito\218822.wav,r2016-05-24_10.21.36.506.wav_u2016-05-25_06.21.38.297630.wav,False,0,0.07110361754894257,0,True
+218823,data\test\no_mosquito\218823.wav,r2016-05-24_10.22.36.547.wav_u2016-05-25_06.21.39.575348.wav,False,0,0.1473797708749771,0,True
+218829,data\test\no_mosquito\218829.wav,r2016-05-24_10.25.32.576.wav_u2016-05-25_06.21.53.258043.wav,False,0,0.08952605724334717,0,True
+218830,data\test\no_mosquito\218830.wav,r2016-05-24_10.26.32.618.wav_u2016-05-25_06.21.58.648404.wav,False,0,0.08161893486976624,0,True
+218838,data\test\no_mosquito\218838.wav,r2016-05-24_11.19.45.158.wav_u2016-05-25_06.22.32.730584.wav,False,0,0.07520398497581482,0,True
+218841,data\test\no_mosquito\218841.wav,r2016-05-24_11.22.50.408.wav_u2016-05-25_06.22.57.155911.wav,False,0,0.06109633669257164,0,True
+218848,data\test\no_mosquito\218848.wav,r2016-05-24_11.30.08.618.wav_u2016-05-25_06.23.40.366222.wav,False,0,0.04132486879825592,0,True
+218859,data\test\no_mosquito\218859.wav,r2016-05-24_11.37.13.966.wav_u2016-05-25_06.24.18.066043.wav,False,0,0.12169722467660904,0,True
+218863,data\test\no_mosquito\218863.wav,r2016-05-24_11.43.58.389.wav_u2016-05-25_06.26.38.622157.wav,False,0,0.04917456954717636,0,True
+218864,data\test\no_mosquito\218864.wav,r2016-05-24_11.44.58.286.wav_u2016-05-25_06.26.48.652502.wav,False,0,0.11562545597553253,0,True
+218865,data\test\no_mosquito\218865.wav,r2016-05-24_11.45.58.542.wav_u2016-05-25_06.26.58.560047.wav,False,0,0.15243421494960785,0,True
+218867,data\test\no_mosquito\218867.wav,r2016-05-24_11.47.58.378.wav_u2016-05-25_06.27.20.829882.wav,False,0,0.10779516398906708,0,True
+218871,data\test\no_mosquito\218871.wav,r2016-05-24_11.52.25.146.wav_u2016-05-25_06.28.38.596470.wav,False,0,0.0969138815999031,0,True
+218878,data\test\no_mosquito\218878.wav,r2016-05-24_11.59.25.166.wav_u2016-05-25_06.30.36.767667.wav,False,0,0.11952777951955795,0,True
+218886,data\test\no_mosquito\218886.wav,r2016-05-24_12.07.12.496.wav_u2016-05-25_06.31.46.408132.wav,False,0,0.08750158548355103,0,True
+218887,data\test\no_mosquito\218887.wav,r2016-05-24_12.08.12.547.wav_u2016-05-25_06.31.53.086416.wav,False,0,0.07422052323818207,0,True
+218908,data\test\no_mosquito\218908.wav,r2016-05-24_12.35.55.497.wav_u2016-05-25_06.38.55.732218.wav,False,0,0.13624870777130127,0,True
+218919,data\test\no_mosquito\218919.wav,r2016-05-24_12.46.18.609.wav_u2016-05-25_06.43.50.805521.wav,False,0,0.10139308124780655,0,True
+218943,data\test\no_mosquito\218943.wav,r2016-05-24_13.06.57.916.wav_u2016-05-25_06.49.57.568859.wav,False,0,0.09301724284887314,0,True
+218964,data\test\no_mosquito\218964.wav,r2016-05-26_09.34.39.032.wav_u2016-05-31_07.01.56.807416.wav,False,0,0.10303119570016861,0,True
+218991,data\test\no_mosquito\218991.wav,r2016-05-26_09.53.43.647.wav_u2016-05-31_07.05.40.965312.wav,False,0,0.05920485779643059,0,True
+219006,data\test\no_mosquito\219006.wav,r2016-05-26_10.05.07.668.wav_u2016-05-31_07.07.07.505636.wav,False,0,0.08826982975006104,0,True
+219007,data\test\no_mosquito\219007.wav,r2016-05-26_10.06.22.485.wav_u2016-05-31_07.07.29.044045.wav,False,0,0.0643700361251831,0,True
+219031,data\test\no_mosquito\219031.wav,r2016-05-26_10.42.09.196.wav_u2016-05-31_07.12.09.076466.wav,False,0,0.03408092260360718,0,True
+219033,data\test\no_mosquito\219033.wav,r2016-05-26_10.44.09.136.wav_u2016-05-31_07.12.21.704024.wav,False,0,0.05655815824866295,0,True
+219034,data\test\no_mosquito\219034.wav,r2016-05-26_10.45.09.175.wav_u2016-05-31_07.12.26.885659.wav,False,0,0.03126067668199539,0,True
+219045,data\test\no_mosquito\219045.wav,r2016-05-26_10.56.40.144.wav_u2016-05-31_07.14.49.905366.wav,False,0,0.039496175944805145,0,True
+219046,data\test\no_mosquito\219046.wav,r2016-05-26_10.57.45.449.wav_u2016-05-31_07.14.54.105455.wav,False,0,0.04020346328616142,0,True
+219050,data\test\no_mosquito\219050.wav,r2016-05-26_11.01.45.455.wav_u2016-05-31_07.15.12.583222.wav,False,0,0.035721879452466965,0,True
+219055,data\test\no_mosquito\219055.wav,r2016-05-26_11.07.10.152.wav_u2016-05-31_07.16.16.403968.wav,False,0,0.03978879377245903,0,True
+219078,data\test\no_mosquito\219078.wav,r2016-05-26_11.56.49.510.wav_u2016-05-31_07.19.00.142156.wav,False,0,0.05130011960864067,0,True
+219079,data\test\no_mosquito\219079.wav,r2016-05-26_11.57.49.559.wav_u2016-05-31_07.19.04.811877.wav,False,0,0.05046006664633751,0,True
+219089,data\test\no_mosquito\219089.wav,r2016-05-26_12.07.08.227.wav_u2016-05-31_07.21.32.183897.wav,False,0,0.07955597341060638,0,True
+219092,data\test\no_mosquito\219092.wav,r2016-05-26_12.10.08.197.wav_u2016-05-31_07.21.48.124348.wav,False,0,0.07599407434463501,0,True
+219097,data\test\no_mosquito\219097.wav,r2016-05-26_12.15.19.241.wav_u2016-05-31_07.22.40.074418.wav,False,0,0.03806982561945915,0,True
+219100,data\test\no_mosquito\219100.wav,r2016-05-26_12.18.24.578.wav_u2016-05-31_07.22.59.603754.wav,False,0,0.043100059032440186,0,True
+219102,data\test\no_mosquito\219102.wav,r2016-05-26_12.20.24.516.wav_u2016-05-31_07.23.16.782621.wav,False,0,0.039225492626428604,0,True
+219115,data\test\no_mosquito\219115.wav,r2016-05-26_12.34.05.127.wav_u2016-05-31_07.24.52.309076.wav,False,0,0.04956583306193352,0,True
+219118,data\test\no_mosquito\219118.wav,r2016-05-26_12.37.18.547.wav_u2016-05-31_07.25.05.662770.wav,False,0,0.037906400859355927,0,True
+219121,data\test\no_mosquito\219121.wav,r2016-05-26_12.40.18.528.wav_u2016-05-31_07.25.25.738839.wav,False,0,0.03544475510716438,0,True
+219124,data\test\no_mosquito\219124.wav,r2016-05-26_12.43.18.589.wav_u2016-05-31_07.25.48.684450.wav,False,0,0.3093220293521881,0,True
+219126,data\test\no_mosquito\219126.wav,r2016-05-26_12.45.18.516.wav_u2016-05-31_07.26.03.498327.wav,False,0,0.039713259786367416,0,True
+219132,data\test\no_mosquito\219132.wav,r2016-05-31_09.44.00.095.wav_u2016-06-02_07.12.24.530639.wav,False,0,0.02080032415688038,0,True
+219135,data\test\no_mosquito\219135.wav,r2016-05-31_09.47.00.264.wav_u2016-06-02_07.12.46.630347.wav,False,0,0.009509282186627388,0,True
+219137,data\test\no_mosquito\219137.wav,r2016-05-31_09.49.00.121.wav_u2016-06-02_07.13.00.050019.wav,False,0,0.08547361940145493,0,True
+219142,data\test\no_mosquito\219142.wav,r2016-05-31_10.02.52.127.wav_u2016-06-02_07.13.40.172303.wav,False,0,0.15292172133922577,0,True
+219146,data\test\no_mosquito\219146.wav,r2016-05-31_10.06.52.099.wav_u2016-06-02_07.14.10.240788.wav,False,0,0.08011233806610107,0,True
+219147,data\test\no_mosquito\219147.wav,r2016-05-31_10.07.52.141.wav_u2016-06-02_07.14.18.178466.wav,False,0,0.07357048988342285,0,True
+219148,data\test\no_mosquito\219148.wav,r2016-05-31_10.08.52.767.wav_u2016-06-02_07.14.24.267420.wav,False,0,0.13405711948871613,0,True
+219152,data\test\no_mosquito\219152.wav,r2016-05-31_10.13.20.408.wav_u2016-06-02_07.14.54.641567.wav,False,0,0.08641970902681351,0,True
+219183,data\test\no_mosquito\219183.wav,r2016-05-31_10.26.46.618.wav_u2016-06-02_07.16.42.995847.wav,False,0,0.07678350806236267,0,True
+219207,data\test\no_mosquito\219207.wav,r2016-05-31_10.43.07.269.wav_u2016-06-02_07.18.43.773003.wav,False,0,0.05485428124666214,0,True
+219265,data\test\no_mosquito\219265.wav,r2016-05-31_11.45.02.447.wav_u2016-06-02_07.23.46.795335.wav,False,0,0.10904247313737869,0,True
+219295,data\test\no_mosquito\219295.wav,r2016-05-31_12.14.01.947.wav_u2016-06-02_07.26.11.502647.wav,False,0,0.13353200256824493,0,True
+219313,data\test\no_mosquito\219313.wav,r2016-05-31_12.24.22.148.wav_u2016-06-02_07.27.34.750871.wav,False,0,0.0871700868010521,0,True
+219320,data\test\no_mosquito\219320.wav,r2016-05-31_12.29.22.116.wav_u2016-06-02_07.28.42.864237.wav,False,0,0.11233891546726227,0,True
+219327,data\test\no_mosquito\219327.wav,r2016-05-31_12.33.34.279.wav_u2016-06-02_07.29.25.366019.wav,False,0,0.07223577052354813,0,True
+219335,data\test\no_mosquito\219335.wav,r2016-05-31_12.41.46.547.wav_u2016-06-02_07.31.20.513580.wav,False,0,0.08759455382823944,0,True
+219340,data\test\no_mosquito\219340.wav,r2016-05-31_12.46.46.460.wav_u2016-06-02_07.31.59.585228.wav,False,0,0.083097904920578,0,True
+219344,data\test\no_mosquito\219344.wav,r2016-05-31_12.50.57.716.wav_u2016-06-02_07.32.33.362405.wav,False,0,0.08802149444818497,0,True
+219358,data\test\no_mosquito\219358.wav,r2016-05-31_13.00.02.968.wav_u2016-06-02_07.33.43.224370.wav,False,0,0.14458179473876953,0,True
+219359,data\test\no_mosquito\219359.wav,r2014-01-01_03.23.41.273.wav_u2016-04-08_12.44.31.548993.wav,False,0,0.10184353590011597,0,True
+219362,data\test\no_mosquito\219362.wav,r2014-02-11_22.25.16.897.wav_u2016-05-20_09.18.32.852718.wav,False,0,0.07863231748342514,0,True
+219366,data\test\no_mosquito\219366.wav,r2014-02-11_22.35.20.311.wav_u2016-05-20_09.20.15.526113.wav,False,0,0.10349028557538986,0,True
+219368,data\test\no_mosquito\219368.wav,r2014-02-11_22.42.34.031.wav_u2016-05-20_09.20.35.085983.wav,False,0,0.12667632102966309,0,True
+219426,data\test\no_mosquito\219426.wav,r2016-04-08_16.21.47.803.wav_u2016-04-08_14.22.16.534868.wav,False,0,0.06565283983945847,0,True
+219431,data\test\no_mosquito\219431.wav,r2016-05-20_09.45.38.381.wav_u2016-05-20_09.16.19.227211.wav,False,0,0.07575848698616028,0,True
+219438,data\test\no_mosquito\219438.wav,r2016-05-20_09.59.26.627.wav_u2016-05-20_09.18.10.504015.wav,False,0,0.06582608819007874,0,True
+219440,data\test\no_mosquito\219440.wav,r2016-05-24_09.37.29.956.wav_u2016-05-25_06.20.09.295492.wav,False,0,0.05138519033789635,0,True
+219453,data\test\no_mosquito\219453.wav,r2016-05-24_09.50.39.340.wav_u2016-05-24_12.52.16.867719.wav,False,0,0.05680907145142555,0,True
+219461,data\test\no_mosquito\219461.wav,r2016-05-24_10.01.35.341.wav_u2016-05-24_12.58.50.183610.wav,False,0,0.07658562809228897,0,True
+219465,data\test\no_mosquito\219465.wav,r2016-05-24_10.05.35.356.wav_u2016-05-24_12.59.32.879279.wav,False,0,0.04946321249008179,0,True
+219467,data\test\no_mosquito\219467.wav,r2016-05-24_10.07.35.287.wav_u2016-05-24_13.01.37.691106.wav,False,0,0.10067405551671982,0,True
+219468,data\test\no_mosquito\219468.wav,r2016-05-24_10.08.35.338.wav_u2016-05-24_13.01.57.208331.wav,False,0,0.07386564463376999,0,True
+219471,data\test\no_mosquito\219471.wav,r2016-05-24_10.12.38.349.wav_u2016-05-24_13.03.29.696919.wav,False,0,0.08471059799194336,0,True
+219489,data\test\no_mosquito\219489.wav,r2016-05-26_09.36.07.796.wav_u2016-05-31_07.24.06.221560.wav,False,0,0.07794901728630066,0,True
+219497,data\test\no_mosquito\219497.wav,r2016-05-26_09.44.07.796.wav_u2016-05-31_07.25.09.440289.wav,False,0,0.056813646107912064,0,True
+219498,data\test\no_mosquito\219498.wav,r2016-05-26_09.45.40.091.wav_u2016-05-31_07.25.17.382077.wav,False,0,0.09310474246740341,0,True
+219499,data\test\no_mosquito\219499.wav,r2016-05-26_09.46.45.396.wav_u2016-05-31_07.25.24.749556.wav,False,0,0.08624877780675888,0,True
+219500,data\test\no_mosquito\219500.wav,r2016-05-26_09.47.45.299.wav_u2016-05-31_07.25.36.820038.wav,False,0,0.042217355221509933,0,True
+219501,data\test\no_mosquito\219501.wav,r2016-05-26_09.48.45.295.wav_u2016-05-31_07.25.47.199292.wav,False,0,0.07683075964450836,0,True
+219505,data\test\no_mosquito\219505.wav,r2016-05-26_09.52.45.316.wav_u2016-05-31_07.26.14.687625.wav,False,0,0.05601310357451439,0,True
+219526,data\test\no_mosquito\219526.wav,r2016-05-26_10.09.29.385.wav_u2016-05-31_07.27.32.334940.wav,False,0,0.03664457052946091,0,True
+219527,data\test\no_mosquito\219527.wav,r2016-05-26_10.10.29.428.wav_u2016-05-31_07.27.36.331973.wav,False,0,0.040224965661764145,0,True
+219531,data\test\no_mosquito\219531.wav,r2016-05-26_10.14.29.455.wav_u2016-05-31_07.27.53.855191.wav,False,0,0.03427216410636902,0,True
+219542,data\test\no_mosquito\219542.wav,r2016-05-26_10.42.07.382.wav_u2016-05-31_07.28.31.173464.wav,False,0,0.05208771675825119,0,True
+219553,data\test\no_mosquito\219553.wav,r2016-05-26_10.53.23.937.wav_u2016-05-31_07.29.21.711208.wav,False,0,0.04043252393603325,0,True
+219555,data\test\no_mosquito\219555.wav,r2016-05-26_10.55.23.879.wav_u2016-05-31_07.29.32.362877.wav,False,0,0.0826125293970108,0,True
+219563,data\test\no_mosquito\219563.wav,r2016-05-26_11.01.44.097.wav_u2016-05-31_07.30.03.599180.wav,False,0,0.04124179109930992,0,True
+219573,data\test\no_mosquito\219573.wav,r2016-05-26_11.10.13.788.wav_u2016-05-31_07.30.54.209725.wav,False,0,0.04383566230535507,0,True
+219577,data\test\no_mosquito\219577.wav,r2016-05-26_11.14.13.817.wav_u2016-05-31_07.31.17.858653.wav,False,0,0.06650546938180923,0,True
+219582,data\test\no_mosquito\219582.wav,r2016-05-26_11.19.36.701.wav_u2016-05-31_07.31.40.726185.wav,False,0,0.04037291184067726,0,True
+219585,data\test\no_mosquito\219585.wav,r2016-05-26_11.22.36.827.wav_u2016-05-31_07.31.53.324800.wav,False,0,0.05308540165424347,0,True
+219587,data\test\no_mosquito\219587.wav,r2016-05-26_11.24.36.766.wav_u2016-05-31_07.32.01.515268.wav,False,0,0.06220834702253342,0,True
+219591,data\test\no_mosquito\219591.wav,r2016-05-26_11.55.52.085.wav_u2016-05-31_07.32.18.606751.wav,False,0,0.0435464084148407,0,True
+219594,data\test\no_mosquito\219594.wav,r2016-05-26_11.58.52.056.wav_u2016-05-31_07.32.31.728763.wav,False,0,0.07280855625867844,0,True
+219595,data\test\no_mosquito\219595.wav,r2016-05-26_11.59.52.048.wav_u2016-05-31_07.32.36.148922.wav,False,0,0.03340207412838936,0,True
+219597,data\test\no_mosquito\219597.wav,r2016-05-26_12.01.52.018.wav_u2016-05-31_07.32.45.710195.wav,False,0,0.03454891964793205,0,True
+219602,data\test\no_mosquito\219602.wav,r2016-05-26_12.07.10.277.wav_u2016-05-31_07.33.07.001524.wav,False,0,0.04599197581410408,0,True
+219604,data\test\no_mosquito\219604.wav,r2016-05-26_12.09.10.266.wav_u2016-05-31_07.33.14.116541.wav,False,0,0.04745186120271683,0,True
+219645,data\test\no_mosquito\219645.wav,r2016-05-26_12.44.20.935.wav_u2016-05-31_07.36.16.862342.wav,False,0,0.041744790971279144,0,True
+219649,data\test\no_mosquito\219649.wav,r2016-05-31_10.01.53.481.wav_u2016-06-02_07.12.00.352948.wav,False,0,0.07930418848991394,0,True
+219651,data\test\no_mosquito\219651.wav,r2016-05-31_10.03.53.568.wav_u2016-06-02_07.12.18.488330.wav,False,0,0.07400988042354584,0,True
+219654,data\test\no_mosquito\219654.wav,r2016-05-31_10.06.53.549.wav_u2016-06-02_07.12.46.934037.wav,False,0,0.08512938022613525,0,True
+219657,data\test\no_mosquito\219657.wav,r2016-05-31_10.09.53.537.wav_u2016-06-02_07.13.16.369830.wav,False,0,0.08626895397901535,0,True
+219665,data\test\no_mosquito\219665.wav,r2016-05-31_10.18.22.060.wav_u2016-06-02_07.14.44.598073.wav,False,0,0.08601831644773483,0,True
+219668,data\test\no_mosquito\219668.wav,r2016-05-31_10.20.22.087.wav_u2016-06-02_07.15.02.537086.wav,False,0,0.11898141354322433,0,True
+219682,data\test\no_mosquito\219682.wav,r2016-05-31_10.33.59.769.wav_u2016-06-02_07.16.50.694829.wav,False,0,0.10022718459367752,0,True
+219685,data\test\no_mosquito\219685.wav,r2016-05-31_10.36.59.698.wav_u2016-06-02_07.17.12.705128.wav,False,0,0.11132816225290298,0,True
+219686,data\test\no_mosquito\219686.wav,r2016-05-31_10.37.59.738.wav_u2016-06-02_07.17.24.179875.wav,False,0,0.1385699361562729,0,True
+219699,data\test\no_mosquito\219699.wav,r2016-05-31_10.46.13.092.wav_u2016-06-02_07.18.43.781499.wav,False,0,0.06775352358818054,0,True
+219720,data\test\no_mosquito\219720.wav,r2016-05-31_11.19.35.936.wav_u2016-06-02_07.19.57.564886.wav,False,0,0.044554200023412704,0,True
+219726,data\test\no_mosquito\219726.wav,r2016-05-31_11.25.35.869.wav_u2016-06-02_07.20.50.839356.wav,False,0,0.10358414053916931,0,True
+219740,data\test\no_mosquito\219740.wav,r2016-05-31_11.37.48.890.wav_u2016-06-02_07.22.39.390928.wav,False,0,0.0738082304596901,0,True
+219744,data\test\no_mosquito\219744.wav,r2016-05-31_11.42.03.510.wav_u2016-06-02_07.23.15.215226.wav,False,0,0.09661915153265,0,True
+219748,data\test\no_mosquito\219748.wav,r2016-05-31_11.46.03.579.wav_u2016-06-02_07.23.49.744348.wav,False,0,0.1027245745062828,0,True
+219749,data\test\no_mosquito\219749.wav,r2016-05-31_11.47.03.469.wav_u2016-06-02_07.23.58.664831.wav,False,0,0.08400038629770279,0,True
+219750,data\test\no_mosquito\219750.wav,r2016-05-31_11.48.03.513.wav_u2016-06-02_07.24.05.434808.wav,False,0,0.07223778963088989,0,True
+219755,data\test\no_mosquito\219755.wav,r2016-05-31_11.53.20.360.wav_u2016-06-02_07.24.53.264712.wav,False,0,0.11578624695539474,0,True
+219769,data\test\no_mosquito\219769.wav,r2016-05-31_12.19.03.546.wav_u2016-06-02_07.27.19.321427.wav,False,0,0.09675465524196625,0,True
+219796,data\test\no_mosquito\219796.wav,r2016-05-31_12.46.48.158.wav_u2016-06-02_07.31.25.585480.wav,False,0,0.04852161929011345,0,True
+219812,data\test\no_mosquito\219812.wav,r2016-07-25_12.13.06.774.wav_u2016-07-25_13.05.57.941277.wav,False,0,0.09181149303913116,0,True
+219814,data\test\no_mosquito\219814.wav,r2016-07-25_12.15.12.111.wav_u2016-07-25_13.07.35.461489.wav,False,0,0.100178062915802,0,True
+219815,data\test\no_mosquito\219815.wav,r2016-07-25_12.16.12.011.wav_u2016-07-25_13.08.02.576733.wav,False,0,0.08032701164484024,0,True
+219824,data\test\no_mosquito\219824.wav,r2016-07-25_12.23.12.084.wav_u2016-07-25_13.10.31.831177.wav,False,0,0.0735110491514206,0,True
+219832,data\test\no_mosquito\219832.wav,r2016-07-25_12.29.16.548.wav_u2016-07-25_13.11.36.483410.wav,False,0,0.12075713276863098,0,True
+219848,data\test\no_mosquito\219848.wav,r2016-07-25_12.38.45.309.wav_u2016-07-25_13.13.20.173255.wav,False,0,0.10289281606674194,0,True
+219875,data\test\no_mosquito\219875.wav,r2016-07-26_09.29.16.847.wav_u2016-07-26_12.51.23.456879.wav,False,0,0.08255056291818619,0,True
+219896,data\test\no_mosquito\219896.wav,r2016-07-26_09.49.50.147.wav_u2016-07-26_12.53.12.224671.wav,False,0,0.08369212597608566,0,True
+219898,data\test\no_mosquito\219898.wav,r2016-07-26_09.51.50.187.wav_u2016-07-26_12.53.34.154143.wav,False,0,0.08781002461910248,0,True
+219906,data\test\no_mosquito\219906.wav,r2016-07-26_10.00.12.168.wav_u2016-07-26_12.56.05.308857.wav,False,0,0.0805741548538208,0,True
+219950,data\test\no_mosquito\219950.wav,IFA_18_10_690_background.wav,False,0,0.0490449033677578,0,True
+219956,data\test\no_mosquito\219956.wav,IFA_21_34_834_background.wav,False,0,0.03343011438846588,0,True
+219958,data\test\no_mosquito\219958.wav,IFA_23_06_886_background.wav,False,0,0.11368614435195923,0,True
+219959,data\test\no_mosquito\219959.wav,IFA_24_17_937_backround.wav,False,0,0.2488798052072525,0,True
+219973,data\test\no_mosquito\219973.wav,IFA_32_14_1254_background.wav,False,0,0.07002539187669754,0,True
+219974,data\test\no_mosquito\219974.wav,IFA_32_40_1280_background.wav,False,0,0.10463251173496246,0,True
+219977,data\test\no_mosquito\219977.wav,IFA_34_19_1339_backgorund_1.wav,False,0,0.0301634781062603,0,True
+219978,data\test\no_mosquito\219978.wav,IFA_34_19_1339_background.wav,False,0,0.031967759132385254,0,True
+219984,data\test\no_mosquito\219984.wav,IFA_38_05_1485_background.wav,False,0,0.04734399542212486,0,True
+219992,data\test\no_mosquito\219992.wav,IFA_42_21_1661_background.wav,False,0,0.08867799490690231,0,True
+220003,data\test\no_mosquito\220003.wav,IFA_49_12_1932_background.wav,False,0,0.04241081699728966,0,True
+220007,data\test\no_mosquito\220007.wav,IFA_52_10_2050_background.wav,False,0,0.0723273754119873,0,True
+220015,data\test\no_mosquito\220015.wav,IFA_59_11_2331_background.wav,False,0,0.1704229712486267,0,True
+220022,data\test\no_mosquito\220022.wav,IFA_64_01_2521_background.wav,False,0,0.05493771284818649,0,True
+220025,data\test\no_mosquito\220025.wav,IFA_65_40_2600_background.wav,False,0,0.08139944821596146,0,True
+220028,data\test\no_mosquito\220028.wav,IFA_68_26_2706_background.wav,False,0,0.10012894123792648,0,True
+220038,data\test\no_mosquito\220038.wav,IFA_85_01_3361_background.wav,False,0,0.0621958002448082,0,True
+222625,data\test\no_mosquito\222625.wav,0023_norm.wav,True,0,0.3326568007469177,0,True
+222632,data\test\no_mosquito\222632.wav,0045_norm.wav,False,0,0.006406264379620552,0,True
+222636,data\test\no_mosquito\222636.wav,0034_norm.wav,True,0,0.12011024355888367,0,True
+222638,data\test\no_mosquito\222638.wav,0030_norm.wav,True,0,0.06283562630414963,0,True
+222653,data\test\no_mosquito\222653.wav,0024_norm.wav,True,0,0.8942509889602661,1,False
+222654,data\test\no_mosquito\222654.wav,0024_norm.wav,True,0,0.05295206606388092,0,True
+222669,data\test\no_mosquito\222669.wav,0021_norm.wav,True,0,0.08267956972122192,0,True
+222677,data\test\no_mosquito\222677.wav,0028_norm.wav,True,0,0.9367183446884155,1,False
+222691,data\test\no_mosquito\222691.wav,0001_norm.wav,False,0,0.33498209714889526,0,True
+222694,data\test\no_mosquito\222694.wav,0004_norm.wav,False,0,0.32336124777793884,0,True
+222701,data\test\no_mosquito\222701.wav,0011_norm.wav,False,0,0.3199903070926666,0,True
+222706,data\test\no_mosquito\222706.wav,0016_norm.wav,False,0,0.312908798456192,0,True
+222709,data\test\no_mosquito\222709.wav,0019_norm.wav,False,0,0.22202157974243164,0,True
+222711,data\test\no_mosquito\222711.wav,0025_norm.wav,False,0,0.18469443917274475,0,True
+2527,data\test\no_mosquito\2527.wav,LSTMH telinga audio - edited and labelled.wav,True,0,0.002481419825926423,0,True
+2529,data\test\no_mosquito\2529.wav,LSTMH telinga audio - edited and labelled.wav,True,0,0.0006197148468345404,0,True
+2544,data\test\no_mosquito\2544.wav,LSTMH telinga audio - edited and labelled.wav,True,0,0.018406646326184273,0,True
+2546,data\test\no_mosquito\2546.wav,LSTMH telinga audio - edited and labelled.wav,True,0,0.09118913114070892,0,True
+608,data\test\no_mosquito\608.wav,R4_cleaned recording_13-10-17.wav,True,0,0.021191490814089775,0,True
+617,data\test\no_mosquito\617.wav,R4_cleaned recording_13-10-17.wav,True,0,0.03202958032488823,0,True
+622,data\test\no_mosquito\622.wav,R4_cleaned recording_13-10-17.wav,True,0,0.006084995809942484,0,True
+640,data\test\no_mosquito\640.wav,R4_cleaned recording_13-10-17.wav,True,0,0.04088679701089859,0,True
+646,data\test\no_mosquito\646.wav,R4_cleaned recording_13-10-17.wav,True,0,0.03114289417862892,0,True
+652,data\test\no_mosquito\652.wav,R4_cleaned recording_13-10-17.wav,True,0,0.05496576800942421,0,True
+662,data\test\no_mosquito\662.wav,R4_cleaned recording_16-10-17.wav,True,0,0.009605124592781067,0,True
+676,data\test\no_mosquito\676.wav,R4_cleaned recording_16-10-17.wav,True,0,0.012760178185999393,0,True
+678,data\test\no_mosquito\678.wav,R4_cleaned recording_16-10-17.wav,True,0,0.019023453816771507,0,True
+701,data\test\no_mosquito\701.wav,R4_cleaned recording_16-10-17.wav,True,0,0.013203125447034836,0,True
+709,data\test\no_mosquito\709.wav,R4_cleaned recording_16-10-17.wav,True,0,0.01593627594411373,0,True
+722,data\test\no_mosquito\722.wav,R4_cleaned recording_16-10-17.wav,True,0,0.07854577898979187,0,True
+724,data\test\no_mosquito\724.wav,R4_cleaned recording_16-10-17.wav,True,0,0.03678520768880844,0,True
+739,data\test\no_mosquito\739.wav,R4_cleaned recording_17-10-17.wav,True,0,0.06710056215524673,0,True
+745,data\test\no_mosquito\745.wav,R4_cleaned recording_17-10-17.wav,True,0,0.0034287485759705305,0,True
+755,data\test\no_mosquito\755.wav,R4_cleaned recording_17-10-17.wav,True,0,0.008672528900206089,0,True
+763,data\test\no_mosquito\763.wav,R4_cleaned recording_17-10-17.wav,True,0,0.008762365207076073,0,True
+783,data\test\no_mosquito\783.wav,R4_cleaned recording_17-10-17.wav,True,0,0.003765556961297989,0,True
+785,data\test\no_mosquito\785.wav,R4_cleaned recording_17-10-17.wav,True,0,0.0053338720463216305,0,True
+797,data\test\no_mosquito\797.wav,R4_cleaned recording_17-10-17.wav,True,0,0.0054232049733400345,0,True
+811,data\test\no_mosquito\811.wav,R4_cleaned recording_17-10-17.wav,True,0,0.00592430867254734,0,True
+815,data\test\no_mosquito\815.wav,R4_cleaned recording_17-10-17.wav,True,0,0.013467857614159584,0,True
+817,data\test\no_mosquito\817.wav,R4_cleaned recording_18-10-17.wav,True,0,0.04011906310915947,0,True
+820,data\test\no_mosquito\820.wav,R4_cleaned recording_18-10-17.wav,True,0,0.007867508567869663,0,True
+824,data\test\no_mosquito\824.wav,R4_cleaned recording_18-10-17.wav,True,0,0.005073120351880789,0,True
+826,data\test\no_mosquito\826.wav,R4_cleaned recording_18-10-17.wav,True,0,0.01924549788236618,0,True
+837,data\test\no_mosquito\837.wav,R4_cleaned recording_18-10-17.wav,True,0,0.0032006632536649704,0,True
+867,data\test\no_mosquito\867.wav,R4_cleaned recording_18-10-17.wav,True,0,0.0127499895170331,0,True
+897,data\test\no_mosquito\897.wav,R4_cleaned recording_18-10-17.wav,True,0,0.006966269109398127,0,True
+913,data\test\no_mosquito\913.wav,R4_cleaned recording_18-10-17.wav,True,0,0.012625198811292648,0,True
+939,data\test\no_mosquito\939.wav,R4_cleaned recording_TEL_19-10-17.wav,True,0,0.011776339262723923,0,True
+949,data\test\no_mosquito\949.wav,R4_cleaned recording_TEL_19-10-17.wav,True,0,0.007952825166285038,0,True
+959,data\test\no_mosquito\959.wav,R4_cleaned recording_TEL_19-10-17.wav,True,0,0.006647265981882811,0,True
+979,data\test\no_mosquito\979.wav,R4_cleaned recording_TEL_19-10-17.wav,True,0,0.036428943276405334,0,True
+985,data\test\no_mosquito\985.wav,R4_cleaned recording_TEL_19-10-17.wav,True,0,0.02454197220504284,0,True

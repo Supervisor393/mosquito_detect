@@ -14,8 +14,8 @@ trash/
 *.tar
 *.tar.gz
 
-*.pth
-*.pt
+models/*.pth
+models/*.pt
 
 __pycache__/
 *.pyc

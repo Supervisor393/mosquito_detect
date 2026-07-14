@@ -1,0 +1,17 @@
+source_dataset,source_class,true_label,samples,mean_mosquito_probability,false_positive_rate,recall
+ESC-50,airplane,0,5,0.15749601100881894,0.0,
+ESC-50,car_horn,0,5,0.4232643633460005,0.6,
+ESC-50,church_bells,0,5,0.046054738014936446,0.0,
+ESC-50,coughing,0,5,0.26620661639608445,0.4,
+ESC-50,crickets,0,5,0.07961588551600773,0.0,
+ESC-50,engine,0,5,0.11575628891587257,0.0,
+ESC-50,insects,0,5,0.02971025177588065,0.0,
+ESC-50,laughing,0,5,0.19859324215067317,0.2,
+ESC-50,train,0,5,0.05806753089030584,0.0,
+ESC-50,wind,0,5,0.1716873069604238,0.0,
+MosquitoSound (Wingbeats),Aedes_aegypti,1,5,0.9427543163299561,,1.0
+MosquitoSound (Wingbeats),Aedes_albopictus,1,5,0.9347385406494141,,1.0
+MosquitoSound (Wingbeats),Anopheles_arabiensis,1,5,0.9267064332962036,,1.0
+MosquitoSound (Wingbeats),Anopheles_gambiae,1,5,0.9337864875793457,,1.0
+MosquitoSound (Wingbeats),Culex_pipiens,1,5,0.9483006000518799,,1.0
+MosquitoSound (Wingbeats),Culex_quinquefasciatus,1,5,0.9313850641250611,,1.0
