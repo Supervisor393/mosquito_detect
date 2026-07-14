@@ -1,0 +1,7 @@
+class_name,class_label
+Aedes_aegypti,0
+Aedes_albopictus,1
+Anopheles_arabiensis,2
+Anopheles_gambiae,3
+Culex_pipiens,4
+Culex_quinquefasciatus,5
